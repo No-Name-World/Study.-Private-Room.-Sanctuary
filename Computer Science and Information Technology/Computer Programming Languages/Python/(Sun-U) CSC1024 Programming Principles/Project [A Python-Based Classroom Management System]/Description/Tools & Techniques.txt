@@ -1,0 +1,9 @@
+Python Version: 3.12.1
+
+ASCII Art: ASCII art is a form of visual art that uses characters from the ASCII standard to create images or stylized text. No specific tool is required to create ASCII art, but creativity and knowledge of ASCII characters are essential.
+
+PrettyTable and tabulate: These are Python libraries used for generating ASCII tables from data. They provide functionality to display tabular data in a visually appealing format within the terminal. To use these libraries, you need to install them using pip (pip install PrettyTable or pip install tabulate) and then import and utilize their functions in your Python code.
+
+File I/O: File input/output operations are fundamental in Python for reading from and writing to files. In the example provided, file writing was done using Python's built-in file-handling capabilities.
+
+Version Specification: 
