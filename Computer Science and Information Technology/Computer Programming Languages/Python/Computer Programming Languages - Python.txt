@@ -1,0 +1,31 @@
+Book Title: Mastering Python for Data Science: Explore the world of data science through Python and learn how to make sense of data (QA76.73.P98 M18 2015EB)
+Edition Details: 1st
+Authors: Samir Medhaven
+Publisher: Packt Pub Ltd
+ISBN-13: 978-1784390150 / 978-1784392628 
+Publication Date: August 31, 2015
+
+
+Book Title: Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter (QA76.73.P98 M15 2022EB)
+Edition Details: 3rd
+Authors: Wes McKinney
+Publisher: O'Reilly Media
+ISBN-13: 978-1098104030
+Publication Date: September 20, 2022
+
+
+Book Title: 
+Edition Details: 
+Authors: 
+Publisher: 
+ISBN-13: 978-
+Publication Date: 
+
+
+Book Title: 
+Edition Details: 
+Authors: 
+Publisher: 
+ISBN-13: 978-
+Publication Date: 
+
