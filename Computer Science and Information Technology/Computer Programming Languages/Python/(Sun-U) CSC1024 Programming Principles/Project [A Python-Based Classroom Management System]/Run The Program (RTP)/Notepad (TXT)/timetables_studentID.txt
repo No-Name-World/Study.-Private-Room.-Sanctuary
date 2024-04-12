@@ -1,4 +1,4 @@
-Subject Code | Place | Time | Date
+Course Code | Course Name | Instructor | Place | Time | Date
 
 
 MPU3112,JC1,3.30 - 5.30,Monday
