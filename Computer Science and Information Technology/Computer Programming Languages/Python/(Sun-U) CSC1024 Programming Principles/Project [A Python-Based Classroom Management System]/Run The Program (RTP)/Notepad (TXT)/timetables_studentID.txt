@@ -1,0 +1,5 @@
+MPU3112,JC1,3.30 - 5.30,Monday
+CSC1024,JC3,8.00 - 10.00,Wednesday
+MPU3122,LT1,10.30 - 12.30, Wednesday
+PMTH003,TR-4-5,8.30 - 10.30, Friday
+PPSY001,TR-4-4,10.30 - 12.30, Friday
