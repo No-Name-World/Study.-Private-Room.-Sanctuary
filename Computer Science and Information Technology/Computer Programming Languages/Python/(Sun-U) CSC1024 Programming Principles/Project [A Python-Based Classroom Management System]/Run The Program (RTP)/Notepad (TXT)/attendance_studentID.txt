@@ -1,8 +1,5 @@
-24001234: Present for CSC1024 (Programming Principles)
-24001234: Present for CSC1024 (Programming Principles)
-24001234: Late (Absent) for MPU3112 (Penghayatan Etika Dan Peradaban)
-24009123: Late (Absent) for MPU3112 (Penghayatan Etika Dan Peradaban)
-24005678: Late (Absent) for MPU3112 (Penghayatan Etika Dan Peradaban)
-24001234: Late (Absent) for MTH1114 (Computer Mathematics)
-24001234: Late (Absent) for MTH1114 (Computer Mathematics)
-24001234: Late (Absent) for SEG1201 (Database Fundamentals)
+Present, John Smith, 1001850, ENG101, Introduction to Literature, May 20, 2024, Friday
+Present, John Smith, 1001850, MAT201, Calculus I, May 21, 2024, Saturday
+Present, John Smith, 1001850, HIS301, World History: Ancient to Modern, May 22, 2024, Sunday
+Absent, John Smith, 1001850, SCI401, Introduction to Biology, May 23, 2024, Monday
+
