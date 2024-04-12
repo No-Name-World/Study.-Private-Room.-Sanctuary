@@ -2,4 +2,3 @@ Present, John Smith, 1001850, ENG101, Introduction to Literature, May 20, 2024, 
 Present, John Smith, 1001850, MAT201, Calculus I, May 21, 2024, Saturday
 Present, John Smith, 1001850, HIS301, World History: Ancient to Modern, May 22, 2024, Sunday
 Absent, John Smith, 1001850, SCI401, Introduction to Biology, May 23, 2024, Monday
-
