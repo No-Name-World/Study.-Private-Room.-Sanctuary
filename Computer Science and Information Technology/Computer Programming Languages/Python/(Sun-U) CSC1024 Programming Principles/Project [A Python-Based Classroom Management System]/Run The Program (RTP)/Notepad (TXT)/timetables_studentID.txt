@@ -1,8 +1,23 @@
-Course Code | Course Name | Instructor | Place | Time | Date
+Course Code: ENG101
+Course Name: Introduction to Literature
+Instructor: Prof. Johnson
+Room Number: Room 101
+Time Slots: Wednesday, 9:00am - 10:30am
 
+Course Code: MAT201
+Course Name: Calculus I
+Instructor: Dr. Lee
+Room Number: Room 201
+Time Slots: Saturday, 9:00am - 10:30am
 
-MPU3112,JC1,3.30 - 5.30,Monday
-CSC1024,JC3,8.00 - 10.00,Wednesday
-MPU3122,LT1,10.30 - 12.30, Wednesday
-PMTH003,TR-4-5,8.30 - 10.30, Friday
-PPSY001,TR-4-4,10.30 - 12.30, Friday
+Course Code: SCI401
+Course Name: Introduction to Biology
+Instructor: Dr. Patel
+Room Number: Room 201
+Time Slots: Monday, 10:45am - 12:15pm
+
+Course Code: HIS301
+Course Name: World History: Ancient to Modern
+Instructor: Prof. Smith
+Room Number: Room 301
+Time Slots: Sunday, 1:00pm - 2:30pm
