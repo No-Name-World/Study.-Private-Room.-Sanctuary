@@ -1,0 +1,267 @@
+ .d88888b.                             888    d8b                          d888   
+d88P" "Y88b                            888    Y8P                         d8888   
+888     888                            888                                  888   
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.          888   
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b         888   
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888         888   
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888         888   
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888       8888888 
+       Y8b                                                                                           
+1. Write a Python program using the while loop that will produce the computational output as below: 
+Starting 
+0 1 2 3 4 5 6 7 8 9  
+Done 
+Answer:
+print("Starting")
+count = 0
+while count < 10:
+    print(count, end=" ")
+    count += 1
+print("\nDone")
+
+
+Explanation: 
+# Print the starting message
+print("Starting")
+
+# Initialize a variable 'count' to 0
+count = 0
+
+# Start a while loop that runs as long as 'count' is less than 10
+while count < 10:
+    # Print the current value of 'count' followed by a space,
+    # 'end=" "' ensures that the next print statement continues on the same line
+    print(count, end=" ")
+
+    # Increment the value of 'count' by 1
+    count += 1
+
+# Print a newline character after the loop to separate from the next output
+print()
+
+# Print "Done" to indicate that the program has finished executing
+print("Done")
+
+
+
+
+
+ .d88888b.                             888    d8b                          .d8888b.  
+d88P" "Y88b                            888    Y8P                         d88P  Y88b 
+888     888                            888                                       888 
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.             .d88P 
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b        .od888P"  
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888       d88P"      
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888       888"       
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888       888888888  
+       Y8b                                                                                                                                                    
+2. Write a Python program using the while loop that will produce the computational output as below: 
+Starting 
+-20 -18 -16 -14 -12 -10 -8 -6 -4 -2  
+Done 
+Answer:
+print("Starting")
+
+number = -20
+
+while number <= -2:
+    print(number, end=' ')
+    number += 2
+
+print("\nDone")
+
+
+Explanation: 
+# Print the starting message
+print("Starting")
+
+# Initialize the starting number
+number = -20
+
+# While loop to iterate from -20 to -2 with a step of 2
+while number <= -2:
+    # Print the current number with a space after it
+    print(number, end=' ')
+    
+    # Increment the number by 2
+    number += 2
+
+# Print "Done" after the loop completes
+print("\nDone")
+
+
+
+
+
+ .d88888b.                             888    d8b                          .d8888b.  
+d88P" "Y88b                            888    Y8P                         d88P  Y88b 
+888     888                            888                                     .d88P 
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.            8888"  
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b            "Y8b. 
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888       888    888 
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888       Y88b  d88P 
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888        "Y8888P"  
+       Y8b                                                                                                                                                             
+3. Write a Python program using the while loop that prompts the user to enter two numbers 'a' and 'b' and calculate 'a' to the power of 'b'. 
+Answer:
+while True:
+    try:
+        a = int(input("Enter the base number (a): "))
+        b = int(input("Enter the exponent (b): "))
+        result = a ** b
+        print(f"{a} to the power of {b} is equal to {result}")
+        break
+    except ValueError:
+        print("Please enter valid numbers for 'a' and 'b'.")
+
+
+Explanation: 
+# Start an infinite loop to continuously prompt the user for input
+while True:
+    try:
+        # Prompt the user to enter the base number 'a' and convert it to an integer
+        a = int(input("Enter the base number (a): "))
+        
+        # Prompt the user to enter the exponent 'b' and convert it to an integer
+        b = int(input("Enter the exponent (b): "))
+        
+        # Calculate 'a' raised to the power of 'b' and store the result
+        result = a ** b
+        
+        # Print the result of 'a' raised to the power of 'b'
+        print(f"{a} to the power of {b} is equal to {result}")
+        
+        # Exit the loop since valid input was provided
+        break
+    
+    # Catch the ValueError exception if the user enters an invalid input
+    except ValueError:
+        # Print an error message and prompt the user to enter valid numbers for 'a' and 'b'
+        print("Please enter valid numbers for 'a' and 'b'.")
+
+
+
+
+
+ .d88888b.                             888    d8b                             d8888  
+d88P" "Y88b                            888    Y8P                            d8P888  
+888     888                            888                                  d8P 888  
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.         d8P  888  
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b       d88   888  
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888       8888888888 
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888             888  
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888             888  
+       Y8b                                                                                                                                                                                                                                             
+4. Write a Python program using the while loop that performs summing an unknown number of numbers until the user types 'DONE', and then the program ends. 
+Answer:
+def main():
+    total = 0
+    
+    while True:
+        num_input = input("Enter a number (or type 'DONE' to finish): ")
+        
+        if num_input == 'DONE':
+            break
+        
+        try:
+            num = float(num_input)
+            total += num
+        except ValueError:
+            print("Invalid input! Please enter a number or 'DONE'.")
+
+    print("The sum of the numbers is:", total)
+
+if __name__ == "__main__":
+    main()
+
+
+Explanation: 
+def main():
+    # Initialize the variable to hold the total sum
+    total = 0
+    
+    # Start an infinite loop
+    while True:
+        # Prompt the user to enter a number or 'DONE' to finish
+        num_input = input("Enter a number (or type 'DONE' to finish): ")
+        
+        # Check if the user input is 'DONE'
+        if num_input == 'DONE':
+            # If 'DONE' is entered, exit the loop
+            break
+        
+        try:
+            # Try to convert the input to a floating-point number
+            num = float(num_input)
+            # If successful, add the number to the total sum
+            total += num
+        except ValueError:
+            # If conversion to float fails, display an error message
+            print("Invalid input! Please enter a number or 'DONE'.")
+
+    # Once the loop exits, print the sum of all the entered numbers
+    print("The sum of the numbers is:", total)
+
+# Execute the main function if this script is run directly
+if __name__ == "__main__":
+    main()
+
+
+
+
+
+ .d88888b.                             888    d8b                         888888888  
+d88P" "Y88b                            888    Y8P                         888        
+888     888                            888                                888        
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.        8888888b.  
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b            "Y88b 
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888              888 
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888       Y88b  d88P 
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888        "Y8888P"  
+       Y8b                                                                                                                                                             
+5. Create a variable called secret_num and set the value to 50. Ask the user to enter a number. 
+While their guess is not the same as the secret_num, tell them if their guess is too low or too high, and ask them to have another guess. 
+If they enter the same value as secret_num, display the message 'Well done, you took [count] attempts'. 
+Answer:
+secret_num = 50
+count = 0
+
+while True:
+    guess = int(input("Guess the secret number: "))
+    count += 1
+    
+    if guess == secret_num:
+        print(f"Well done, you took {count} attempts.")
+        break
+    elif guess < secret_num:
+        print("Too low! Try again.")
+    else:
+        print("Too high! Try again.")
+
+
+Explanation: 
+# Set the secret number
+secret_num = 50
+# Initialize attempt count
+count = 0
+
+# Ask the user to guess the number
+while True:
+    # Get user input for their guess
+    guess = int(input("Guess the secret number: "))
+    # Increment the attempt count
+    count += 1
+    
+    # Check if the guess is correct
+    if guess == secret_num:
+        # If correct, display a congratulatory message along with the number of attempts
+        print(f"Well done, you took {count} attempts.")
+        # Exit the loop as the game is over
+        break
+    # If the guess is too low, provide feedback to the user
+    elif guess < secret_num:
+        print("Too low! Try again.")
+    # If the guess is too high, provide feedback to the user
+    else:
+        print("Too high! Try again.")
+
