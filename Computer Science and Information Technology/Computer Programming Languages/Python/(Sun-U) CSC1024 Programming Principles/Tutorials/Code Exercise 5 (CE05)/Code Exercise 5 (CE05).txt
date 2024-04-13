@@ -1,1 +1,523 @@
+ .d88888b.                             888    d8b                          d888   
+d88P" "Y88b                            888    Y8P                         d8888   
+888     888                            888                                  888   
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.          888   
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b         888   
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888         888   
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888         888   
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888       8888888 
+       Y8b                                                                                           
+1. Write a Python program using the while loop to get an input of a number from the user, then store the input into a list called my_list in incremental order. 
+
+Enter a number: 1.111 
+Enter a number: 2.222 
+Enter a number: 3.333 
+Enter a number: 4.444 
+Enter a number: 5.555 
+my_list = [1.111, 2.222, 3.333, 4.444, 5.555] 
+Answer:
+def main():
+    my_list = []  
+    print("Enter numbers (type 'done' to stop):")
+    while True:
+        num_input = input("Enter a number: ")
+        if num_input.lower() == 'done':
+            break 
+        try:
+            num = float(num_input)
+            my_list.append(num)
+        except ValueError:
+            print("Invalid input. Please enter a valid number.")
+
+    print("my_list =", my_list)
+
+if __name__ == "__main__":
+    main()
+
+
+Explanation: 
+def main():
+    # Initialize an empty list to store the numbers
+    my_list = []  
+    
+    # Prompt the user to enter numbers
+    print("Enter numbers (type 'done' to stop):")
+    
+    # Enter a loop that continues until the user enters 'done'
+    while True:
+        # Get input from the user
+        num_input = input("Enter a number: ")
+        
+        # Check if the user wants to stop entering numbers
+        if num_input.lower() == 'done':
+            break  # Exit the loop if user enters 'done'
+        
+        try:
+            # Convert input to float
+            num = float(num_input)  
+            
+            # Add the number to the list
+            my_list.append(num)  
+        
+        except ValueError:
+            # Handle invalid input (not a number)
+            print("Invalid input. Please enter a valid number.")
+
+    # Print the final list of numbers
+    print("my_list =", my_list)
+
+if __name__ == "__main__":
+    # Call the main function when the script is executed
+    main()
+
+
+
+
+
+ .d88888b.                             888    d8b                          .d8888b.  
+d88P" "Y88b                            888    Y8P                         d88P  Y88b 
+888     888                            888                                       888 
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.             .d88P 
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b        .od888P"  
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888       d88P"      
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888       888"       
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888       888888888  
+       Y8b                                                                                                                                                    
+2. Write a Python program using the while loop to get an input of a number from the user, then store the input into a list called my_list in incremental order. 
+Lastly, calculate the total and average values for the numbers stored in my_list. 
+
+Enter a number: 1.1 
+Enter a number: 2.2 
+Enter a number: 3.3 
+Enter a number: 4.4 
+Enter a number: 5.5 
+my_list = [1.1, 2.2, 3.3, 4.4, 5.5] 
+Total = 16.5 
+Average = 3.3 
+Answer:
+def main():
+    my_list = [] 
+    total = 0 
+    
+    print("Enter numbers (type 'done' to stop):")
+    
+    while True:
+        num_input = input("Enter a number: ")
+        
+        if num_input.lower() == 'done':
+            break
+        
+        try:
+            num = float(num_input) 
+            my_list.append(num) 
+            total += num  
+        
+        except ValueError:
+            print("Invalid input. Please enter a valid number.")
+    
+    if my_list:  
+        average = total / len(my_list)
+    else:
+        average = 0  
+    
+    print("my_list =", my_list)
+    print("Total =", total)
+    print("Average =", average)
+
+if __name__ == "__main__":
+    main()
+
+
+Explanation: 
+def main():
+    # Initialize an empty list to store the numbers
+    my_list = []  
+    
+    # Initialize total to calculate the sum of numbers
+    total = 0  
+    
+    # Prompt the user to enter numbers
+    print("Enter numbers (type 'done' to stop):")
+    
+    # Enter a loop that continues until the user enters 'done'
+    while True:
+        # Get input from the user
+        num_input = input("Enter a number: ")
+        
+        # Check if the user wants to stop entering numbers
+        if num_input.lower() == 'done':
+            break  # Exit the loop if user enters 'done'
+        
+        try:
+            # Convert input to float
+            num = float(num_input)  
+            
+            # Add the number to the list
+            my_list.append(num)  
+            
+            # Add the number to the running total
+            total += num  
+        
+        except ValueError:
+            # Handle invalid input (not a number)
+            print("Invalid input. Please enter a valid number.")
+    
+    # Calculate the average
+    if my_list:  # Check if the list is not empty
+        average = total / len(my_list)
+    else:
+        average = 0  # Set average to 0 if list is empty
+    
+    # Print the final list of numbers
+    print("my_list =", my_list)
+    
+    # Print the total sum of numbers
+    print("Total =", total)
+    
+    # Print the average value
+    print("Average =", average)
+
+if __name__ == "__main__":
+    # Call the main function when the script is executed
+    main()
+
+
+
+
+
+ .d88888b.                             888    d8b                          .d8888b.  
+d88P" "Y88b                            888    Y8P                         d88P  Y88b 
+888     888                            888                                     .d88P 
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.            8888"  
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b            "Y8b. 
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888       888    888 
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888       Y88b  d88P 
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888        "Y8888P"  
+       Y8b                                                                                                                                                             
+3. Write a Python program using the while loop to get an input of a number from the user, then store the input into a list called my_list in incremental order. 
+Lastly, print the content of my_list in decremental order. Except for append() and sort, do not use the built-in list functions to complete the task. 
+
+Enter a number: 1 
+Enter a number: 2 
+Enter a number: 3 
+Enter a number: 4 
+Enter a number: 5 
+forward_list = [1.0, 2.0, 3.0, 4.0, 5.0] 
+reverse_list = [5.0, 4.0, 3.0, 2.0, 1.0] 
+Answer:
+def main():
+    my_list = []
+    print("Enter numbers (type 'done' to stop):")
+    
+    while True:
+        num_input = input("Enter a number: ")
+        
+        if num_input.lower() == 'done':
+            break  
+        
+        try:
+            num = float(num_input)  
+            my_list.append(num)  
+        
+        except ValueError:
+            print("Invalid input. Please enter a valid number.")
+    
+    print("forward_list =", my_list)
+    print("reverse_list =", reverse_list(my_list))
+
+def reverse_list(lst):
+    reversed_list = []
+    
+    for i in range(len(lst) - 1, -1, -1):
+        reversed_list.append(lst[i]) 
+    
+    return reversed_list
+
+if __name__ == "__main__":
+    main()
+
+
+Explanation: 
+def main():
+    # Initialize an empty list to store the numbers
+    my_list = []  
+    
+    # Prompt the user to enter numbers
+    print("Enter numbers (type 'done' to stop):")
+    
+    # Enter a loop that continues until the user enters 'done'
+    while True:
+        # Get input from the user
+        num_input = input("Enter a number: ")
+        
+        # Check if the user wants to stop entering numbers
+        if num_input.lower() == 'done':
+            break  # Exit the loop if user enters 'done'
+        
+        try:
+            # Convert input to float
+            num = float(num_input)  
+            
+            # Add the number to the list
+            my_list.append(num)  
+        
+        except ValueError:
+            # Handle invalid input (not a number)
+            print("Invalid input. Please enter a valid number.")
+    
+    # Print the content of my_list in decremental order
+    print("forward_list =", my_list)
+    print("reverse_list =", reverse_list(my_list))
+
+def reverse_list(lst):
+    # Function to reverse the list without using built-in list functions
+    
+    reversed_list = []  # Initialize an empty list to store the reversed numbers
+    
+    # Iterate through the original list in reverse order
+    for i in range(len(lst) - 1, -1, -1):
+        reversed_list.append(lst[i])  # Add each element to the reversed list
+    
+    return reversed_list
+
+if __name__ == "__main__":
+    main()
+
+
+
+
+
+ .d88888b.                             888    d8b                             d8888  
+d88P" "Y88b                            888    Y8P                            d8P888  
+888     888                            888                                  d8P 888  
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.         d8P  888  
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b       d88   888  
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888       8888888888 
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888             888  
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888             888  
+       Y8b                                                                                                                                                                                                                                             
+4. Write a Python program using the while loop to get an input of a number from the user, then store the input into a list called my_list in incremental order. 
+Lastly, delete the content of my_list one by one in decremental order. 
+Except for append()and del, do not use the built-in list functions to complete the task. 
+
+my_list = [] 
+Enter a number: 1 
+Enter a number: 2 
+Enter a number: 3 
+Enter a number: 4 
+Enter a number: 5 
+my_list = [1.0, 2.0, 3.0, 4.0, 5.0] 
+my_list = [1.0, 2.0, 3.0, 4.0]  
+my_list = [1.0, 2.0, 3.0]  
+my_list = [1.0, 2.0] 
+my_list = [1.0] 
+my_list = [] 
+Answer:
+def main():
+    my_list = []  
+    print("Enter numbers (type 'done' to stop):")
+    
+    while True:
+        num_input = input("Enter a number: ")
+        
+        if num_input.lower() == 'done':
+            break 
+        
+        try:
+            num = float(num_input)  
+            my_list.append(num)  
+        
+        except ValueError:
+            print("Invalid input. Please enter a valid number.")
+    
+    print("my_list =", my_list)
+    
+    while my_list:
+        print("Deleting", my_list[-1])
+        del my_list[-1]  
+    
+    print("my_list =", my_list)
+
+if __name__ == "__main__":
+    main()
+
+
+Explanation: 
+def main():
+    my_list = []  # Initialize an empty list to store the numbers
+    
+    # Prompt the user to enter numbers
+    print("Enter numbers (type 'done' to stop):")
+    
+    # Enter a loop that continues until the user enters 'done'
+    while True:
+        # Get input from the user
+        num_input = input("Enter a number: ")
+        
+        # Check if the user wants to stop entering numbers
+        if num_input.lower() == 'done':
+            break  # Exit the loop if user enters 'done'
+        
+        try:
+            # Convert input to float
+            num = float(num_input)  
+            
+            # Add the number to the list
+            my_list.append(num)  
+        
+        except ValueError:
+            # Handle invalid input (not a number)
+            print("Invalid input. Please enter a valid number.")
+    
+    # Print the content of my_list
+    print("my_list =", my_list)
+    
+    # Delete the content of my_list one by one in decremental order
+    while my_list:
+        print("Deleting", my_list[-1])  # Print the number being deleted
+        del my_list[-1]  # Delete the last element of my_list
+    
+    # Print an empty list after deletion
+    print("my_list =", my_list)
+
+if __name__ == "__main__":
+    main()
+
+
+
+
+
+ .d88888b.                             888    d8b                         888888888  
+d88P" "Y88b                            888    Y8P                         888        
+888     888                            888                                888        
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.        8888888b.  
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b            "Y88b 
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888              888 
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888       Y88b  d88P 
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888        "Y8888P"  
+       Y8b                                                                                                                                                             
+5. Modify the Python program for Question 4 to allow my_list to store multiple data types of data. 
+The data does NOT have to be sorted in this case but is added to the list in the order that the user enters it. 
+
+my_list = []  
+Enter a data: 1  
+Enter a data: SUNWAY  
+Enter a data: UNIVERSITY  
+Enter a data: [1.0, -1, A]  
+Enter a data: 0.1 
+my_list = ['1', 'SUNWAY', 'UNIVERSITY', '[1.0, -1, A]', '0.1']  
+my_list = ['1', 'SUNWAY', 'UNIVERSITY', '[1.0, -1, A]'] 
+my_list = ['1', 'SUNWAY', 'UNIVERSITY'] 
+my_list = ['1', 'SUNWAY'] 
+my_list = ['1'] 
+my_list = [] 
+Answer:
+my_list = []
+lst_index = 0
+print("my_list =", my_list)
+
+while lst_index < 5:
+        num = input("Enter a number: ")
+        my_list.append(num)
+        lst_index = lst_index + 1
+        
+print("my_list =", my_list)
+
+lst_index = lst_index - 1
+while lst_index >= 0:
+    del my_list[lst_index]
+    print("my_list =", my_list)
+    lst_index = lst_index - 1
+    
+
+Explanation: 
+my_list = []  # Initialize an empty list to store the data
+lst_index = 0  # Initialize an index variable to keep track of list elements
+
+print("my_list =", my_list)  # Print the content of my_list (empty)
+
+# Loop to add data to my_list
+while lst_index < 5:  # Continue adding data until lst_index reaches 5
+    num = input("Enter a number: ")  # Prompt the user to enter data
+    my_list.append(num)  # Append the entered data to my_list
+    lst_index = lst_index + 1  # Increment lst_index after adding each element
+
+print("my_list =", my_list)  # Print the content of my_list after adding data
+
+lst_index = lst_index - 1  # Decrement lst_index by 1 to position it at the last index of my_list
+
+# Loop to delete data from my_list in decremental order
+while lst_index >= 0:  # Continue deleting data until lst_index is less than 0
+    del my_list[lst_index]  # Delete the element at the current lst_index
+    print("my_list =", my_list)  # Print the content of my_list after deleting an element
+    lst_index = lst_index - 1  # Decrement lst_index to move to the previous element
+
+
+
+
+
+ .d88888b.                             888    d8b                          .d8888b.  
+d88P" "Y88b                            888    Y8P                         d88P  Y88b 
+888     888                            888                                888        
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.        888d888b.  
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b       888P "Y88b 
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888       888    888 
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888       Y88b  d88P 
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888        "Y8888P"  
+       Y8b                                                                                                                                                             
+6. Modify the Python program for Question 5 to allow my_list data to be deleted if a list index is an even number when decrementing the list index in a loop. 
+
+my_list = []  
+Enter a data: A  
+Enter a data: B  
+Enter a data: 1  
+Enter a data: 2  
+Enter a data: HELLO 
+my_list = ['A', 'B', '1', '2', 'HELLO']  
+my_list = ['A', 'B', '1', '2']  
+my_list = ['A', 'B', '2'] 
+my_list = ['B', '2']
+Answer:
+my_list = []
+lst_index = 0
+print("my_list =", my_list)
+
+while lst_index < 5:
+        num = input("Enter a number: ")
+        my_list.append(num)
+        lst_index = lst_index + 1
+        
+print("my_list =", my_list)
+
+lst_index = lst_index - 1
+while lst_index >= 0:
+    if lst_index % 2 == 0:
+        del my_list[lst_index]
+        print("my_list =", my_list)
+    lst_index = lst_index - 1
+
+
+Explanation: 
+my_list = []  # Initialize an empty list to store the data
+lst_index = 0  # Initialize an index variable to keep track of list elements
+
+print("my_list =", my_list)  # Print the content of my_list (empty)
+
+# Loop to add data to my_list
+while lst_index < 5:  # Continue adding data until lst_index reaches 5
+    num = input("Enter a number: ")  # Prompt the user to enter data
+    my_list.append(num)  # Append the entered data to my_list
+    lst_index = lst_index + 1  # Increment lst_index after adding each element
+
+print("my_list =", my_list)  # Print the content of my_list after adding data
+
+lst_index = lst_index - 1  # Decrement lst_index by 1 to position it at the last index of my_list
+
+# Loop to delete data from my_list based on even index
+while lst_index >= 0:  # Continue deleting data until lst_index is less than 0
+    if lst_index % 2 == 0:  # Check if the index is even
+        del my_list[lst_index]  # Delete the element at the current lst_index
+        print("my_list =", my_list)  # Print the content of my_list after deleting an element
+    lst_index = lst_index - 1  # Decrement lst_index to move to the previous element
+
 
