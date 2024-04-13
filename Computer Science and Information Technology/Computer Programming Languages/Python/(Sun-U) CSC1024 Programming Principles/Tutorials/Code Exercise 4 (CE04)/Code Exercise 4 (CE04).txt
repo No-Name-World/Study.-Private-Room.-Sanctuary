@@ -1,0 +1,415 @@
+ .d88888b.                             888    d8b                          d888   
+d88P" "Y88b                            888    Y8P                         d8888   
+888     888                            888                                  888   
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.          888   
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b         888   
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888         888   
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888         888   
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888       8888888 
+       Y8b                                                                                           
+1. Improve the following Python program as in Listing 1 by:  
+• Randomise the secret_num. The random number generated must be within the range of 1 to 200.  
+• Add an iterative function using the while loop to ask the user for a decision to continue playing the game. 
+
+_____________________________________________________________________________________________________________
+                                             Listing 1
+secret_num = 50
+guess_num = int(input('Guess my secret number: '))
+count = 1
+
+while guess_num != secret_num:
+    if guess_num < secret_num:
+        print('Too Low')
+    else:
+        print('Too High')
+    count = count + 1
+    guess_num = int(input('Have a another guess:  '))
+
+print(f'Well done, you took ' + str(count) + ' attempts.' )
+_____________________________________________________________________________________________________________
+Answer:
+import random
+
+def play_game():
+    secret_num = random.randint(1, 200)
+    guess_num = int(input('Guess my secret number (between 1 and 200): '))
+    count = 1
+
+    while guess_num != secret_num:
+        if guess_num < secret_num:
+            print('Too Low')
+        else:
+            print('Too High')
+        count += 1
+        guess_num = int(input('Have another guess: '))
+
+    print(f'Well done, you took {count} attempts.')
+
+def main():
+    play_game()
+    while True:
+        decision = input("Do you want to play again? ((Y)es / (N)o): ")
+        if decision.lower() != 'y':
+            print("Thanks for playing!")
+            break
+        play_game()
+
+if __name__ == "__main__":
+    main()
+
+
+Explanation: 
+# Import the random module to generate random numbers
+import random
+
+# Define a function to play the game
+def play_game():
+    # Generate a random number between 1 and 200 for the player to guess
+    secret_num = random.randint(1, 200)
+    
+    # Ask the player to guess the secret number
+    guess_num = int(input('Guess my secret number (between 1 and 200): '))
+    count = 1  # Initialize the count of attempts
+    
+    # Loop until the player guesses the correct number
+    while guess_num != secret_num:
+        # Provide feedback based on whether the guess is too low or too high
+        if guess_num < secret_num:
+            print('Too Low')
+        else:
+            print('Too High')
+        
+        count += 1  # Increment the attempt count
+        # Prompt the player for another guess
+        guess_num = int(input('Have another guess: '))
+    
+    # Congratulate the player upon guessing the correct number and display the count of attempts
+    print(f'Well done, you took {count} attempts.')
+
+# Define the main function
+def main():
+    play_game()  # Start the game
+    
+    # Loop to ask the player if they want to play again
+    while True:
+        # Ask the player if they want to play again
+        decision = input("Do you want to play again? ((Y)es / (N)o): ")
+        
+        # Check if the player decides to not play again
+        if decision.lower() != 'y':
+            print("Thanks for playing!")
+            break  # Exit the loop and end the game
+        
+        play_game()  # If the player wants to play again, start a new game
+
+# Check if the script is being run directly
+if __name__ == "__main__":
+    main()
+
+
+
+
+
+ .d88888b.                             888    d8b                          .d8888b.  
+d88P" "Y88b                            888    Y8P                         d88P  Y88b 
+888     888                            888                                       888 
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.             .d88P 
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b        .od888P"  
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888       d88P"      
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888       888"       
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888       888888888  
+       Y8b                                                                                                                                                    
+2. Write a Python program using the while loop to generate a multiplication table that will have the following outputs.  
+Which multiplication table would you like to print? 8  
+How high would you like it to go? 10  
+
+Here is your multiplication table: 
+8 times 1  =   8  
+8 times 2  =  16 
+8 times 3  =  24 
+8 times 4  =  32  
+8 times 5  =  40 
+8 times 6  =  48  
+8 times 7  =  56 
+8 times 8  =  64 
+8 times 9  =  72  
+8 times 10 =  80 
+Answer:
+num = int(input("Which multiplication table would you like to print? "))
+
+limit = int(input("How high would you like it to go? "))
+
+print("Here is your multiplication table:")
+i = 1
+while i <= limit:
+    result = num * i
+    print(f"{num} times {i}  =  {result}")
+    i += 1
+
+
+Explanation: 
+# Input the number for which multiplication table is to be generated
+num = int(input("Which multiplication table would you like to print? "))
+
+# Input the maximum limit for the table
+limit = int(input("How high would you like it to go? "))
+
+# Display a message indicating the start of the multiplication table
+print("Here is your multiplication table:")
+
+# Initialize a counter for the while loop
+i = 1
+
+# Loop until the counter reaches the specified limit
+while i <= limit:
+    # Calculate the result of multiplying the number by the current counter value
+    result = num * i
+    # Display the multiplication expression and the result
+    print(f"{num} times {i}  =  {result}")
+    # Increment the counter for the next iteration
+    i += 1
+
+
+
+
+
+ .d88888b.                             888    d8b                          .d8888b.  
+d88P" "Y88b                            888    Y8P                         d88P  Y88b 
+888     888                            888                                     .d88P 
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.            8888"  
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b            "Y8b. 
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888       888    888 
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888       Y88b  d88P 
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888        "Y8888P"  
+       Y8b                                                                                                                                                             
+3. Write a Python program using the while loop to print the following pattern.
+
+10101010101
+10101010101
+10101010101
+10101010101
+10101010101
+
+Do not use the while loop to print the pattern ('10101010101') for 5 times. The program should print the pattern character-by-character.
+Answer:
+row = 0
+while row < 5:
+    col = 0
+    while col < 11:
+        if col % 2 == 0:
+            print("1", end='')
+        else:
+            print("0", end='')
+        col = col + 1
+    print()
+    row = row + 1
+
+
+Explanation: 
+# Initialize the row counter
+row = 0
+
+# Outer loop for iterating over rows
+while row < 5:
+    # Initialize the column counter
+    col = 0
+    
+    # Inner loop for iterating over columns
+    while col < 11:
+        # Check if the column index is even or odd
+        if col % 2 == 0:
+            # If even, print '1'
+            print("1", end='')
+        else:
+            # If odd, print '0'
+            print("0", end='')
+        
+        # Increment the column counter
+        col = col + 1
+    
+    # Move to the next line after printing each row
+    print()
+    
+    # Increment the row counter
+    row = row + 1
+
+
+
+
+
+ .d88888b.                             888    d8b                             d8888  
+d88P" "Y88b                            888    Y8P                            d8P888  
+888     888                            888                                  d8P 888  
+888     888 888  888  .d88b.  .d8888b  888888 888  .d88b.  88888b.         d8P  888  
+888     888 888  888 d8P  Y8b 88K      888    888 d88""88b 888 "88b       d88   888  
+888 Y8b 888 888  888 88888888 "Y8888b. 888    888 888  888 888  888       8888888888 
+Y88b.Y8b88P Y88b 888 Y8b.          X88 Y88b.  888 Y88..88P 888  888             888  
+ "Y888888"   "Y88888  "Y8888   88888P'  "Y888 888  "Y88P"  888  888             888  
+       Y8b                                                                                                                                                                                                                                             
+4. Write a temperature conversion program between degree Celsius and degree Fahrenheit, according to user selection. The following is the formula: 
+Celsius = (Fahrenheit – 32) * 5/9 
+Fahrenheit = (Celsius * 9/5) + 32 
+
+• The temperature conversion program is expected to convert a range of temperature measurements from a minimum value to a maximum value. 
+• The program will only execute if the minimum temperature is smaller than or equal to the maximum temperature. Else, an error message should be prompted to the user and the program restart. 
+• The program will only execute when the menu selection is valid. Else, an error message should be prompted to the user and the program restart. 
+• Write an iteration check if the user would like to run the program again. 
+__________________________________________________________________________________________
+Screen output examples: Temperature Conversion Programme. 
+[1] Convert Celsius to Fahrenheit. 
+[2] Convert Fahrenheit to Celsius.  
+Enter your selection, 1 or 2: 1  Celsius (C) to Fahrenheit (F) Conversion  
+Enter temperature in integer values only. 
+Enter minimum temperature: 20 
+Enter maximum temperature: 25 
+20C = 68.0F 
+21C = 69.8F 
+22C = 71.6F 
+23C = 73.4F 
+24C = 75.2F 
+25C = 77.0F 
+Conversion Done! 
+Do you want to run the program again? [Y/N]: Y 
+
+Temperature Conversion Programme. 
+[1] Convert Celsius to Fahrenheit. 
+[2] Convert Fahrenheit to Celsius. 
+Enter your selection, 1 or 2: 3  
+ ERROR: Invalid Selection! 
+Do you want to run the program again? [Y/N]: Y 
+
+Temperature Conversion Programme. 
+[1] Convert Celsius to Fahrenheit. 
+[2] Convert Fahrenheit to Celsius.  
+Enter your selection, 1 or 2: 2  
+Fahrenheit (F) to Celsius (C) Conversion 
+Enter temperature in integer values only.  
+Enter minimum temperature: 50 
+Enter maximum temperature: 30 
+ERROR: Invalid Input! 
+Do you want to run the program again? [Y/N]: Y 
+__________________________________________________________________________________________
+
+Answer:
+def celsius_to_fahrenheit(celsius):
+    return (celsius * 9/5) + 32
+
+def fahrenheit_to_celsius(fahrenheit):
+    return (fahrenheit - 32) * 5/9
+
+def validate_selection(selection):
+    return selection == '1' or selection == '2'
+
+def validate_temperature(temp):
+    return temp.isdigit()
+
+def convert_and_print(min_temp, max_temp, conversion_func):
+    for temp in range(int(min_temp), int(max_temp) + 1):
+        converted_temp = conversion_func(temp)
+        print(f"{temp} {'C' if conversion_func == celsius_to_fahrenheit else 'F'} = {converted_temp:.1f} {'F' if conversion_func == celsius_to_fahrenheit else 'C'}")
+
+def run_program():
+    while True:
+        print("Temperature Conversion Programme.")
+        print("[1] Convert Celsius to Fahrenheit.")
+        print("[2] Convert Fahrenheit to Celsius.")
+        selection = input("Enter your selection, 1 or 2: ")
+
+        if not validate_selection(selection):
+            print("ERROR: Invalid Selection!")
+            continue
+
+        min_temp = input("Enter minimum temperature: ")
+        max_temp = input("Enter maximum temperature: ")
+
+        if not (validate_temperature(min_temp) and validate_temperature(max_temp) and int(min_temp) <= int(max_temp)):
+            print("ERROR: Invalid Input!")
+            continue
+
+        min_temp, max_temp = int(min_temp), int(max_temp)
+
+        if selection == '1':
+            print("Celsius (C) to Fahrenheit (F) Conversion")
+            convert_and_print(min_temp, max_temp, celsius_to_fahrenheit)
+        else:
+            print("Fahrenheit (F) to Celsius (C) Conversion")
+            convert_and_print(min_temp, max_temp, fahrenheit_to_celsius)
+
+        print("Conversion Done!")
+
+        run_again = input("Do you want to run the program again? [Y/N]: ").upper()
+        if run_again != 'Y':
+            break
+
+run_program()
+
+
+Explanation: 
+# Function to convert Celsius to Fahrenheit
+def celsius_to_fahrenheit(celsius):
+    return (celsius * 9/5) + 32
+
+# Function to convert Fahrenheit to Celsius
+def fahrenheit_to_celsius(fahrenheit):
+    return (fahrenheit - 32) * 5/9
+
+# Function to validate the user's menu selection
+def validate_selection(selection):
+    return selection == '1' or selection == '2'
+
+# Function to validate the temperature input
+def validate_temperature(temp):
+    return temp.isdigit()
+
+# Function to convert and print the temperature conversions within the given range
+def convert_and_print(min_temp, max_temp, conversion_func):
+    for temp in range(int(min_temp), int(max_temp) + 1):
+        converted_temp = conversion_func(temp)
+        # Print the conversion result with appropriate units
+        print(f"{temp} {'C' if conversion_func == celsius_to_fahrenheit else 'F'} = {converted_temp:.1f} {'F' if conversion_func == celsius_to_fahrenheit else 'C'}")
+
+# Main function to run the temperature conversion program
+def run_program():
+    while True:
+        print("Temperature Conversion Programme.")
+        print("[1] Convert Celsius to Fahrenheit.")
+        print("[2] Convert Fahrenheit to Celsius.")
+        # Prompt user for menu selection
+        selection = input("Enter your selection, 1 or 2: ")
+
+        # Validate user's selection
+        if not validate_selection(selection):
+            print("ERROR: Invalid Selection!")
+            # 'continue' means to skip the rest of the loop's code and start from the next iteration
+            continue
+
+        # Get the minimum and maximum temperature values
+        min_temp = input("Enter minimum temperature: ")
+        max_temp = input("Enter maximum temperature: ")
+
+        # Validate the temperature input and range
+        if not (validate_temperature(min_temp) and validate_temperature(max_temp) and int(min_temp) <= int(max_temp)):
+            print("ERROR: Invalid Input!")
+            # 'continue' here means to skip the rest of the loop's code and start from the next iteration
+            continue
+
+        min_temp, max_temp = int(min_temp), int(max_temp)
+
+        # Perform the selected conversion and print the results
+        if selection == '1':
+            print("Celsius (C) to Fahrenheit (F) Conversion")
+            convert_and_print(min_temp, max_temp, celsius_to_fahrenheit)
+        else:
+            print("Fahrenheit (F) to Celsius (C) Conversion")
+            convert_and_print(min_temp, max_temp, fahrenheit_to_celsius)
+
+        print("Conversion Done!")
+
+        # Ask user if they want to run the program again
+        run_again = input("Do you want to run the program again? [Y/N]: ").upper()
+        # 'break' means to exit the loop and continue executing the code after the loop
+        if run_again != 'Y':
+            break
+
+# Run the program
+run_program()
