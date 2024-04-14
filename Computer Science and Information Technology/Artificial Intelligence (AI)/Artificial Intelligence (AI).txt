@@ -1,0 +1,6 @@
+Book Title: Artificial Intelligence: A Modern Approach 
+Edition Details: 4th, Global Edition
+Authors: Peter Norvig, Stuart Russell 
+Publisher: Pearson
+ISBN-13: 978-1292401133 / 978-1292409399
+Publication Date: May 13, 2021
