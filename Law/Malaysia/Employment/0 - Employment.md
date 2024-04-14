@@ -47,11 +47,11 @@ This act regulates the employment of port workers and the dissolution of the Por
 This act aims to combat human trafficking and migrant smuggling by imposing penalties on offenders and providing protection and assistance to victims.
 
 ## Act No 732. National Wages Consultative Council Act 2011  
-*(Akta Majlis Perundingan Gaji Negara 2011)*
+*(Akta Majlis Perundingan Gaji Negara 2011)*  
 This act establishes the National Wages Consultative Council, which advises the government on matters related to wages and formulates policies to promote fair wages and productivity.
 
 ## Act No 753. Minimum Retirement Age Act 2012  
-*(Akta Umur Persaraan Minimum 2012)*
+*(Akta Umur Persaraan Minimum 2012)*  
 This act sets the minimum retirement age for employees in Malaysia, ensuring that workers are not unfairly dismissed or forced to retire prematurely due to age discrimination.
 
 ## Act No 789. Self-Employment Social Security Act 2017  
