@@ -1,0 +1,38 @@
+Book Title: Data Mining and Predictive Analytics (QA76.9.D343 L333 2015EB)
+Edition Details: 2nd
+Authors: Daniel T. Larose
+Publisher: Wiley
+ISBN-13: 978-1118116197 / 978-1118868706 / 978-1118991121 
+Publication Date: March 16, 2015
+
+
+Book Title: Data Mining: Practical Machine Learning Tools and Techniques (Morgan Kaufmann Series in Data Management Systems)
+Edition Details: 4th
+Authors: Ian H. Witten, Eibe Frank, Mark A. Hall, Christopher J. Pal
+Publisher: Morgan Kaufmann
+ISBN-13: 978-0128042915
+Publication Date: December 1, 2016
+
+
+Book Title: Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking (QA76.9.D343 P96 2013EB)
+Edition Details: 1st
+Authors: Foster Provost, Tom Fawcett
+Publisher: O'Reilly Media
+ISBN-13: 978-1449361327
+Publication Date: September 17, 2013
+
+
+Book Title: Introduction to Data Mining (QA76.9.D343 T16 2019EB)
+Edition Details: 2nd, Global Edition
+Authors: Pang-Ning Tan, Michael Steinbach, Vipin Kumar, and Anuj Karpatne
+Publisher: Pearson
+ISBN-13: 978-0273769224
+Publication Date: January 1, 2016
+
+
+Book Title: Web and Network Data Science: Modeling Techniques in Predictive Analytics (ZA4235 M65 2015)
+Edition Details: 1st
+Authors: Thomas W. Miller 
+Publisher: Pearson FT Press
+ISBN-13: 978-0133886443
+Publication Date: December 31, 2014

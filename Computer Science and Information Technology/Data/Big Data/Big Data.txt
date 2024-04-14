@@ -1,0 +1,46 @@
+Book Title: Advances in Mobile Cloud Computing and Big Data in the 5G Era (QA76.59 A24 2017)
+Edition Details: 1st
+Authors: Constandinos X. Mavromoustakis, George Mastorakis, Ciprian Dobre
+Publisher: Springer
+ISBN-13: 978-3319832227 / 978-3319451459
+Publication Date: June 28, 2018
+
+
+Book Title: Analytics in a Big Data World: The Essential Guide to Data Science and its Applications (HD30.215 .B34 2014 EB)
+Edition Details: 1st
+Authors: Bart Baesens 
+Publisher: Wiley
+ISBN-13: 978-1118892701
+Publication Date: May 9, 2014
+
+
+Book Title: Big Data Analytics Using Splunk: Deriving Operational Intelligence from Social Media, Machine Data, Existing Data Warehouses, and Other Real-Time Streaming Sources (QA76.9.B45 Z17 2013) 
+Edition Details: 1st
+Authors: Peter Zadrozny, Raghu Kodali 
+Publisher: Apress
+ISBN-13: 978-1430257615
+Publication Date: May 22, 2013
+
+
+Book Title: Big Data Science & Analytics: A Hands-On Approach (TJ213.75 B15 2016)
+Edition Details: 1st
+Authors: Arshdeep Bahga, Vijay Madisetti 
+Publisher: Vpt 
+ISBN-13: 978-0996025546
+Publication Date: April 15, 2016
+
+
+Book Title: People Analytics in the Era of Big Data: Changing the Way You Attract, Acquire, Develop, and Retain Talent (HF5549 -- .I876 2016 EB)
+Edition Details: 1st
+Authors: Jean Paul Isson, Jesse S. Harriott, Jac Fitz-enz (Foreword by)
+Publisher: Wiley
+ISBN-13: 978-1119050780 / 978-1119233169
+Publication Date: April 15, 2016
+
+
+Book Title: The Enterprise Big Data Framework: Building Critical Capabilities to Win in the Data Economy  (QA76.76.A65 M62 2024EB)
+Edition Details: 1st
+Authors: Jan-Willem Middelburg 
+Publisher: Kogan Page
+ISBN-13: 978-1398601710
+Publication Date: November 3, 2023
