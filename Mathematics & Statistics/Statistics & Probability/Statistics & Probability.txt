@@ -1,0 +1,47 @@
+Book Title: Business Statistics: A First Course (HF1017 L661 2020EB)
+Edition Details: 8th, Global Edition
+Authors: David M. Levine, Kathryn A. Szabat, David F. Stephan 
+Publisher: Pearson
+ISBN-13: 978-1292320489 / 978-1292320366
+Publication Date: October 17, 2019
+
+
+Book Title: Elementary Statistics
+Edition Details: 14th
+Authors: Mario F. Triola 
+Publisher: Pearson
+ISBN-13: 978-0136803201
+Publication Date: February 19, 2021
+
+
+Book Title: Introductory Statistics (QA276.12 W431 2017)
+Edition Details: 10th, Global Edition
+Authors: Neil A. Weiss 
+Publisher: Pearson
+ISBN-13: 978-1292099736 / 978-1292099729
+Publication Date: October 3, 2016
+
+
+Book Title: Introduction to Probability Models (QA273 R821 2019)
+Edition Details: 13th 
+Authors: Sheldon M. Ross
+Publisher: Academic Press, Elsevier
+ISBN-13: 978-0443187612 / 978-0443187605
+Publication Date: July 19, 2023
+
+
+Book Title: Statistics for Business & Economics (HF1017 M12 2022EB)
+Edition Details: 14th, Global Edition
+Authors: James T. Mc, P George Benson, Terry T Sincich 
+Publisher: Pearson
+ISBN-13: 978-1292413525 / 978-1292413396
+Publication Date: November 8, 2021
+
+
+Book Title: Statistical Methods for the Social Sciences (QA276.12 A28 2018)
+Edition Details: 5th
+Authors: Alan Agresti
+Publisher: Pearson 
+ISBN-13: 978-0137546060 / 978-0134507101
+Publication Date: January 1, 2017
+
