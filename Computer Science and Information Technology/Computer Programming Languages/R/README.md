@@ -1,0 +1,2 @@
+Learning Website (Tutorial): https://cran.r-project.org/
+• leads to the introduction section of "An Introduction to R", which is a comprehensive guide to the R programming language and environment for statistical computing and graphics. This document is part of the official documentation provided by the Comprehensive R Archive Network (CRAN) and serves as a valuable resource for beginners and experienced users alike who want to learn about R.

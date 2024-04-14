@@ -1,0 +1,25 @@
+Book Title: R for Data Science: Import, Tidy, Transform, Visualize, and Model Data
+Edition Details: 2nd
+Authors: Hadley Wickham, Mine Cetinkaya-Rundel, Garrett Grolemund
+Publisher: O'Reilly Media
+ISBN-13: 978-1492097402
+Publication Date: July 18, 2023
+
+
+Book Title: R for Everyone: Advanced Analytics and Graphics (QA76.73.R3 L25 2017)
+Edition Details: 2nd
+Authors: Jared Lander 
+Publisher: Addison-Wesley Professional
+ISBN-13: 978-0134546926
+Publication Date: June 8, 2017
+
+
+Book Title: R In Action Data Analysis and Graphics With R and Tidyverse (QA276.45.R3 K11 2022EB)
+Edition Details: 3rd
+Authors: Robert I. Kabacoff
+Publisher: Manning
+ISBN-13: 978-1617296055
+Publication Date: May 3, 2022
+
+
+
