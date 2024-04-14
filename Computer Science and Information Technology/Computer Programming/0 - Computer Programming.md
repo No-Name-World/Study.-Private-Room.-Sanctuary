@@ -12,21 +12,21 @@
    - **ISBN-13:** 978-1292013978, 978-0273752219
    - **Publication Date:** May 19, 2011
 
-3. **Book Title:** Programming Language Pragmatics
+3. **Book Title:** Programming Language Pragmatics 🚨🚨🚨🚨🚨 E-Book & PDF
    - **Edition:** 4th
    - **Author:** Michael Scott
    - **Publisher:** Morgan Kaufmann
    - **ISBN-13:** 978-0124104099
    - **Publication Date:** December 25, 2015
 
-4. **Book Title:** Programming Logic and Design, Introductory
+4. **Book Title:** Programming Logic and Design, Introductory 🚨🚨🚨🚨🚨 PDF
    - **Edition:** 9th
    - **Author:** Joyce Farrell
    - **Publisher:** Cengage Learning
    - **ISBN-13:** 978-1337109635
    - **Publication Date:** January 2, 2017
 
-5. **Book Title:** Starting Out with Programming Logic and Design
+5. **Book Title:** Starting Out with Programming Logic and Design 🚨🚨🚨🚨🚨 PDF
    - **Edition:** 6th
    - **Author:** Tony Gaddis
    - **Publisher:** Pearson
