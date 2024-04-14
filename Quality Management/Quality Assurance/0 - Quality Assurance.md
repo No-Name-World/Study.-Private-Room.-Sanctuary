@@ -1,4 +1,4 @@
-1. **Managing for Quality and Performance Excellence**
+1. **Managing for Quality and Performance Excellence**🚨🚨🚨🚨🚨
    - **Edition:** 11th
    - **Authors:** James R. Evans, William M. Lindsay
    - **Publisher:** Cengage Learning
