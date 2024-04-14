@@ -1,4 +1,4 @@
-1. **Book Title:** Social Media Analytics: Techniques and Insights for Extracting Business Value Out of Social Media
+1. **Book Title:** Social Media Analytics: Techniques and Insights for Extracting Business Value Out of Social Media 🚨🚨🚨🚨🚨
 - **Edition:** 1st
 - **Authors:** Matthew Ganis, Avinash Kohirkar
 - **Publisher:** IBM Press
