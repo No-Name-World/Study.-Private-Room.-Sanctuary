@@ -1,0 +1,45 @@
+# Introduction to CSC1024: Programming Principles Python
+
+Welcome to CSC1024: Programming Principles Python! This course, offered by Sun-University, is designed to provide you with a comprehensive introduction to the fundamental principles of programming using the Python programming language.
+
+![Python Programming](https://ascii.co.uk/art/python)
+
+In this course, you will embark on an exciting journey into the world of programming, where you will learn the essential concepts and techniques necessary to become proficient in Python. Whether you're a complete beginner or have some prior programming experience, this course is structured to cater to learners of all levels.
+
+## Course Overview
+
+Throughout CSC1024, you will explore various programming concepts, including:
+
+**A. Basic Syntax and Data Types:**  
+   - Master the basic syntax of Python.
+   - Understand fundamental data types such as integers, floats, strings, lists, tuples, and dictionaries.
+
+**B. Control Structures:**  
+   - Learn how to control the flow of your programs using conditional statements (if, elif, else) and loops (for and while).
+
+**C. Functions and Modules:**  
+   - Discover the power of functions in Python and how to define and use them effectively.
+   - Explore how to organize your code into reusable modules.
+
+**D. File Handling:**  
+   - Delve into file handling operations, including reading from and writing to files, to manage data persistence in your programs.
+
+**E. Exception Handling:**  
+   - Learn how to handle errors and exceptions gracefully, ensuring that your programs can handle unexpected situations without crashing.
+
+**F. Object-Oriented Programming (OOP):**  
+   - Be introduced to the principles of OOP in Python, including classes, objects, inheritance, encapsulation, and polymorphism.
+
+**G. Graphical User Interface (GUI) Programming:**  
+   - Get hands-on experience in creating graphical user interfaces using Python libraries such as Tkinter.
+
+## Learning Approach
+
+Throughout the course, you will not only learn the theoretical concepts but also engage in practical coding exercises and projects to reinforce your understanding and enhance your problem-solving skills.
+
+## Conclusion
+
+By the end of CSC1024: Programming Principles Python, you will have gained a solid foundation in programming principles and acquired the skills necessary to develop Python applications confidently. Whether you aspire to pursue a career in software development, data science, web development, or any other field, the knowledge and skills acquired in this course will serve as a valuable asset in your journey.
+
+Get ready to unlock the potential of Python programming and embark on a rewarding learning experience in CSC1024!
+
