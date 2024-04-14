@@ -2,5 +2,5 @@
    - **Edition:** 6th
    - **Authors:** Alan Dennis, Barbara Wixom, David Tegarden
    - **Publisher:** Wiley
-   - **ISBN:** 978-1119561217
+   - **ISBN-13:** 978-1119561217
    - **Publication Date:** October 17, 2020
