@@ -1,4 +1,4 @@
-1. **Book Title:** Introduction to Linear Regression Analysis
+1. **Book Title:** Introduction to Linear Regression Analysis 🚨🚨🚨🚨🚨
 - **Edition:** 6th
 - **Authors:** Douglas C. Montgomery, Elizabeth A. Peck, G. Geoffrey Vining
 - **Publisher:** Wiley
