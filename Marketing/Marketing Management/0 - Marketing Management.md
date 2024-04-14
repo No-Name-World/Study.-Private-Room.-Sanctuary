@@ -1,4 +1,4 @@
-1. **Principles of Marketing**
+1. **Principles of Marketing**🚨🚨PDF🚨🚨🚨
    - **Edition:** 19th, Global Edition
    - **Authors:** Philip Kotler, Gary Armstrong, Sridhar Balasubramanian
    - **Publisher:** Pearson
