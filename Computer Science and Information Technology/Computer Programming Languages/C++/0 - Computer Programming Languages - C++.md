@@ -1,18 +1,18 @@
-1. **Book Title:** C How to Program, With An Introduction to C++
+1. **Book Title:** C How to Program, With An Introduction to C++ 🚨🚨🚨PDF🚨🚨
    - **Edition:** 8th, Global Edition
    - **Authors:** Paul Deitel, Harvey Deitel
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292110974
    - **Publication Date:** December 17, 2015
 
-2. **Book Title:** C++ How to Program
+2. **Book Title:** C++ How to Program 🚨🚨🚨PDF🚨🚨
    - **Edition:** 10th, Global Edition
    - **Authors:** Harvey Deitel, Paul Deitel
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292153346
    - **Publication Date:** December 6, 2016
 
-3. **Book Title:** Problem Solving with C++
+3. **Book Title:** Problem Solving with C++ 🚨🚨🚨PDF🚨🚨
    - **Edition:** 10th, Global Edition
    - **Author:** Walter Savitch
    - **Publisher:** Pearson
