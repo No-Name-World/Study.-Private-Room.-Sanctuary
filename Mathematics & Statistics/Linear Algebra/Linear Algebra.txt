@@ -1,0 +1,15 @@
+Book Title: Elementary Linear Algebra (QA184.2 A631 2019EB)
+Edition Details: 12th
+Authors: Howard Anton, Anton Kaul
+Publisher: Wiley
+ISBN-13: 978-1119406778 / 978-1119570271
+Publication Date: August 20, 2019
+
+
+Book Title: Elementary Linear Algebra: Applications Version (QA184 A632 2019EB)
+Edition Details: 12th
+Authors: Howard Anton, Chris Rorres, Anton Kaul 
+Publisher: Wiley
+ISBN-13: 978-1119282365
+Publication Date: February 20, 2019
+
