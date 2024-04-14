@@ -2,5 +2,5 @@
    - **Edition:** 1st
    - **Author:** Kenneth J. Knapp
    - **Publisher:** Information Science Reference
-   - **ISBN:** 978-1605663265
+   - **ISBN-13:** 978-1605663265
    - **Publication Date:** April 30, 2009
