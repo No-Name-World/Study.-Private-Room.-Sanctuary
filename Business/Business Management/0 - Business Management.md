@@ -1,4 +1,4 @@
-1. **Book Title:** Contemporary Business
+1. **Book Title:** Contemporary Business 🚨🚨🚨🚨🚨
    - **Edition:** 19th
    - **Authors:** Louis E. Boone, David L. Kurtz, Brahm Canzer
    - **Publisher:** Wiley
@@ -12,14 +12,14 @@
    - **ISBN-13:** 978-1292307329, 978-1292307398
    - **Publication Date:** September 23, 2019
 
-3. **Book Title:** Management
+3. **Book Title:** Management 🚨🚨🚨🚨🚨
    - **Edition:** 15th
    - **Authors:** Stephen P. Robbins, Mary A. Coulter
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292340883, 978-1292374468
    - **Publication Date:** March 4, 2020
 
-4. **Book Title:** New Era Management
+4. **Book Title:** New Era Management 🚨🚨🚨🚨🚨
    - **Edition:** 11th, International Edition
    - **Author:** Richard L. Daft
    - **Publisher:** Cengage Learning
