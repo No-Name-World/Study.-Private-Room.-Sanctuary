@@ -1,0 +1,6 @@
+Book Title: Systems Analysis and Design: An Object-Oriented Approach with UML (QA402 D41 2021EB)
+Edition Details: 6th
+Authors: Alan Dennis, Barbara Wixom, David Tegarden
+Publisher: Wiley
+ISBN-13: 978-1119561217
+Publication Date: October 17, 2020
