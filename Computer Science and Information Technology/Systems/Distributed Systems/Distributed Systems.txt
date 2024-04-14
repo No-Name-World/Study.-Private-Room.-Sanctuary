@@ -1,0 +1,6 @@
+Book Title: Distributed Systems: Concepts and Design (QA76.9.D5 C85 2012EB)
+Edition Details: 5th, International Edition
+Authors: George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair 
+Publisher: Pearson
+ISBN-13: 978-0273760597 / 978-1447930174
+Publication Date: July 7, 2011
