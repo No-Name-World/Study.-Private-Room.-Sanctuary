@@ -1,4 +1,4 @@
-1. **Book Title:** Innovative Approaches of Data Visualization and Visual Analytics
+1. **Book Title:** Innovative Approaches of Data Visualization and Visual Analytics 🚨🚨🚨🚨🚨
 - **Edition:** 1st
 - **Authors:** Mao Lin Huang, Weidong Huang
 - **Publisher:** Information Science Reference
