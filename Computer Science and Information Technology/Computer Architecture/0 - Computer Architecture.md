@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-0128119051
    - **Publication Date:** December 7, 2017
 
-2. **Book Title:** Computer Architecture: A Quantitative Approach Complete **Instructor's Resources with Solution Manual**
+2. **Book Title:** Computer Architecture: A Quantitative Approach Complete **Instructor's Resources with Solution Manual** 🚨🚨🚨🚨🚨
    - **Edition:** 6th
    - **Authors:** John L. Hennessy, David A. Patterson
    - **Publisher:** Morgan Kaufmann
@@ -17,7 +17,7 @@
    - **ISBN-13:** 978-1292420103
    - **Publication Date:** November 23, 2021
 
-4. **Book Title:** Computer Organization and Design MIPS Edition: The Hardware/Software Interface
+4. **Book Title:** Computer Organization and Design MIPS Edition: The Hardware/Software Interface 🚨🚨🚨🚨🚨
    - **Edition:** 6th
    - **Authors:** David A. Patterson, John L. Hennessy
    - **Publisher:** Morgan Kaufmann
