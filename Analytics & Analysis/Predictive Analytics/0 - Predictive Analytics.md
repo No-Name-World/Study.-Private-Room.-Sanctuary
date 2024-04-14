@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1119145677, 978-1119153658
    - **Publication Date:** January 20, 2016
 
-2. **Book Title:** Predictive HR Analytics: Mastering the HR Metric
+2. **Book Title:** Predictive HR Analytics: Mastering the HR Metric 🚨🚨🚨🚨🚨
    - **Edition:** 3rd
    - **Authors:** Dr. Martin Edwards, Kirsten Edwards, Daisung Jang
    - **Publisher:** Kogan Page
