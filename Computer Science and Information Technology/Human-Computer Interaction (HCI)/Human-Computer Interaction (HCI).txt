@@ -1,0 +1,22 @@
+Book Title: Designing Interactive Systems: A Comprehensive Guide to HCI, UX and Interaction Design (QA76.9.H85 B471 2013EB)
+Edition Details: 3rd, Comprehensive Edition
+Authors: David Benyon 
+Publisher: Trans-Atlantic Publications, Inc.
+ISBN-13: 978-1447920113 / 978-1292013848 
+Publication Date: September 22, 2013
+
+
+Book Title: Designing the User Interface: Strategies for Effective Human-Computer Interaction (QA76.9.H85 S55 2018EB)
+Edition Details: 6th,Global Edition
+Authors: Ben Shneiderman, Catherine Plaisant, Maxine Cohen, Steven Jacobs, Niklas Elmqvist, Nicholas Diakopoulos
+Publisher: Pearson
+ISBN-13: 978-1292153919
+Publication Date: October 18, 2018
+
+
+Book Title: Interaction Design: Beyond Human-Computer Interaction (QA76.9.H85 S531 2019EB)
+Edition Details: 6th
+Authors: Yvonne Rogers, Helen Sharp, Jennifer Preece
+Publisher: Wiley
+ISBN-13: 978-1119901099
+Publication Date: April 4, 2023
