@@ -1,0 +1,24 @@
+Book Title: Data Structures and Algorithm Analysis in Java (QA76.73.J38 W43 2012)
+Edition Details: 3rd, International Edition
+Authors: Mark Allen Weiss
+Publisher: Pearson
+ISBN-13: 978-1292014159 / 978-0273752110
+Publication Date: January 1, 2012
+
+
+Book Title: Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles (QA76.9.A43 K18 2017)
+Edition Details: 5th
+Authors: Narasimha Karumanchi
+Publisher: CareerMonk Publications
+ISBN-13: 978-8193245279
+Publication Date: August 28, 2016
+
+
+Book Title: Mastering Machine Learning Algorithms: Expert techniques to implement popular machine learning algorithms and fine-tune your models ()
+Edition Details: 2nd
+Authors: Giuseppe Bonaccorso 
+Publisher: Packt Publishing
+ISBN-13: 978-1838820299 / 978-1838821913
+Publication Date: January 31, 2020
+
+

@@ -1,0 +1,8 @@
+Book Title: Visual Analytics Fundamentals: Creating Compelling Data Narratives with Tableau (QA76.9.I52 R983 2023EB)
+Edition Details: 1st
+Authors: Lindy Ryan 
+Publisher: Addison-Wesley Professional, Pearson
+ISBN-13: 978-0137956821 / 978-0137956937 
+Publication Date: June 25, 2023
+
+
