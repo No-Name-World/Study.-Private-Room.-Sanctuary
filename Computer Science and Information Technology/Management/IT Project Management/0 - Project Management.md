@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1337101356
    - **Publication Date:** August 14, 2018
 
-2. **Methods of IT Project Management** 🚨🚨🚨🚨🚨
+2. **Methods of IT Project Management** 🚨🚨PDF🚨🚨🚨
    - **Edition:** 4th
    - **Authors:** Jeffrey L. Brewer, Kevin C. Dittman
    - **Publisher:** Purdue University Press
