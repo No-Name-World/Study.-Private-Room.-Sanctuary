@@ -33,7 +33,7 @@
    - **ISBN-13:** 978-1292223858
    - **Publication Date:** January 1, 2017
 
-6. **Book Title:** Java How to Program, Late Objects 🚨🚨PDF🚨🚨🚨
+6. **Book Title:** Java How to Program, Late Objects 
    - **Edition:** 11th, Global Edition
    - **Authors:** Harvey Deitel, Paul J. Deitel
    - **Publisher:** Pearson
