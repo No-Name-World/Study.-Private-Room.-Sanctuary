@@ -1,4 +1,4 @@
-1. **Financial Management for Decision Makers**🚨🚨🚨🚨🚨
+1. **Financial Management for Decision Makers**🚨🚨PDF🚨🚨🚨
    - **Edition:** 9th
    - **Author:** Dr. Peter Atrill
    - **Publisher:** Pearson
