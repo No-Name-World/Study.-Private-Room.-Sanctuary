@@ -11,3 +11,10 @@
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292437484
    - **Publication Date:** June 6, 2022
+
+3. **Network Security Essentials: Applications and Standards**🚨🚨PDF🚨🚨🚨
+   - **Edition:** 6th, Global Edition
+   - **Author:** William Stallings
+   - **Publisher:** Pearson
+   - **ISBN-13:** 978-1292154916, 978-1292154855
+   - **Publication Date:** January 1, 2016
