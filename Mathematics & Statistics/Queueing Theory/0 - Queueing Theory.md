@@ -2,5 +2,5 @@
    - **Edition Details:** 5th
    - **Authors:** John F. Shortle, James M. Thompson, Donald Gross, Carl M. Harris 
    - **Publisher:** Wiley
-   - **ISBN-13:** 9781118943533, 9781118943526 
+   - **ISBN-13:** 978-1118943533, 978-1118943526 
    - **Publication Date:** April 10, 2018
