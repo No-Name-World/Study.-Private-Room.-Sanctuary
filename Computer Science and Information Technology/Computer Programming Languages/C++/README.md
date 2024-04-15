@@ -12,7 +12,7 @@
    - **ISBN-13:** 978-1292153346
    - **Publication Date:** December 6, 2016
 
-3. **Book Title:** Problem Solving with C++ 🚨🚨🚨PDF🚨🚨
+3. **Book Title:** Problem Solving with C++ 
    - **Edition:** 10th, Global Edition
    - **Author:** Walter Savitch
    - **Publisher:** Pearson
