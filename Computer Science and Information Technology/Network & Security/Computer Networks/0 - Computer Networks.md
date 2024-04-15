@@ -40,7 +40,7 @@
    - **ISBN-13:** 978-0137455928
    - **Publication Date:** October 29, 2021
 
-7. **Volume 1 - The Practice of System & Network Administration: DevOps and other Best Practices for Enterprise IT**🚨🚨PDF🚨🚨🚨
+7. **Volume 1 - The Practice of System and Network Administration: DevOps and other Best Practices for Enterprise IT**🚨🚨PDF🚨🚨🚨
    - **Edition:** 3rd
    - **Authors:** Thomas Limoncelli, Christina Hogan, Strata Chalup
    - **Publisher:** Addison-Wesley Professional
