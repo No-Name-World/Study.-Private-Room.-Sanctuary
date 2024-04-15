@@ -19,14 +19,14 @@
    - **ISBN-13:** 978-0124104099
    - **Publication Date:** December 25, 2015
 
-4. **Book Title:** Programming Logic and Design, Introductory 🚨🚨🚨🚨🚨 PDF
+4. **Book Title:** Programming Logic and Design, Introductory 
    - **Edition:** 9th
    - **Author:** Joyce Farrell
    - **Publisher:** Cengage Learning
    - **ISBN-13:** 978-1337109635
    - **Publication Date:** January 2, 2017
 
-5. **Book Title:** Starting Out with Programming Logic and Design 🚨🚨🚨🚨🚨 PDF
+5. **Book Title:** Starting Out with Programming Logic and Design 
    - **Edition:** 6th
    - **Author:** Tony Gaddis
    - **Publisher:** Pearson
