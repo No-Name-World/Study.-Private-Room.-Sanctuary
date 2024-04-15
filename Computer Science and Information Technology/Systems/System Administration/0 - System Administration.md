@@ -1,4 +1,4 @@
-1. **PowerShell for Sysadmins: Workflow Automation Made Easy**🚨🚨🚨🚨🚨
+1. **PowerShell for Sysadmins: Workflow Automation Made Easy**🚨🚨PDF🚨🚨🚨
    - **Edition:** 1st
    - **Author:** Adam Bertram
    - **Publisher:** No Starch Press
