@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1118879368
    - **Publication Date:** September 5, 2017
 
-2. **Book Title:** Machine Learning for Business Analytics: Concepts, Techniques and Applications in RapidMiner
+2. **Book Title:** Machine Learning for Business Analytics: Concepts, Techniques and Applications in RapidMiner🚨🚨PDF🚨🚨🚨
    - **Edition:** 1st
    - **Authors:** Galit Shmueli, Peter C. Bruce, Amit V. Deokar, Nitin R. Patel 
    - **Publisher:** Wiley
