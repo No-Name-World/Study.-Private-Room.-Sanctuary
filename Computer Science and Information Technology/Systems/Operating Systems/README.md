@@ -1,19 +1,19 @@
-1. **Modern Operating Systems**🚨🚨PDF🚨🚨🚨
-   - **Edition:** 5th, Global Edition
+1. **Book Title:** Modern Operating Systems🚨🚨PDF🚨🚨🚨
+   - **Edition Details:** 5th, Global Edition
    - **Authors:** Andrew S. Tanenbaum, Herbert Bos
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292459660, 978-1292727899
    - **Publication Date:** March 28, 2023
 
-2. **Operating System Concepts**🚨🚨PDF🚨🚨🚨
-   - **Edition:** 10th
+2. **Book Title:** Operating System Concepts🚨🚨PDF🚨🚨🚨
+   - **Edition Details:** 10th
    - **Authors:** Abraham Silberschatz, Peter B. Galvin, Greg Gagne
    - **Publisher:** Wiley
    - **ISBN-13:** 978-1119800361
    - **Publication Date:** February 9, 2021
 
-3. **Operating Systems: Internals and Design Principles**🚨🚨PDF🚨🚨🚨
-   - **Edition:** 9th, Global Edition
+3. **Book Title:** Operating Systems: Internals and Design Principles🚨🚨PDF🚨🚨🚨
+   - **Edition Details:** 9th, Global Edition
    - **Author:** William Stallings
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292214306, 978-1292214290
