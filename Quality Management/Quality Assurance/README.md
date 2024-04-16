@@ -1,5 +1,5 @@
-1. **Managing for Quality and Performance Excellence**🚨🚨🚨🚨🚨
-   - **Edition:** 11th
+1. **Book Title:** Managing for Quality and Performance Excellence🚨🚨🚨🚨🚨
+   - **Edition Details:** 11th
    - **Authors:** James R. Evans, William M. Lindsay
    - **Publisher:** Cengage Learning
    - **ISBN-13:** 978-0357442036, 978-0357118252, 978-1305662544
