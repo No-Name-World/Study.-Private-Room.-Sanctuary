@@ -12,7 +12,7 @@
 - **ISBN-13:** 978-1352012491
 - **Publication Date:** October 15, 2021
 
-.. **Book Title:** Entrepreneurship: Theory, Process, Practice 🚨🚨🚨🚨🚨
+3. **Book Title:** Entrepreneurship: Theory, Process, Practice 🚨🚨🚨🚨🚨
 - **Edition:** 12th
 - **Authors:** Donald F. Kuratko 
 - **Publisher:** Cengage Learning
