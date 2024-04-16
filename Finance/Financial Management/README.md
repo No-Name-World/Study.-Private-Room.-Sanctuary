@@ -1,12 +1,12 @@
-1. **Financial Management for Decision Makers**🚨🚨PDF🚨🚨🚨
-   - **Edition:** 9th
+1. **Book Title:** Financial Management for Decision Makers🚨🚨PDF🚨🚨🚨
+   - **Edition Details:** 9th
    - **Author:** Dr. Peter Atrill
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292311432, 978-1292311463
    - **Publication Date:** November 5, 2019
 
-2. **Financial Management: Principles and Applications**🚨🚨🚨🚨🚨
-   - **Edition:** 14th, Global Edition
+2. **Book Title:** Financial Management: Principles and Applications🚨🚨🚨🚨🚨
+   - **Edition Details:** 14th, Global Edition
    - **Authors:** Sheridan Titman, Arthur Keown, John Martin
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292349848, 978-1292349824
