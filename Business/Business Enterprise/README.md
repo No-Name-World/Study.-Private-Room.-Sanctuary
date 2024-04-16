@@ -5,7 +5,14 @@
 - **ISBN-13:** 978-1292427034, 978-1292426938
 - **Publication Date:** March 7, 2022
 
-2. **Book Title:** Entrepreneurship: Theory, Process, Practice 🚨🚨🚨🚨🚨
+2. **Book Title:** Entrepreneurship and Small Business 🚨🚨🚨🚨🚨
+- **Edition:** 5th
+- **Authors:** Paul Burns 
+- **Publisher:** Red Globe Press
+- **ISBN-13:** 978-1352012491
+- **Publication Date:** October 15, 2021
+
+.. **Book Title:** Entrepreneurship: Theory, Process, Practice 🚨🚨🚨🚨🚨
 - **Edition:** 12th
 - **Authors:** Donald F. Kuratko 
 - **Publisher:** Cengage Learning
