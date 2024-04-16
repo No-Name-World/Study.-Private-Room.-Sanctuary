@@ -16,7 +16,7 @@
    - **Edition:** 15th
    - **Authors:** Stephen P. Robbins, Mary A. Coulter
    - **Publisher:** Pearson
-   - **ISBN-13:** 978-1292340883, 978-1292374468
+   - **ISBN-13:** 978-1292340883, 978-1292340890
    - **Publication Date:** March 4, 2020
 
 4. **Book Title:** New Era Management 🚨🚨🚨🚨🚨
