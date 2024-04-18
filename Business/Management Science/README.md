@@ -1,4 +1,4 @@
-**Book Title:** An Introduction to Management Science: Quantitative Approaches to Decision Making
+**Book Title:** An Introduction to Management Science: Quantitative Approaches to Decision Making 📒🔐
 - **Edition Details:** 16th
 - **Authors:** Jeffrey D. Camm, James J. Cochran, Michael J. Fry, Jeffrey W. Ohlmann, David R. Anderson, Dennis J. Sweeney, Thomas A. Williams
 - **Publisher:** Cengage Learning
