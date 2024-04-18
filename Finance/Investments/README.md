@@ -1,11 +1,18 @@
-1. **Book Title:** Investments 📒🔐🚫waiting
+1. **Book Title:** Fixed Income Mathematics: Analytical and Statistical Techniques 🚨🚨🚨🚨🚨
+   - **Edition Details:** 5th
+   - **Authors:** Frank J. Fabozzi, Francesco Fabozzi 
+   - **Publisher:** McGraw Hill
+   - **ISBN-13:** 978-1264258284, 978-1264258277
+   - **Publication Date:** September 5, 2022
+
+2. **Book Title:** Investments 📒🔐🚫waiting
    - **Edition Details:** 13th, International Student Edition
    - **Authors:** Zvi Bodie, Alex Kane, Alan Marcus
    - **Publisher:** McGraw Hill
    - **ISBN-13:** 978-1264412662
    - **Publication Date:** January 17, 2023
 
-2. **Book Title:** The Handbook of Fixed Income Securities 📒🔐🚫waiting
+3. **Book Title:** The Handbook of Fixed Income Securities 📒🔐🚫waiting
    - **Edition Details:** 9th
    - **Authors:** Frank J. Fabozzi, Steven V. Mann, Francesco Fabozzi 
    - **Publisher:** McGraw Hill
