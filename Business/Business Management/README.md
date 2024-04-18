@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1119812630, 978-1119812593
    - **Publication Date:** August 10, 2021
 
-2. **Book Title:** Fundamentals of Management
+2. **Book Title:** Fundamentals of Management 📒🚫
    - **Edition Details:** 11th, Global Edition
    - **Authors:** Stephen P. Robbins, Mary A. Coulter, David A. De Cenzo
    - **Publisher:** Pearson
