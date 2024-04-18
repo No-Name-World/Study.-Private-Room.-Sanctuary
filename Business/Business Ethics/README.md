@@ -1,4 +1,4 @@
-1. **Book Title:** Business Ethics: Concepts and Cases 📒🔐
+1. **Book Title:** Business Ethics: Concepts and Cases 📒🔐 Check: HF5387 V43 2012
    - **Edition Details:** 8th
    - **Author:** Manuel G. Velasquez
    - **Publisher:** Pearson
