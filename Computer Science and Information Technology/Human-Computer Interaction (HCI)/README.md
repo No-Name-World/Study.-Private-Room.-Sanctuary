@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1447920113, 978-1292013848
    - **Publication Date:** September 22, 2013
 
-2. **Book Title:** Designing the User Interface: Strategies for Effective Human-Computer Interaction 🚨🚨PDF🚨🚨🚨
+2. **Book Title:** Designing the User Interface: Strategies for Effective Human-Computer Interaction 📒🔐🚫waiting
    - **Edition Details:** 6th, Global Edition 
    - **Authors:** Ben Shneiderman, Catherine Plaisant, Maxine Cohen, Steven Jacobs, Niklas Elmqvist, Nicholas Diakopoulos
    - **Publisher:** Pearson
@@ -19,7 +19,7 @@
    - **ISBN-13:** 978-0128182024
    - **Publication Date:** October 6, 2020
 
-4. **Book Title:** Interaction Design: Beyond Human-Computer Interaction🚨🚨PDF🚨🚨🚨
+4. **Book Title:** Interaction Design: Beyond Human-Computer Interaction 📒🔐🚫waiting
    - **Edition Details:** 5th
    - **Authors:** Yvonne Rogers, Helen Sharp, Jennifer Preece
    - **Publisher:** Wiley
