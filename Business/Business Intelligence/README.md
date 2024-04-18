@@ -1,4 +1,4 @@
-1. **Book Title:** Business Intelligence: A Managerial Approach
+1. **Book Title:** Business Intelligence: A Managerial Approach 📒🚫
 - **Edition Details:** 4th, Global Edition
 - **Authors:** Ramesh Sharda, Dursun Delen, Efraim Turban, David King
 - **Publisher:** Pearson
