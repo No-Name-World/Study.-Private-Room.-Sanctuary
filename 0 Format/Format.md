@@ -14,4 +14,6 @@
    - **Publication Date:** 
 
 🚨🚨🚨🚨🚨
-📒🔐🚫
+📒 Book Cover
+🔐 PDF Available
+🚫 PDF Size Exceed
