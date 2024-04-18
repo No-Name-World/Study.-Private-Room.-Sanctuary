@@ -1,4 +1,4 @@
-1. **Book Title:** Exploring Microsoft Office Access 2019 Comprehensive 🚨🚨PDF🚨🚨🚨
+1. **Book Title:** Exploring Microsoft Office Access 2019 Comprehensive 📒🔐🚫waiting
    - **Edition Details:** 1st
    - **Authors:** Mary Poatsy, Keith Mulbery, Jason Davidson
    - **Publisher:** Pearson
