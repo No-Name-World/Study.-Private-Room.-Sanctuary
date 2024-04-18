@@ -12,7 +12,7 @@
    - **ISBN-13:** 978-1337568944  
    - **Publication Date:** April 17, 2018
 
-3. **Book Title:** Management of Information Security 📒🔐🚫waiting 
+3. **Book Title:** Management of Information Security 🚨🚨🚨🚨🚨
    - **Edition Details:** 6th  
    - **Authors:** Michael E. Whitman, Herbert J. Mattord  
    - **Publisher:** Cengage Learning  
