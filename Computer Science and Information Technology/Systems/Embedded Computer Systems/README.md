@@ -1,4 +1,4 @@
-1. **Book Title:** Computers as Components: Principles of Embedded Computing System Design🚨🚨PDF🚨🚨🚨
+1. **Book Title:** Computers as Components: Principles of Embedded Computing System Design 📒🔐🚫waiting QA76.9.S88 W85 2023
    - **Edition Details:** 5th
    - **Authors:** Marilyn Wolf
    - **Publisher:** Morgan Kaufmann
