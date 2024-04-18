@@ -1,4 +1,4 @@
-1. **Book Title:** Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die
+1. **Book Title:** Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die 📒🔐
    - **Edition Details:** 2nd, Revised and Updated Edition
    - **Author:** Eric Siegel
    - **Publisher:** Wiley
