@@ -1,4 +1,4 @@
-1. **Sloman, Garratt & Guest Economics**
+1. **Book Title:** Sloman, Garratt & Guest Economics
    - **Edition Details:** 11th
    - **Authors:** John Sloman, Dean Garratt, Jon Guest
    - **Publisher:** Pearson
