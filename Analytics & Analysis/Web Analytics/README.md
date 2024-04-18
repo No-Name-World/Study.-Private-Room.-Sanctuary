@@ -1,4 +1,4 @@
-1. **Book Title:** Web Analytics 2.0: The Art of Online Accountability and Science of Customer Centricity
+1. **Book Title:** Web Analytics 2.0: The Art of Online Accountability and Science of Customer Centricity 📒🔐
 - **Edition Details:** 1st
 - **Author:** Avinash Kaushik
 - **Publisher:** Sybex
