@@ -40,7 +40,7 @@
    **ISBN-13:** 978-0321712479  
    **Publication Date:** December 28, 2010
 
-7. **Book Title:** Succeeding with Agile: Software Development Using Scrum  
+7. **Book Title:** Succeeding with Agile: Software Development Using Scrum 🚨🚨🚨🚨🚨 
    **Edition Details:** 1st  
    **Author:** Mike Cohn  
    **Publisher:** Addison-Wesley Professional  
