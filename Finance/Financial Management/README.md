@@ -11,3 +11,10 @@
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292349848, 978-1292349824
    - **Publication Date:** September 14, 2020
+
+3. **Book Title:** Foundations of Financial Management 📒🔐🚫waiting HG4026 B65 2023EB	
+   - **Edition Details:** 18th, International Student Edition
+   - **Authors:** Stanley B. Block, Geoffrey A. Hirt, Bartley Danielsen 
+   - **Publisher:** McGraw Hill
+   - **ISBN-13:** 978-1265622114, 978-1265074654, 978-1264097623
+   - **Publication Date:** March 8, 2022
