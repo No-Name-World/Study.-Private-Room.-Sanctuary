@@ -1,5 +1,4 @@
 1. **Book Title:** 
-
    - **Edition Details:** 
    - **Authors:** 
    - **Publisher:** 
