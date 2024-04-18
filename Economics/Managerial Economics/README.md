@@ -1,11 +1,11 @@
-1. **Managerial Economics**
+1. **Book Title:** Managerial Economics
    - **Edition Details:** 7th
    - **Authors:** Paul G. Keat, Philip K. Young, Steve Erfle
    - **Publisher:** Pearson
    - **ISBN-13:** 978-0133020267
    - **Publication Date:** February 5, 2013
 
-2. **Managerial Economics & Business Strategy**
+2. **Book Title:** Managerial Economics & Business Strategy
    - **Edition Details:** 10th
    - **Authors:** Michael Baye, Jeff Prince
    - **Publisher:** McGraw Hill
