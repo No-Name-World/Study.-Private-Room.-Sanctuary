@@ -1,4 +1,4 @@
-1. **Book Title:** Fundamentals of Corporate Finance
+1. **Book Title:** Fundamentals of Corporate Finance 📒🔐🚫waiting
    - **Edition Details:** 13th, International Student Edition
    - **Authors:** Bradford D. Jordan Stephen A. Ross, Randolph W. Westerfield
    - **Publisher:** McGraw Hill
