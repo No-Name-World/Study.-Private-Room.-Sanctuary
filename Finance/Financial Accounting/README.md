@@ -1,4 +1,4 @@
-1. **Book Title:** Horngren's Financial & Managerial Accounting: The Financial Chapters🚨🚨PDF🚨🚨🚨
+1. **Book Title:** Horngren's Financial & Managerial Accounting: The Financial Chapters 📒🚫
    - **Edition Details:** 7th, Global Edition
    - **Authors:** Tracie Miller-Nobles, Brenda Mattison, Ella Mae Matsumura
    - **Publisher:** Pearson
