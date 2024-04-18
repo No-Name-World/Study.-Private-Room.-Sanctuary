@@ -1,4 +1,4 @@
-1. **Book Title:** Joe Celko's SQL for Smarties: Advanced SQL Programming🚨🚨🚨🚨🚨
+1. **Book Title:** Joe Celko's SQL for Smarties: Advanced SQL Programming 📒🔐🚫 Waiting
 - **Edition Details:** 5th
 - **Author:** Joe Celko
 - **Publisher:** Morgan Kaufmann
