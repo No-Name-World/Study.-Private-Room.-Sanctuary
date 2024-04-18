@@ -1,4 +1,4 @@
-1. **Book Title:** Computer Vision: A Modern Approach 🚨🚨🚨🚨🚨
+1. **Book Title:** Computer Vision: A Modern Approach 📒🚫 Check: TA1634 F73 2012
 - **Edition Details:** 2nd, International Edition
 - **Authors:** David A. Forsyth, Jean Ponce
 - **Publisher:** Pearson
