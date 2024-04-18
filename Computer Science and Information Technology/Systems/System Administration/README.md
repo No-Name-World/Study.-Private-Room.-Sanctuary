@@ -1,4 +1,4 @@
-1. **Book Title:**  PowerShell for Sysadmins: Workflow Automation Made Easy🚨🚨PDF🚨🚨🚨
+1. **Book Title:**  PowerShell for Sysadmins: Workflow Automation Made Easy 📒🔐🚫waiting
    - **Edition Details:** 1st
    - **Author:** Adam Bertram
    - **Publisher:** No Starch Press
