@@ -12,7 +12,7 @@
    - **ISBN-13:** 978-1285856872, 978-1337014045
    - **Publication Date:** July 30, 2015
 
-3. **Book Title:** Visual C# How to Program
+3. **Book Title:** Visual C# How to Program 📒🔐
    - **Edition Details:** 6th, Global Edition
    - **Authors:** Harvey Deitel, Paul Deitel
    - **Publisher:** Pearson
