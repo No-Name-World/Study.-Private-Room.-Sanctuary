@@ -1,4 +1,4 @@
-1. **Book Title:** ![pdf]
+1. **Book Title:** 
 
    - **Edition Details:** 
    - **Authors:** 
