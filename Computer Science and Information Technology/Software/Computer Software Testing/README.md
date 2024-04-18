@@ -9,21 +9,21 @@ C. **MSTB – Malaysian Software Testing Board**
 
 ---
 
-1. **Foundations of Software Testing ISTQB Certification**  
+1. **Book Title:** Foundations of Software Testing ISTQB Certification
    - **Edition Details:** 4th  
    - **Authors:** Dorothy Graham, Rex Black, Erik van Veenendaal  
    - **Publisher:** Cengage Learning  
    - **ISBN-13:** 978-1473764798, 978-1473764811  
    - **Publication Date:** June 7, 2021
 
-2. **Software Testing: An ISTQB-BCS Certified Tester Foundation Level guide (CTFL v4.0)**  
+2. **Book Title:** Software Testing: An ISTQB-BCS Certified Tester Foundation Level guide (CTFL v4.0)  
    - **Edition Details:** 5th  
    - **Authors:** Geoff Thompson, Peter Morgan, Angelina Samaroo, John Kurowski, Peter Williams, Marie Salmon, Paul Weymouth  
    - **Publisher:** BCS, The Chartered Institute for IT  
    - **ISBN-13:** 978-1780176383  
    - **Publication Date:** March 6, 2024
 
-3. **Software Testing Foundations, 5th Edition: A Study Guide for the Certified Tester Exam**  
+3. **Book Title:** Software Testing Foundations, 5th Edition: A Study Guide for the Certified Tester Exam  
    - **Edition Details:** 5th  
    - **Authors:** Andreas Spillner, Tilo Linz  
    - **Publisher:** Rocky Nook  
