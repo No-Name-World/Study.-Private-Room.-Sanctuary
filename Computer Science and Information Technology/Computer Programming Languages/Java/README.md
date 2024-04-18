@@ -12,7 +12,7 @@
    - **ISBN-13:** 978-0134685991
    - **Publication Date:** December 27, 2017
 
-3. **Book Title:** Introduction to Java Programming and Data Structures: Comprehensive Version
+3. **Book Title:** Introduction to Java Programming and Data Structures: Comprehensive Version 🚨🚨🚨🚨🚨
    - **Edition Details:** 12th, Global Edition
    - **Author:** Y. Daniel Liang
    - **Publisher:** Pearson
@@ -26,21 +26,21 @@
    - **ISBN-13:** 978-1265058432
    - **Publication Date:** January 11, 2024
 
-5. **Book Title:** Java How to Program, Early Objects
+5. **Book Title:** Java How to Program, Early Objects 📒🔐
    - **Edition Details:** 11th, Global Edition
    - **Authors:** Harvey Deitel, Paul J. Deitel
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292223858
    - **Publication Date:** January 1, 2017
 
-6. **Book Title:** Java How to Program, Late Objects 
+6. **Book Title:** Java How to Program, Late Objects 📒🔐
    - **Edition Details:** 11th, Global Edition
    - **Authors:** Harvey Deitel, Paul J. Deitel
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292273730
    - **Publication Date:** September 6, 2019
 
-7. **Book Title:** Java Programming 🚨🚨PDF🚨🚨🚨
+7. **Book Title:** Java Programming 📒🚫
    - **Edition Details:** 10th
    - **Author:** Joyce Farrell
    - **Publisher:** Cengage Learning
