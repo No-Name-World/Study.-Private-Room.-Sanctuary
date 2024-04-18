@@ -1,11 +1,11 @@
-1. **Book Title:** Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+1. **Book Title:** Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 📒🔐
    - **Edition Details:** 1st
    - **Author:** Martin Kleppmann
    - **Publisher:** O'Reilly Media
    - **ISBN-13:** 978-1449373320
    - **Publication Date:** May 2, 2017
 
-2. **Book Title:** Distributed Systems: Concepts and Design🚨🚨PDF🚨🚨🚨
+2. **Book Title:** Distributed Systems: Concepts and Design 📒🔐🚫waiting
    - **Edition Details:** 5th, International Edition
    - **Authors:** George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair
    - **Publisher:** Pearson
