@@ -1,4 +1,4 @@
-1. **Book Title:** Reward Management: Alternatives, Consequences and Contexts 🚨🚨🚨🚨🚨
+1. **Book Title:** Reward Management: Alternatives, Consequences and Contexts 🚨🚨🚨🚨🚨  
    **Edition Details:** 5th  
    **Authors:** Sarah Jones, Stephen J Perkins  
    **Publisher:** CIPD - Kogan Page  
