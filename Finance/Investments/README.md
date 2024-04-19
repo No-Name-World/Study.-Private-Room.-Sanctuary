@@ -6,7 +6,7 @@
    - **Publication Date:** September 5, 2022
 
 2. **Book Title:** Investments 📒🔐	
-   - **Edition Details:** 13th, International Student Edition
+   - **Edition Details:** 13th, International Student Edition (ISE)
    - **Authors:** Zvi Bodie, Alex Kane, Alan Marcus
    - **Publisher:** McGraw Hill
    - **ISBN-13:** 978-1264412662
