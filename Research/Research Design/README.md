@@ -19,16 +19,8 @@
    - **ISBN-13:** 978-1071817940, 978-1071817964
    - **Publication Date:** November 8, 2022
 
-4. **Book Title:** Researching Information Systems and Computing🚨🚨🚨🚨🚨
-   - **Edition Details:** 2nd
-   - **Authors:** Briony J Oates, Marie Griffiths, Rachel McLean
-   - **Publisher:** SAGE Publications Ltd
-   - **ISBN-13:** 978-1529732696
-   - **Publication Date:** March 1, 2022
 
-
-
-7. **Book Title:** Research Methodology: A Step-by-Step Guide for Beginners🚨🚨🚨🚨🚨
+4. **Book Title:** Research Methodology: A Step-by-Step Guide for Beginners🚨🚨🚨🚨🚨
    - **Edition Details:** 5th
    - **Author:** Ranjit Kumar
    - **Publisher:** SAGE Publications Ltd
