@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-0646812816
    - **Publication Date:** December 10, 2019
 
-2. **Book Title:** Options, Futures, and Other Derivatives (HG6024.A3 H912 2018)🚨🚨🚨🚨🚨
+2. **Book Title:** Options, Futures, and Other Derivatives 📒🔐🚫 waiting HG6024.A3 H912 2018
    - **Edition Details:** 11th, Global Edition
    - **Authors:** John Hull
    - **Publisher:** Pearson
