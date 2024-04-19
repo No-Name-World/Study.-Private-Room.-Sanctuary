@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1264258284, 978-1264258277
    - **Publication Date:** September 5, 2022
 
-2. **Book Title:** Investments 📒🔐🚫waiting HG4521 B66 2024EB	
+2. **Book Title:** Investments 📒🔐	
    - **Edition Details:** 13th, International Student Edition
    - **Authors:** Zvi Bodie, Alex Kane, Alan Marcus
    - **Publisher:** McGraw Hill
