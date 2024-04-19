@@ -13,7 +13,7 @@
    - **Publication Date:** September 14, 2020
 
 3. **Book Title:** Foundations of Financial Management 📒🔐
-   - **Edition Details:** 18th, International Student Edition
+   - **Edition Details:** 18th, International Student Edition (ISE)
    - **Authors:** Stanley B. Block, Geoffrey A. Hirt, Bartley Danielsen 
    - **Publisher:** McGraw Hill
    - **ISBN-13:** 978-1265622114, 978-1265074654, 978-1264097623
