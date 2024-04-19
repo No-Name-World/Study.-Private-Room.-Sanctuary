@@ -26,19 +26,7 @@
    - **ISBN-13:** 978-1529732696
    - **Publication Date:** March 1, 2022
 
-5. **Book Title:** Research Methods for Business Students🚨🚨🚨PDF🚨🚨
-   - **Edition Details:** 9th
-   - **Author:** Adrian Thornhill
-   - **Publisher:** Pearson
-   - **ISBN-13:** 978-1292402727, 978-1292402741
-   - **Publication Date:** March 21, 2023
 
-6. **Book Title:** Research Methods For Business: A Skill Building Approach🚨🚨PDF🚨🚨🚨
-   - **Edition Details:** 7th
-   - **Authors:** Uma Sekaran, Roger Bougie
-   - **Publisher:** Wiley
-   - **ISBN-13:** 978-1119165552, 978-1119266846
-   - **Publication Date:** June 27, 2016
 
 7. **Book Title:** Research Methodology: A Step-by-Step Guide for Beginners🚨🚨🚨🚨🚨
    - **Edition Details:** 5th
