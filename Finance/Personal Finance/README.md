@@ -1,4 +1,4 @@
-1. **Book Title:** Focus on Personal Finance 📒🔐🚫waiting HG179 K171 2022EB
+1. **Book Title:** Focus on Personal Finance 📒🚫
    - **Edition:** 7th, International Student Edition
    - **Author:** Jack Kapoor, Les Dlabay, Robert Hughes J., Melissa Hart
    - **Publisher:** McGraw Hill
