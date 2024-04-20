@@ -33,21 +33,7 @@
    - **ISBN-13:** 978-0443187612, 978-0443187605
    - **Publication Date:** July 19, 2023
 
-6. **Book Title:** Mathematics for Economics and Business🚨🚨PDF🚨🚨🚨
-   - **Edition Details:** 10th
-   - **Author:** Ian Jacques
-   - **Publisher:** Pearson
-   - **ISBN-13:** 978-1292469621, 978-1292720128
-   - **Publication Date:** March 6, 2023
-
-7. **Book Title:** Statistics for Business & Economics🚨🚨🚨🚨🚨
-   - **Edition Details:** 14th, Global Edition
-   - **Authors:** James T. Mc, P George Benson, Terry T. Sincich
-   - **Publisher:** Pearson
-   - **ISBN-13:** 978-1292413525, 978-1292413396
-   - **Publication Date:** November 8, 2021
-
-8. **Book Title:** Statistical Methods for the Social Sciences🚨🚨🚨🚨🚨
+6. **Book Title:** Statistical Methods for the Social Sciences🚨🚨🚨🚨🚨
    - **Edition Details:** 5th
    - **Author:** Alan Agresti
    - **Publisher:** Pearson
