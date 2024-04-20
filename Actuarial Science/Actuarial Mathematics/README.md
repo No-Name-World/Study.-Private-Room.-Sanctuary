@@ -4,3 +4,10 @@
    - **Publisher:** Cambridge University Press
    - **ISBN-13:** 978-1108478083
    - **Publication Date:** January 30, 2020
+
+2. **Book Title:** Mathematical Interest Theory 📒🔐🚫waiting HB539 V11 2019EB	
+   - **Edition Details:** 3rd
+   - **Authors:** Leslie Jane Federer Vaaler, Shinko Kojima Harper, James W. Daniel
+   - **Publisher:** American Mathematical Society
+   - **ISBN-13:** 978-1470443931, 978-1470455309
+   - **Publication Date:** April 15, 2021
