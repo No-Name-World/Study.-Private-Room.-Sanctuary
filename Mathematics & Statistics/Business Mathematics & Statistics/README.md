@@ -1,4 +1,4 @@
-1. **Book Title:** Basic Business Statistics 🚨🚨PDF🚨🚨🚨 HF1017 B48 2020EB
+1. **Book Title:** Basic Business Statistics 📒🔐🚫 waiting HF1017 B48 2020EB
    - **Edition Details:** 14th, Global Edition
    - **Author:** Mark L. Berenson, David M. Levine, Kathryn A. Szabat, David F. Stephan
    - **Publisher:** Pearson
