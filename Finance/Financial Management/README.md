@@ -1,4 +1,4 @@
-1. **Book Title:** Financial Management for Decision Makers 📒🔐🚫waiting
+1. **Book Title:** Financial Management for Decision Makers 📒🔐
    - **Edition Details:** 9th
    - **Author:** Dr. Peter Atrill
    - **Publisher:** Pearson
