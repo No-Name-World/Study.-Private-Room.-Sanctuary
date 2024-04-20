@@ -1,4 +1,4 @@
-1. **Book Title:** Elementary Linear Algebra🚨🚨🚨🚨🚨
+1. **Book Title:** Elementary Linear Algebra 📒🔐🚫waiting QA184.2 A631 2019EB
    - **Edition Details:** 12th
    - **Authors:** Howard Anton, Anton Kaul
    - **Publisher:** Wiley
