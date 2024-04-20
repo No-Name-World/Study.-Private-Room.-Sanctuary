@@ -1,25 +1,25 @@
-1. **Book Title:** Advances in Data Science and Analytics: Concepts and Paradigms 📒🔐🚫waiting
+1. **Book Title:** Advances in Data Science and Analytics: Concepts and Paradigms 📒🔐
    - **Edition Details:** 1st
    - **Authors:** M. Niranjanamurthy, Hemant Kumar Gianey, Amir H. Gandomi
    - **Publisher:** Wiley-Scrivener
    - **ISBN-13:** 978-1119792802
    - **Publication Date:** November 1, 2022
 
-2. **Book Title:** Advances in Mobile Cloud Computing and Big Data in the 5G Era 📒🔐🚫 waiting Check: QA76.59 A24 2017
+2. **Book Title:** Advances in Mobile Cloud Computing and Big Data in the 5G Era 📒🔐 waiting Check: QA76.59 A24 2017
    - **Edition Details:** 1st
    - **Authors:** Constandinos X. Mavromoustakis, George Mastorakis, Ciprian Dobre
    - **Publisher:** Springer
    - **ISBN-13:** 978-3319832227, 978-3319451459
    - **Publication Date:** June 28, 2018
 
-3. **Book Title:** Analytics in a Big Data World: The Essential Guide to Data Science and its Applications 📒🔐🚫 Waiting
+3. **Book Title:** Analytics in a Big Data World: The Essential Guide to Data Science and its Applications 📒🔐
    - **Edition Details:** 1st
    - **Author:** Bart Baesens
    - **Publisher:** Wiley
    - **ISBN-13:** 978-1118892701
    - **Publication Date:** May 9, 2014
 
-4. **Book Title:** Big Data Analytics Using Splunk: Deriving Operational Intelligence from Social Media, Machine Data, Existing Data Warehouses, and Other Real-Time Streaming Sources 📒🔐🚫 Waiting Check: QA76.9.B45 Z17 2013
+4. **Book Title:** Big Data Analytics Using Splunk: Deriving Operational Intelligence from Social Media, Machine Data, Existing Data Warehouses, and Other Real-Time Streaming Sources 📒🔐 Waiting Check: QA76.9.B45 Z17 2013
    - **Edition Details:** 1st
    - **Authors:** Peter Zadrozny, Raghu Kodali
    - **Publisher:** Apress
