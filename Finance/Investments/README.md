@@ -1,4 +1,4 @@
-1. **Book Title:** Fixed Income Analysis Workbook (CFA Institute Investment Series) 📒🔐🚫waiting HG4650 F12 2022EB
+1. **Book Title:** Fixed Income Analysis Workbook (CFA Institute Investment Series) 🚨🚨🚨🚨🚨 HG4650 F12 2022EB
    - **Edition Details:** 5th
    - **Authors:** Barbara S. Petitt
    - **Publisher:** Wiley
