@@ -1,4 +1,4 @@
-1. **Book Title:** Organizational Behavior  📒🔐🚫 Waiting  
+1. **Book Title:** Organizational Behavior  📒🚫
    **Edition Details:** 19th, Global Edition  
    **Authors:** Stephen P. Robbins, Timothy A. Judge  
    **Publisher:** Pearson  
