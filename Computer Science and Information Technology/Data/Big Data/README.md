@@ -26,14 +26,14 @@
    - **ISBN-13:** 978-1430257615
    - **Publication Date:** May 22, 2013
 
-5. **Book Title:** Big Data for Qualitative Research 📒🔐🚫 Waiting
+5. **Book Title:** Big Data for Qualitative Research 📒🔐
    - **Edition Details:** 1st
    - **Author:** Kathy A. Mills
    - **Publisher:** Routledge
    - **ISBN-13:** 978-0429508677, 978-0367173814
    - **Publication Date:** March 19, 2019
 
-6. **Book Title:** Big Data Mining and Complexity 📒🔐🚫 Waiting
+6. **Book Title:** Big Data Mining and Complexity 📒🔐
    - **Edition Details:** 1st
    - **Authors:** Brian C. Castellani, Rajeev Rajaram
    - **Publisher:** SAGE Publications
