@@ -40,7 +40,7 @@
    - **ISBN-13:** 978-1529711011, 978-1526423818
    - **Publication Date:** May 30, 2022
 
-7. **Book Title:** Blockchain, Big Data and Machine Learning: Trends and Applications 📒🔐🚫 Waiting
+7. **Book Title:** Blockchain, Big Data and Machine Learning: Trends and Applications 📒🔐
    - **Edition Details:** 1st
    - **Authors:** Neeraj Kumar, N. Gayathri, Md Arafatur Rahman, B. Balamurugan
    - **Publisher:** CRC Press
@@ -61,7 +61,7 @@
    - **ISBN-13:** 978-1398601710
    - **Publication Date:** November 3, 2023
 
-10. **Book Title:** The Visual Organization: Data Visualization, Big Data, and the Quest for Better Decisions 📒🔐🚫 Waiting
+10. **Book Title:** The Visual Organization: Data Visualization, Big Data, and the Quest for Better Decisions 📒🔐
     - **Edition Details:** 1st
     - **Author:** Phil Simon
     - **Publisher:** Wiley
