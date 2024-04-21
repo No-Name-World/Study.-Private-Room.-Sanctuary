@@ -11,3 +11,10 @@
    - **Publisher:** McGraw Hill
    - **ISBN-13:** 978-1266131615, 978-1266479328, 978-1266114762  
    - **Publication Date:** January 25, 2023
+
+3. **Book Title:** Consumer Behavior: Buying, Having, and Being, Global Edition  🚨🚨🚨🚨🚨 HF5415.32 S68 2020EB
+   - **Edition Details:** 13th, Global Edition
+   - **Authors:** Michael R. Solomon
+   - **Publisher:** Pearson
+   - **ISBN-13:** 978-1292318202, 978-1292318103
+   - **Publication Date:** October 10, 2019
