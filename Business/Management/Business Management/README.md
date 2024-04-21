@@ -19,7 +19,14 @@
    - **ISBN-13:** 978-1292340883, 978-1292340890
    - **Publication Date:** March 4, 2020
 
-4. **Book Title:** New Era Management 🚨🚨🚨🚨🚨
+4. **Book Title:** Modern Management: Concepts and Skills 📒🔐🚫 HD31 C412 2019EB
+   - **Edition Details:** 15th, Global Edition
+   - **Author:** Samuel Certo
+   - **Publisher:** Pearson
+   - **ISBN-13:** 978-1292265193, 978-1292265247
+   - **Publication Date:** March 6, 2019
+
+5. **Book Title:** New Era Management 🚨🚨🚨🚨🚨
    - **Edition Details:** 11th, International Edition
    - **Author:** Richard L. Daft
    - **Publisher:** Cengage Learning
