@@ -1,4 +1,11 @@
-1. **Book Title:** Organizational Behavior  📒🚫
+1. **Book Title:** Behavior in Organizations 📒🔐🚫 HD58.7 G79 2011
+   **Edition Details:** 10th, Global Edition  
+   **Authors:** Jerald Greenberg
+   **Publisher:** Pearson  
+   **ISBN-13:** "978-1447930433, 978-1408264300"  
+   **Publication Date:** November 25, 2010
+
+2. **Book Title:** Organizational Behavior  📒🚫
    **Edition Details:** 19th, Global Edition  
    **Authors:** Stephen P. Robbins, Timothy A. Judge  
    **Publisher:** Pearson  
