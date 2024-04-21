@@ -2,10 +2,17 @@
    - **Edition Details:** 7th  
    - **Authors:** Mick Marchington, Adrian Wilkinson, Rory Donnelly, Anastasia Kynighou  
    - **Publisher:** CIPD - Kogan Page  
-   - **ISBN-13:** 9781789664867  
+   - **ISBN-13:** 978-1789664867  
    - **Publication Date:** November 3, 2020
 
-2. **Book Title:** International Human Resource Management 🚨🚨🚨🚨🚨  
+2. **Book Title:** Human Resource Management Essentials You Always Wanted To Know (Self-Learning Management Series) 🚨🚨🚨🚨🚨  
+   - **Edition Details:** 1st  
+   - **Authors:** Vibrant Publishers, Jaquina Gilbert
+   - **Publisher:** Vibrant Publishers 
+   - **ISBN-13:** 978-1949395839
+   - **Publication Date:** May 2, 2020
+
+3. **Book Title:** International Human Resource Management 🚨🚨🚨🚨🚨  
    - **Edition Details:** 6th  
    - **Authors:** B. Sebastian Reiche, Helene Tenzer, Anne-Wil Harzing  
    - **Publisher:** SAGE Publications Ltd  
