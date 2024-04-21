@@ -1,4 +1,4 @@
-1. **Book Title:** Loss Models: From Data to Decisions (Wiley Series in Probability and Statistics) 📒🔐🚫waiting HG8781 K66 2019EB
+1. **Book Title:** Loss Models: From Data to Decisions (Wiley Series in Probability and Statistics) 📒🔐
    - **Edition Details:** 5th
    - **Authors:** Stuart A. Klugman, Harry H. Panjer, Gordon E. Willmot
    - **Publisher:** Wiley
