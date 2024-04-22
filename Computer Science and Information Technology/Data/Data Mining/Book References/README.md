@@ -1,11 +1,11 @@
-1. **Book Title:** Data Mining and Machine Learning Applications 📒🔐🚫waiting
+1. **Book Title:** Data Mining and Machine Learning Applications 📒🔐
    - **Edition Details:** 1st
    - **Authors:** Rohit Raja, Kapil Kumar Nagwanshi, Sandeep Kumar, K. Ramya Laxmi
    - **Publisher:** Wiley
    - **ISBN-13:** 978-1119792505, 978-1119791782
    - **Publication Date:** February 8, 2022
 
-2. **Book Title:** Data Mining and Predictive Analytics 📒🔐🚫waiting
+2. **Book Title:** Data Mining and Predictive Analytics 📒🔐
    - **Edition Details:** 2nd
    - **Author:** Daniel T. Larose
    - **Publisher:** Wiley
