@@ -12,14 +12,14 @@
    - **ISBN-13:** 978-1118116197, 978-1118868706, 978-1118991121
    - **Publication Date:** March 16, 2015
 
-3. **Book Title:** Data Mining for Co-location Patterns: Principles and Applications 📒🔐🚫waiting
+3. **Book Title:** Data Mining for Co-location Patterns: Principles and Applications 📒🔐
    - **Edition Details:** 1st
    - **Author:** Guoqing Zhou
    - **Publisher:** CRC Press
    - **ISBN-13:** 978-1003139416, 978-0367654269
    - **Publication Date:** January 27, 2022
 
-4. **Book Title:** Data Mining: Practical Machine Learning Tools and Techniques 📒🔐🚫waiting
+4. **Book Title:** Data Mining: Practical Machine Learning Tools and Techniques 📒🔐
    - **Edition Details:** 4th
    - **Authors:** Ian H. Witten, Eibe Frank, Mark A. Hall, Christopher J. Pal
    - **Publisher:** Morgan Kaufmann
