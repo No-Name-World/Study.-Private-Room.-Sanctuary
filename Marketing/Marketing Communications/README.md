@@ -19,3 +19,9 @@
    - **ISBN-13:** 978-1292411347, 978-1292411217
    - **Publication Date:** August 4, 2021
 
+4. **Book Title:** Principles of Integrated Marketing Communications: An Evidence-based Approach 🚨🚨🚨🚨🚨 HF5415.123 A58 2021
+   - **Edition Details:** 2nd
+   - **Authors:** Lawrence Ang
+   - **Publisher:** Cambridge University Press
+   - **ISBN-13:** 978-1108703116
+   - **Publication Date:** February 23, 2021
