@@ -5,6 +5,13 @@
    - **ISBN-13:** 978-1292262147, 978-1292262062
    - **Publication Date:** 1 Jan. 2019
 
+2. **Book Title:** Advertising, Promotion, and other aspects of Integrated Marketing Communications 🚨🚨🚨🚨🚨 HF5415.123 S55 2018
+   - **Edition Details:** 10th
+   - **Authors:** J. Craig Andrews, Terence A. Shimp
+   - **Publisher:** Cengage Learning
+   - **ISBN-13:** 978-1337282659, 978-1337282659
+   - **Publication Date:** August 7, 2017
+
 2. **Book Title:** Advertising and Promotion: An Integrated Marketing Communications Perspective 📒🔐🚫 waiting HF5823 B42 2021
    - **Edition Details:** 12th, International Student Edition
    - **Authors:** George E. Belch, Michael A. Belch
