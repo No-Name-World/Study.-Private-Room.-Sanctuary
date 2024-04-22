@@ -11,3 +11,10 @@
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292276540, 978-1292276571
    - **Publication Date:** January 13, 2020
+
+3. **Book Title:** Strategic Marketing: Creating Competitive Advantage 🚨🚨🚨🚨🚨 HF5415.135 W61 2022
+   - **Edition Details:** 4th
+   - **Authors:** Douglas West, John Ford, Essam Ibrahim, and Matteo Montecchi
+   - **Publisher:** Oxford University Press, USA
+   - **ISBN-13:** 978-0198856764
+   - **Publication Date:** September 2, 2022
