@@ -40,7 +40,7 @@
    - **ISBN-13:** 978-0273769224
    - **Publication Date:** January 1, 2016
 
-7. **Book Title:** Learning Spark: Lightning-Fast Data Analytics 📒🔐🚫waiting
+7. **Book Title:** Learning Spark: Lightning-Fast Data Analytics 📒🔐
    - **Edition Details:** 2nd
    - **Authors:** Jules Damji, Brooke Wenig, Tathagata Das, Denny Lee
    - **Publisher:** O'Reilly Media
