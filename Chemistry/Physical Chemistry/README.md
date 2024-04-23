@@ -1,4 +1,4 @@
-1. **Book Title:** Physical Chemsitry: Quantum Chemistry and Spectroscopy (What's New in Chemistry) 📒🔐🚫 QD453.3 E57 2019
+1. **Book Title:** Physical Chemistry: Quantum Chemistry and Spectroscopy (What's New in Chemistry) 📒🔐🚫 QD453.3 E57 2019
    - **Edition Details:** 4th
    - **Authors:** Thomas Engel, Philip Reid
    - **Publisher:** Pearson
