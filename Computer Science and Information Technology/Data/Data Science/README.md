@@ -1,4 +1,4 @@
-1. **Book Title:** Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics 📒🔐🚫 Waiting
+1. **Book Title:** Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics 📒🔐
    - **Edition Details:** 1st
    - **Author:** Thomas Nield
    - **Publisher:** O'Reilly Media
