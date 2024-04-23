@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1098102937
    - **Publication Date:** July 5, 2022
  
-2. **Book Title:** Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python 📒🔐🚫waiting
+2. **Book Title:** Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python 📒🔐
    - **Edition Details:** 2nd
    - **Authors:** Peter Bruce, Andrew Bruce, Peter Gedeck
    - **Publisher:** O'Reilly Media
