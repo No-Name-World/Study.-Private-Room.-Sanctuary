@@ -1,4 +1,4 @@
-1. **Book Title:** Fundamentals of Materials Science and Engineering: An Integrated Approach🚨🚨🚨🚨🚨
+1. **Book Title:** Fundamentals of Materials Science and Engineering: An Integrated Approach🚨🚨🚨🚨🚨TA403 C161 2021EB
    - **Edition Details:** 6th
    - **Authors:** William D. Callister Jr., David G. Rethwisch
    - **Publisher:** Wiley
