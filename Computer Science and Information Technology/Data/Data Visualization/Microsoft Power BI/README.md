@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1801811484
    - **Publication Date:** June 30, 2022
 
-2. **Book Title:** Microsoft Power BI For Dummies 📒🔐🚫waiting
+2. **Book Title:** Microsoft Power BI For Dummies 📒🔐
    - **Edition Details:** 1st
    - **Author:** Jack A. Hyman
    - **Publisher:** Wiley
