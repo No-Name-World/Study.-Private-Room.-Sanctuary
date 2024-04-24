@@ -1,4 +1,4 @@
-1. **Book Title:** Data Points: Visualization That Means Something 📒🔐🚫waiting
+1. **Book Title:** Data Points: Visualization That Means Something 📒🚫
    - **Edition Details:** 1st
    - **Author:** Nathan Yau
    - **Publisher:** Wiley
