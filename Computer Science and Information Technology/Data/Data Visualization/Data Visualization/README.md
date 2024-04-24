@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1118462195, 978-1118462225
    - **Publication Date:** April 15, 2013
 
-2. **Book Title:** Storytelling with Data: A Data Visualization Guide for Business Professionals 📒🔐🚫waiting Check: QA76.9.I52 K67 2015
+2. **Book Title:** Storytelling with Data: A Data Visualization Guide for Business Professionals 📒🔐 QA76.9.I52 K67 2015
    - **Edition Details:** 1st
    - **Author:** Cole Nussbaumer Knaflic
    - **Publisher:** Wiley
