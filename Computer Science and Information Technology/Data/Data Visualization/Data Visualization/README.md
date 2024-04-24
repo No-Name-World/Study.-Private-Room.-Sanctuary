@@ -12,7 +12,7 @@
    - **ISBN-13:** 978-1119002253
    - **Publication Date:** November 2, 2015
 
-3. **Book Title:** The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios 📒🔐🚫waiting Check: HD30.213 W54 2017
+3. **Book Title:** The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios 📒🚫waiting Check: HD30.213 W54 2017
    - **Edition Details:** 1st
    - **Authors:** Steve Wexler, Jeffrey Shaffer, Andy Cotgreave
    - **Publisher:** Wiley
