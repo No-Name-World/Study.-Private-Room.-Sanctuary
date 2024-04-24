@@ -12,11 +12,11 @@
    - **ISBN-13:** 978-1260597585
    - **Publication Date:** April 23, 2021
 
-3. **Book Title:** Heat and Mass Transfer: Fundamentals and Applications 📒🔐🚫 TJ260 C39 2020EB
-   - **Edition Details:** 6th, International Student Edition (ISE)
+3. **Book Title:** Heat and Mass Transfer: Fundamentals and Applications 📒🔐🚫
+   - **Edition Details:** 6th
    - **Authors:** Yunus A. Cengel, Afshin J. Ghajar
    - **Publisher:** McGraw Hill
-   - **ISBN-13:** 978-1260577129 
+   - **ISBN-13:** 978-0073398198 
    - **Publication Date:** March 21, 2019
 
 4. **Book Title:** Thermodynamics: An Engineering Approach 🚨🚨🚨🚨🚨 TJ265 C39 2024EB
