@@ -19,12 +19,12 @@
    - **ISBN-13:** 978-0073398198 
    - **Publication Date:** March 21, 2019
 
-4. **Book Title:** Introduction to Chemical Engineering Thermodynamics 🚨🚨🚨🚨🚨
+4. **Book Title:** Introduction to Chemical Engineering Thermodynamics 🚨🚨🚨🚨🚨 TP155.2.T45 S65 2022EB
    - **Edition Details:** 9th
-   - **Authors:** 
-   - **Publisher:** 
-   - **ISBN-13:** 978-
-   - **Publication Date:** 
+   - **Authors:** J.M. Smith Termodinamica en ingenieria quimica, Hendrick C. Van Ness, Michael Abbott, Mark Swihart
+   - **Publisher:** McGraw Hill
+   - **ISBN-13:** 978-1264364596, 978-1260597684
+   - **Publication Date:** 6 May 2021
 
 5. **Book Title:** Thermodynamics: An Engineering Approach 🚨🚨🚨🚨🚨 TJ265 C39 2024EB
    - **Edition Details:** 10th, International Student Edition (ISE)
