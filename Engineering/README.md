@@ -1,14 +1,14 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://img.icons8.com/dusk/100/000000/gear.png"/>
+  <img src="YOUR_MECHANICAL_ICON_URL" width="100" height="100"/>
   <h1>Engineering Horizons</h1>
   <p>A comprehensive collection for the innovative minds in Mechanical, Electronic and Electrical, and Chemical Engineering.</p>
-  <img src="https://img.icons8.com/dusk/100/000000/gear.png"/>
+  <img src="YOUR_CHEMICAL_ICON_URL" width="100" height="100"/>
 </div>
 
 <!-- Pattern Divider -->
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2018/01/31/09/42/paper-3127029_960_720.jpg" width="400" height="200" />
+  <img src="YOUR_PATTERN_IMAGE_URL" width="400" height="200" />
 </div>
 
 ## 🛠️ Mechanical Engineering
