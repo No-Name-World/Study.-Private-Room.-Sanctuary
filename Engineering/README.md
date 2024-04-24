@@ -8,7 +8,7 @@
 
 <!-- Pattern Divider -->
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2018/01/31/09/42/paper-3127029_960_720.jpg" width="400" height="200" />
+  <img src="https://via.placeholder.com/400x200.png?text=Pattern+Divider" alt="Pattern Divider" />
 </div>
 
 ## 🛠️ Mechanical Engineering
