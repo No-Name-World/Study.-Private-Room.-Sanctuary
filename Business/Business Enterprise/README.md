@@ -27,9 +27,9 @@
 - **Publication Date:** April 6, 2023
 
 5. **Book Title:** Essentials of Entrepreneurship and Small Business Management 🚨🚨🚨🚨🚨 HD62.7 S281 2019EB
-   - **Edition Details:** 9th, Global Edition 
-   - **Authors:** Norman M. Scarborough, Jeffrey R. Cornwall
-   - **Publisher:** Pearson
-   - **ISBN-13:** 978-1292266084, 978-1292266022, 978-0134741086
-   - **Publication Date:** January 1, 2018
+- **Edition Details:** 9th, Global Edition 
+- **Authors:** Norman M. Scarborough, Jeffrey R. Cornwall
+- **Publisher:** Pearson
+- **ISBN-13:** 978-1292266084, 978-1292266022, 978-0134741086
+- **Publication Date:** January 1, 2018
 
