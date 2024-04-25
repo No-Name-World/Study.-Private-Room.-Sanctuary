@@ -1,4 +1,4 @@
-1. **Book Title:** Accounting For Value 📒🔐
+1. **Book Title:** Accounting For Value 📒🔐✅
    - **Edition Details:** 1st
    - **Authors:** Stephen Penman
    - **Publisher:** Columbia Business School Publishing
@@ -26,7 +26,7 @@
    - **ISBN-13:** 978-1292085050
    - **Publication Date:** November 1, 2015
 
-5. **Book Title:** The End of Accounting and the Path Forward for Investors and Managers 📒🔐
+5. **Book Title:** The End of Accounting and the Path Forward for Investors and Managers 📒🔐✅
    - **Edition Details:** 1st
    - **Authors:** Baruch Lev, Feng Gu
    - **Publisher:** Wiley
