@@ -12,7 +12,7 @@
    - **ISBN-13:** 978-1292341552, 978-1292341606  
    - **Publication Date:** May 4, 2020  
 
-3. **Book Title:** Artificial Intelligence and Machine Learning for Business for Non-Engineers 📒🔐 
+3. **Book Title:** Artificial Intelligence and Machine Learning for Business for Non-Engineers 📒🔐✅ 
    - **Edition Details:** 1st  
    - **Authors:** Stephan S. Jones, Frank M. Groom  
    - **Publisher:** CRC Press  
