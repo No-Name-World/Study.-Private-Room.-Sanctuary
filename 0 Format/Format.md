@@ -12,7 +12,9 @@
    - **ISBN-13:** 978-
    - **Publication Date:** 
 
-🚨🚨🚨🚨🚨
-📒 Book Cover
-🔐 PDF Available
-🚫 PDF Size Exceed
+
+    - 🚨🚨🚨🚨🚨 Not Available
+    - 📒 Book Cover
+    - 🔐 PDF Available
+    - 🚫 PDF Size Exceed
+    - ✅ PDF Can be Open
