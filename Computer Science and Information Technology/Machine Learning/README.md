@@ -26,14 +26,21 @@
    - **ISBN-13:** 978-1098107963
    - **Publication Date:** June 21, 2022
 
-5. **Book Title:** Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 📒🔐🚫waiting
+5. **Book Title:** Deep Learning: Foundations and Concepts 🚨🚨🚨🚨🚨
+   - **Edition Details:** 1st
+   - **Authors:** Christopher M. Bishop, Hugh Bishop
+   - **Publisher:** Springer
+   - **ISBN-13:** 978-3031454677
+   - **Publication Date:** November 2, 2023
+
+6. **Book Title:** Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 📒🔐🚫waiting
    - **Edition Details:** 3rd
    - **Author:** Aurélien Géron
    - **Publisher:** O'Reilly Media
    - **ISBN-13:** 978-1098125974, 978-1098122461
    - **Publication Date:** November 8, 2022
 
-6. **Book Title:** Mathematics for Machine Learning 🚨🚨🚨🚨🚨 Q325.5 D32 2020EB
+7. **Book Title:** Mathematics for Machine Learning 🚨🚨🚨🚨🚨 Q325.5 D32 2020EB
    - **Edition Details:** 1st
    - **Authors:** Marc Peter Deisenroth
    - **Publisher:** Cambridge University Press
