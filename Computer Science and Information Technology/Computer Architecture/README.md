@@ -1,11 +1,11 @@
-1. **Book Title:** Computer Architecture: A Quantitative Approach 📒🔐
+1. **Book Title:** Computer Architecture: A Quantitative Approach 📒🔐✅
    - **Edition Details:** 6th
    - **Authors:** John L. Hennessy, David A. Patterson
    - **Publisher:** Morgan Kaufmann
    - **ISBN-13:** 978-0128119051
    - **Publication Date:** December 7, 2017
 
-2. **Book Title:** Computer Organization and Architecture: Designing for Performance 📒🔐
+2. **Book Title:** Computer Organization and Architecture: Designing for Performance 📒🔐✅
    - **Edition Details:** 11th, Global Edition
    - **Author:** William Stallings
    - **Publisher:** Pearson
@@ -19,7 +19,7 @@
    - **ISBN-13:** 978-0128201091
    - **Publication Date:** December 4, 2020
 
-4. **Book Title:** Essentials of Computer Organization and Architecture 📒🔐
+4. **Book Title:** Essentials of Computer Organization and Architecture 📒🔐✅
    - **Edition Details:** 6th
    - **Author:** Linda Null
    - **Publisher:** Jones & Bartlett Learning
