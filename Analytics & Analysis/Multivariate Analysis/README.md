@@ -12,7 +12,7 @@
    - **ISBN-13:** 978-1071807712
    - **Publication Date:** 21 February 2020
 
-3. **Book Title:** Categorical Data Analysis by Example 📒🔐
+3. **Book Title:** Categorical Data Analysis by Example 📒🔐✅
    - **Edition Details:** 1st
    - **Author:** Graham J. G. Upton
    - **Publisher:** Wiley
