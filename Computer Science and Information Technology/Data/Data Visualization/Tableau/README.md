@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-0137956821, 978-0137956937
    - **Publication Date:** June 25, 2023
 
-2. **Book Title:** Visual Analytics with Tableau 📒🔐🚫waiting
+2. **Book Title:** Visual Analytics with Tableau 📒🚫
    - **Edition Details:** 1st
    - **Author:** Alexander Loth, Nate Vogel (Foreword), Sophie Sparkes (Foreword) 
    - **Publisher:** Wiley
