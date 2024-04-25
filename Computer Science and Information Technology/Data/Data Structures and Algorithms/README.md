@@ -1,4 +1,4 @@
-1. **Book Title:** Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles 📒🔐
+1. **Book Title:** Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles 📒🔐✅
    - **Edition Details:** 5th
    - **Author:** Narasimha Karumanchi
    - **Publisher:** CareerMonk Publications
