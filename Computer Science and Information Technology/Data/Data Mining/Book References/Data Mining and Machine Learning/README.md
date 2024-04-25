@@ -19,7 +19,14 @@
    - **ISBN-13:** 978-1003139416, 978-0367654269
    - **Publication Date:** January 27, 2022
 
-4. **Book Title:** Data Mining: Practical Machine Learning Tools and Techniques 📒🔐✅
+4. **Book Title:** Data Mining: Concepts and Techniques 🚨🚨🚨🚨🚨 QA76.9.D343 H23 2023 
+   - **Edition Details:** 4th
+   - **Authors:** Jiawei Han, Jian Pei, Hanghang Tong 
+   - **Publisher:** Morgan Kaufmann
+   - **ISBN-13:** 978-0128117606
+   - **Publication Date:** October 17, 2022
+
+5. **Book Title:** Data Mining: Practical Machine Learning Tools and Techniques 📒🔐✅
    - **Edition Details:** 4th
    - **Authors:** Ian H. Witten, Eibe Frank, Mark A. Hall, Christopher J. Pal
    - **Publisher:** Morgan Kaufmann
