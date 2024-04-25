@@ -5,7 +5,7 @@
    **ISBN-13:** 978-0137969500  
    **Publication Date:** August 25, 2024
 
-2. **Book Title:** Scrum Shortcuts without Cutting Corners: Agile Tactics, Tools, & Tips 📒🔐🚫waiting  
+2. **Book Title:** Scrum Shortcuts without Cutting Corners: Agile Tactics, Tools, & Tips 📒🔐✅
    **Edition Details:** 1st  
    **Author:** Ilan Goldstein  
    **Publisher:** Addison-Wesley Professional  
