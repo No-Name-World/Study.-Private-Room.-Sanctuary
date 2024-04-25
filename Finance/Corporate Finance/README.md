@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1292304212, 978-1292304151
    - **Publication Date:** August 12, 2019
 
-2. **Book Title:** Fundamentals of Corporate Finance 📒🔐
+2. **Book Title:** Fundamentals of Corporate Finance 📒🔐✅
    - **Edition Details:** 5th, Global Edition
    - **Authors:** Jonathan Berk, Peter DeMarzo, Jarrad Harford
    - **Publisher:** Pearson
