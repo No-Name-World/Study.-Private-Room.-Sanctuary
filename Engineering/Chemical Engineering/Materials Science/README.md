@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1119688945, 978-1119764632
    - **Publication Date:** January 13, 2021
 
-2. **Book Title:** Materials: Engineering, Science, Processing and Design 📒🔐
+2. **Book Title:** Materials: Engineering, Science, Processing and Design 📒🔐✅
    - **Edition Details:** 4th
    - **Authors:** Michael F. Ashby, Hugh Shercliff, David Cebon
    - **Publisher:** Butterworth-Heinemann
