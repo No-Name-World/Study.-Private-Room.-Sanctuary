@@ -18,3 +18,11 @@
    - **Publisher:** Mercury Learning and Information
    - **ISBN-13:** 978-1683922957
    - **Publication Date:** September 18, 2018
+
+4. **Book Title:** Numerical Methods: Using MATLAB 🚨🚨🚨🚨🚨 QA297 L74 2019EB
+   - **Edition Details:** 4th
+   - **Authors:** George Lindfield, John Penny
+   - **Publisher:** Academic Press
+   - **ISBN-13:** 978-0128123706, 978-0128122563
+   - **Publication Date:** October 30, 2018
+
