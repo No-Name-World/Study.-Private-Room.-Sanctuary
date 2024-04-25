@@ -1,4 +1,4 @@
-1. **Book Title:** Management and Cost Accounting 📒🔐
+1. **Book Title:** Management and Cost Accounting 📒🔐✅
 - **Edition Details:** 11th
 - **Authors:** Mike Tayles, Colin Drury
 - **Publisher:** Cengage Learning EMEA
