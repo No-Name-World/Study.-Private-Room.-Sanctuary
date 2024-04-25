@@ -33,7 +33,7 @@
    - **ISBN-13:** 978-1683922230, 978-1683922520  
    - **Publication Date:** September 2, 2022  
 
-6. **Book Title:** Operating AI: Bridging the Gap Between Technology and Business 📒🔐 
+6. **Book Title:** Operating AI: Bridging the Gap Between Technology and Business 📒🔐✅ 
    - **Edition Details:** 1st  
    - **Author:** Ulrika Jagare  
    - **Publisher:** Hoboken, NJ: John Wiley and Sons  
