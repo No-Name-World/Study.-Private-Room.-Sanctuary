@@ -26,14 +26,14 @@
    - **ISBN-13:** 978-1265058432
    - **Publication Date:** January 11, 2024
 
-5. **Book Title:** Java How to Program, Early Objects 📒🔐
+5. **Book Title:** Java How to Program, Early Objects 📒🔐✅
    - **Edition Details:** 11th, Global Edition
    - **Authors:** Harvey Deitel, Paul J. Deitel
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292223858
    - **Publication Date:** January 1, 2017
 
-6. **Book Title:** Java How to Program, Late Objects 📒🔐
+6. **Book Title:** Java How to Program, Late Objects 📒🔐✅
    - **Edition Details:** 11th, Global Edition
    - **Authors:** Harvey Deitel, Paul J. Deitel
    - **Publisher:** Pearson
