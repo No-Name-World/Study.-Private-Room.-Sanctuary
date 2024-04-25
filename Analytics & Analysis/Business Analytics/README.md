@@ -1,4 +1,4 @@
-1. **Book Title:** Data Mining for Business Analytics: Concepts, Techniques, and Applications in R 📒🔐
+1. **Book Title:** Data Mining for Business Analytics: Concepts, Techniques, and Applications in R 📒🔐✅
    - **Edition Details:** 1st
    - **Authors:** Galit Shmueli, Peter C. Bruce, Inbal Yahav, Nitin R. Patel, Kenneth C. Lichtendahl Jr.
    - **Publisher:** Wiley
@@ -12,14 +12,14 @@
    - **ISBN-13:** 978-1119828792
    - **Publication Date:** March 8, 2023
 
-3. **Book Title:** Quantitative Analysis for Management 📒🔐
+3. **Book Title:** Quantitative Analysis for Management 📒🔐✅
    - **Edition Details:** 13th, Global Edition
    - **Authors:** Barry Render, Ralph Stair, Michael Hanna, Trevor Hale, Ralph, Jr. Stair
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292217659, 978-1292217680
    - **Publication Date:** August 11, 2017
 
-4. **Book Title:** Quantitative Methods for Business 📒🔐
+4. **Book Title:** Quantitative Methods for Business 📒🔐✅
    - **Edition Details:** 5th
    - **Authors:** Donald Waters
    - **Publisher:** Pearson
@@ -33,7 +33,7 @@
    - **ISBN-13:** 978-0357685648, 978-1285866314, 978-1305480568
    - **Publication Date:** February 2, 2015
 
-6. **Book Title:** Win with Advanced Business Analytics: Creating Business Value from Your Data 📒🔐 / Check: HD30.28 I86 2013
+6. **Book Title:** Win with Advanced Business Analytics: Creating Business Value from Your Data 📒🔐✅ / Check: HD30.28 I86 2013
    - **Edition Details:** 1st
    - **Authors:** Jean-Paul Isson, Jesse Harriott
    - **Publisher:** Wiley
