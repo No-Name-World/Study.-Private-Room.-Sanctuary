@@ -12,14 +12,14 @@
    - **ISBN-13:** 978-0321534460  
    - **Publication Date:** December 30, 2008
  
-3. **Book Title:** Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition 📒🔐🚫waiting  
+3. **Book Title:** Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition 📒🔐✅
    - **Edition Details:** 1st  
    - **Author:** Adkins Lyssa  
    - **Publisher:** Addison-Wesley Professional  
    - **ISBN-13:** 978-0321637703  
    - **Publication Date:** May 18, 2010
 
-4. **Book Title:** Essential Scrum: A Practical Guide to the Most Popular Agile Process 📒🔐🚫waiting  
+4. **Book Title:** Essential Scrum: A Practical Guide to the Most Popular Agile Process 📒🔐✅
    - **Edition Details:** 1st  
    - **Author:** Rubin Kenneth S.  
    - **Publisher:** Addison-Wesley Professional  
