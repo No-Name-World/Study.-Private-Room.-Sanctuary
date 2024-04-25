@@ -1,4 +1,4 @@
-1. **Book Title:** Marketing Analytics: A Practical Guide to Improving Consumer Insights Using Data Techniques 📒🔐
+1. **Book Title:** Marketing Analytics: A Practical Guide to Improving Consumer Insights Using Data Techniques 📒🔐✅
    - **Edition Details:** 3rd
    - **Author:** Mike Grigsby
    - **Publisher:** Kogan Page
