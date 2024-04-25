@@ -1,4 +1,4 @@
-1. **Book Title:** Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 📒🔐
+1. **Book Title:** Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 📒🔐✅
    - **Edition Details:** 1st
    - **Author:** Martin Kleppmann
    - **Publisher:** O'Reilly Media
