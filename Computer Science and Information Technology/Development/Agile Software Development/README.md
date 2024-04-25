@@ -26,7 +26,7 @@
    - **ISBN-13:** 978-0137043293  
    - **Publication Date:** July 20, 2012
 
-5. **Book Title:** Learning Agile: Understanding Scrum, XP, Lean, and Kanban 📒🔐🚫waiting  
+5. **Book Title:** Learning Agile: Understanding Scrum, XP, Lean, and Kanban 📒🚫
    - **Edition Details:** 1st  
    - **Authors:** Andrew Stellman, Jennifer Greene  
    - **Publisher:** O'Reilly Media  
