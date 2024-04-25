@@ -5,7 +5,7 @@
    **ISBN-13:** 978-0321605788  
    **Publication Date:** March 11, 2010
 
-2. **Book Title:** Agile Testing: A Practical Guide for Testers and Agile Teams 📒🔐🚫waiitng  
+2. **Book Title:** Agile Testing: A Practical Guide for Testers and Agile Teams 📒🔐  
    **Edition Details:** 1st  
    **Authors:** Crispin Lisa, Gregory Janet  
    **Publisher:** Addison-Wesley Professional  
