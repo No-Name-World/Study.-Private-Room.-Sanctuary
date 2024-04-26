@@ -12,3 +12,9 @@
    - **ISBN-13:** 978-1584794783
    - **Publication Date:** August 1, 2007
 
+3. **Book Title:** The New Cooking School Cookbook: Fundamentals 🚨🚨🚨🚨🚨
+   - **Edition Details:** 1st
+   - **Authors:** America's Test Kitchen 
+   - **Publisher:** America's Test Kitchen
+   - **ISBN-13:** 978-1948703864
+   - **Publication Date:** November 16, 2021
