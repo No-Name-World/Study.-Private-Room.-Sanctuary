@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-0137313211, 978-0137313303
    - **Publication Date:** January 5, 2021
   
-2. **Book Title:** Sams Teach Yourself HTML, CSS, and JavaScript All in One 📒🔐🚫 waiting
+2. **Book Title:** Sams Teach Yourself HTML, CSS, and JavaScript All in One 📒🔐✅
    - **Edition Details:** 3rd
    - **Authors:** Julie C. Meloni, Jennifer Kyrnin
    - **Publisher:** Sams Publishing
