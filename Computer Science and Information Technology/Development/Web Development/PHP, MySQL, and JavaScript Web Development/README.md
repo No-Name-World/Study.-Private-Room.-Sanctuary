@@ -1,4 +1,4 @@
-1. **Book Title:** Learning PHP, MySQL & JavaScript: A Step-by-Step Guide to Creating Dynamic Websites 📒🔐🚫waititng
+1. **Book Title:** Learning PHP, MySQL & JavaScript: A Step-by-Step Guide to Creating Dynamic Websites 📒🔐✅
    - **Edition Details:** 6th
    - **Author:** Robin Nixon
    - **Publisher:** O'Reilly Media
