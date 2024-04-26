@@ -5,14 +5,14 @@
    **ISBN-13:** "978-0137645732, 978-0137645541"  
    **Publication Date:** July 25, 2022
 
-2. **Book Title:** iOS Programming: The Big Nerd Ranch Guide 📒🔐🚫 waiting  
+2. **Book Title:** iOS Programming: The Big Nerd Ranch Guide 📒🚫  
    **Edition Details:** 7th  
    **Authors:** Christian Keur, Aaron Hillegass  
    **Publisher:** Big Nerd Ranch Guides  
    **ISBN-13:** 978-0135264027  
    **Publication Date:** May 5, 2020
 
-3. **Book Title:** iOS 15 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics 📒🔐🚫 waiting  
+3. **Book Title:** iOS 15 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics 📒🔐✅ 
    **Edition Details:** 1st  
    **Author:** Matt Neuburg  
    **Publisher:** O'Reilly Media  
