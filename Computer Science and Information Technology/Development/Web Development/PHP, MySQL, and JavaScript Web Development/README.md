@@ -5,14 +5,14 @@
    - **ISBN-13:** 978-1492093824
    - **Publication Date:** August 31, 2021
 
-2. **Book Title:** Learning PHP, MYSQL & JavaScript: With jQuery, CSS & HTML5 📒🔐🚫waititng
+2. **Book Title:** Learning PHP, MYSQL & JavaScript: With jQuery, CSS & HTML5 📒🔐✅
    - **Edition Details:** 5th
    - **Author:** Robin Nixon
    - **Publisher:** O'Reilly Media
    - **ISBN-13:** 978-1491978917
    - **Publication Date:** June 8, 2018
   
-3. **Book Title:** PHP and MySQL® Web Development 📒🔐🚫waititng
+3. **Book Title:** PHP and MySQL® Web Development 📒🔐✅
    - **Edition Details:** 5th
    - **Authors:** Luke Welling, Laura Thomson
    - **Publisher:** Addison-Wesley Professional
