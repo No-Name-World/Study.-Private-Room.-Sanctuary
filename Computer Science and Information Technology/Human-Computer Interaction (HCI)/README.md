@@ -19,7 +19,7 @@
    - **ISBN-13:** 978-0128182024
    - **Publication Date:** October 6, 2020
 
-4. **Book Title:** Interaction Design: Beyond Human-Computer Interaction 📒🔐🚫waiting
+4. **Book Title:** Interaction Design: Beyond Human-Computer Interaction 📒🔐✅
    - **Edition Details:** 5th
    - **Authors:** Yvonne Rogers, Helen Sharp, Jennifer Preece
    - **Publisher:** Wiley
