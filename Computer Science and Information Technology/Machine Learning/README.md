@@ -1,4 +1,4 @@
-1. **Book Title:** Data Science and Machine Learning: Mathematical and Statistical Methods 📒🔐🚫 waiting
+1. **Book Title:** Data Science and Machine Learning: Mathematical and Statistical Methods 📒🔐✅
    - **Edition Details:** 1st
    - **Authors:** Dirk P. Kroese, Zdravko Botev, Thomas Taimre, Radislav Vaisman
    - **Publisher:** Chapman and Hall/CRC
