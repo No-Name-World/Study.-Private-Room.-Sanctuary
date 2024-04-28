@@ -26,7 +26,7 @@
    - **ISBN-13:** "978-0357673034, 978-0357673102"  
    - **Publication Date:** December 15, 2022
 
-5. **Book Title:** Modern Database Management 📒🔐🚫waiting
+5. **Book Title:** Modern Database Management 📒🔐✅
    - **Edition Details:** 13th Global Edition  
    - **Authors:** Jeffrey A. Hoffer, Ramesh Venkataraman, Heikki Topi  
    - **Publisher:** Pearson  
