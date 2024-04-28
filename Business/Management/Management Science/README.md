@@ -5,7 +5,7 @@
 - **ISBN-13:** 978-0357715581, 978-0357715468
 - **Publication Date:** March 29, 2022
 
-3. **Book Title:** Quantitative Analysis for Management 📒🔐✅
+2. **Book Title:** Quantitative Analysis for Management 📒🔐✅
    - **Edition Details:** 13th, Global Edition
    - **Authors:** Barry Render, Ralph Stair, Michael Hanna, Trevor Hale, Ralph, Jr. Stair
    - **Publisher:** Pearson
