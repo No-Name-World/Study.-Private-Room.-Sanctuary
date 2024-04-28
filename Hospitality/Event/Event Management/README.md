@@ -19,21 +19,28 @@
    - **ISBN-13:** 978-1398607101
    - **Publication Date:** December 27, 2022
 
-4. **Book Title:** Meetings, Expositions, Events, and Conventions: An Introduction to the Industry 🚨🚨🚨🚨🚨 TX911.2 F33 2019
+4. **Book Title:** Event Studies: Theory and Management for Planned Events (Events Management) 🚨🚨🚨🚨🚨 
+   - **Edition Details:** 5th
+   - **Authors:** Donald Getz, Stephen J. Page
+   - **Publisher:** Routledge
+   - **ISBN-13:** 978-1032448633
+   - **Publication Date:** January 24, 2024
+
+5. **Book Title:** Meetings, Expositions, Events, and Conventions: An Introduction to the Industry 🚨🚨🚨🚨🚨 TX911.2 F33 2019
    - **Edition Details:** 5th
    - **Authors:** George Fenich (Author)
    - **Publisher:** Pearson
    - **ISBN-13:** 978-134735900
    - **Publication Date:** March 13, 2018
 
-5. **Book Title:** Special Events: The Brave New World for Bolder and Better Live Events (The Wiley Event Management Series) 🚨🚨🚨🚨🚨 GT3405 L481 2020EB
+6. **Book Title:** Special Events: The Brave New World for Bolder and Better Live Events (The Wiley Event Management Series) 🚨🚨🚨🚨🚨 GT3405 L481 2020EB
    - **Edition Details:** 8th
    - **Authors:** Seungwon Lee (Author), Joe Goldblatt (Author)
    - **Publisher:** Wiley
    - **ISBN-13:** 978-1119498148, 978-1119345732
    - **Publication Date:** August 25, 2020
 
-6. **Book Title:** Successful Event Management: A Practical Handbook 🚨🚨🚨🚨🚨  GT3405 S55 2019EB
+7. **Book Title:** Successful Event Management: A Practical Handbook 🚨🚨🚨🚨🚨  GT3405 S55 2019EB
    - **Edition Details:** 5th
    - **Authors:** Bryn Parry (Author), Anton Shone (Author)
    - **Publisher:** Cengage Learning EMEA
