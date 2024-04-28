@@ -33,7 +33,7 @@
    - **ISBN-13:** 978-3031454677
    - **Publication Date:** November 2, 2023
 
-6. **Book Title:** Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 📒🔐🚫waiting
+6. **Book Title:** Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 📒🚫
    - **Edition Details:** 3rd
    - **Author:** Aurélien Géron
    - **Publisher:** O'Reilly Media
