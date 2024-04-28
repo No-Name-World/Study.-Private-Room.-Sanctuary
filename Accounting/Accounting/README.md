@@ -1,10 +1,3 @@
-1. **Book Title:** Accounting For Value 📒🔐✅
-   - **Edition Details:** 1st
-   - **Authors:** Stephen Penman
-   - **Publisher:** Columbia Business School Publishing
-   - **ISBN-13:** 978-0231151184, 978-0231521857
-   - **Publication Date:** December 30, 2010
-
 2. **Book Title:** Accounting Information Systems 📒🚫
    - **Edition Details:** 15th, Global Edition
    - **Authors:** Marshall B. Romney, Paul J. Steinbart, Scott L. Summers, David A. Wood
