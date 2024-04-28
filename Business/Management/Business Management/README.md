@@ -5,49 +5,35 @@
    - **ISBN-13:** 978-1119812630, 978-1119812593
    - **Publication Date:** August 10, 2021
 
-2. **Book Title:** Fundamentals of Management 📒🚫
-   - **Edition Details:** 11th, Global Edition
-   - **Authors:** Stephen P. Robbins, Mary A. Coulter, David A. De Cenzo
-   - **Publisher:** Pearson
-   - **ISBN-13:** 978-1292307329, 978-1292307398
-   - **Publication Date:** September 23, 2019
-
-3. **Book Title:** Fundamentals of Management (MindTap Course List) 🚨🚨🚨🚨🚨
-   - **Edition Details:** 10th
-   - **Authors:** Ricky Griffin 
-   - **Publisher:** Cengage Learning
-   - **ISBN-13:** 978-0357517345
-   - **Publication Date:** January 22, 2021
-
-4. **Book Title:** MGMT 12 Principles Of Management 🚨🚨🚨🚨🚨 HD31 W723 2022EB
+2. **Book Title:** MGMT 12 Principles Of Management 🚨🚨🚨🚨🚨 HD31 W723 2022EB
    - **Edition Details:** 12th
    - **Authors:** Chuck Williams 
    - **Publisher:** South-Western College Publishing
    - **ISBN-13:** 978-0357137819, 978-0357137727
-   - **Publication Date:** 
+   - **Publication Date:** January 22, 2021
 
-5. **Book Title:** Management 🚨🚨🚨🚨🚨
+3. **Book Title:** Management 🚨🚨🚨🚨🚨
    - **Edition Details:** 15th
    - **Authors:** Stephen P. Robbins, Mary A. Coulter
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292340883, 978-1292340890
    - **Publication Date:** March 4, 2020
 
-6. **Book Title:** Modern Management: Concepts and Skills 📒🔐🚫 HD31 C412 2019EB
+4. **Book Title:** Modern Management: Concepts and Skills 📒🔐🚫 HD31 C412 2019EB
    - **Edition Details:** 15th, Global Edition
    - **Author:** Samuel Certo
    - **Publisher:** Pearson
    - **ISBN-13:** 978-1292265193, 978-1292265247
    - **Publication Date:** March 6, 2019
 
-7. **Book Title:** New Era Management 🚨🚨🚨🚨🚨
+5. **Book Title:** New Era Management 🚨🚨🚨🚨🚨
    - **Edition Details:** 11th, International Edition
    - **Author:** Richard L. Daft
    - **Publisher:** Cengage Learning
    - **ISBN-13:** 978-1285068770
    - **Publication Date:** January 1, 2012
 
-8. **Book Title:** Small Business Management: Launching & Growing Entrepreneurial Ventures 🚨🚨🚨🚨🚨 HD62.7 L85 2023EB
+6. **Book Title:** Small Business Management: Launching & Growing Entrepreneurial Ventures 🚨🚨🚨🚨🚨 HD62.7 L85 2023EB
    - **Edition Details:** 20th
    - **Authors:** Justin G. Longenecker, J. William Petty, Leslie E. Palich, Frank Hoy 
    - **Publisher:** Cengage Learning
