@@ -1,4 +1,4 @@
-1. **Book Title:** Concepts of Database Management 📒🔐✅ 
+1. **Book Title:** Concepts of Database Management 📒🚫
    - **Edition Details:** 10th  
    - **Authors:** Lisa Friedrichsen, Lisa Ruffolo, Ellen Monk, Joy L. Starks, Philip J. Pratt  
    - **Publisher:** Cengage Learning  
