@@ -1,4 +1,4 @@
-1. **Book Title:** Information Technology Project Management 📒🔐🚫waiting
+1. **Book Title:** Information Technology Project Management 📒🔐✅
    - **Edition Details:** 9th
    - **Author:** Kathy Schwalbe
    - **Publisher:** Cengage Learning
