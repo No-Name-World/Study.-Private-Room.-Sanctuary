@@ -19,7 +19,14 @@
    - **ISBN-13:** 978-1398300101, 978-1398300156
    - **Publication Date:** August 28, 2020
 
-4. **Book Title:** Restaurant Concepts, Management, and Operations 🚨🚨🚨🚨🚨 TX945 L96 2018EB
+4. **Book Title:** Food, Labor, and Beverage Cost Control: A Concise Guide 🚨🚨🚨🚨🚨 TX911.3.C65 S19 2021
+   - **Edition Details:** 2nd
+   - **Authors:** Edward E. Sanders
+   - **Publisher:** Waveland Press, Inc.
+   - **ISBN-13:** 978-1478639763
+   - **Publication Date:** June 1, 2020
+
+5. **Book Title:** Restaurant Concepts, Management, and Operations 🚨🚨🚨🚨🚨 TX945 L96 2018EB
    - **Edition Details:** 8th
    - **Authors:** John R. Walker (Author)
    - **Publisher:** Wiley
