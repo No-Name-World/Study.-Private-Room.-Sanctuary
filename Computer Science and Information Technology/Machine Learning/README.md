@@ -5,14 +5,14 @@
    - **ISBN-13:** 978-1138492530, 978-1000730777
    - **Publication Date:** November 22, 2019
 
-2. **Book Title:** Deep Learning 📒🔐🚫waiting
+2. **Book Title:** Deep Learning 📒🔐✅
    - **Edition Details:** 1st
    - **Authors:** Ian Goodfellow, Yoshua Bengio, Aaron Courville
    - **Publisher:** The MIT Press
    - **ISBN-13:** 978-0262337373, 978-0262035613
    - **Publication Date:** November 18, 2016
 
-3. **Book Title:** Deep Learning with Python 📒🔐🚫waiting Check: QA76.73.P98 C54 2021
+3. **Book Title:** Deep Learning with Python 📒🔐✅ Check: QA76.73.P98 C54 2021
    - **Edition Details:** 2nd
    - **Author:** Francois Chollet
    - **Publisher:** Manning
