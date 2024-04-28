@@ -1,0 +1,6 @@
+1. **Book Title:** 
+   - **Edition Details:** 
+   - **Authors:** 
+   - **Publisher:** 
+   - **ISBN-13:** 978-
+   - **Publication Date:** 
