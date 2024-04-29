@@ -1,4 +1,4 @@
-1. **Book Title:** Excel VBA Programming For Dummies 📒🔐🚫waiting
+1. **Book Title:** Excel VBA Programming For Dummies 📒🔐✅
    - **Edition Details:** 6th
    - **Author:** Dick Kusleika
    - **Publisher:** Wiley
