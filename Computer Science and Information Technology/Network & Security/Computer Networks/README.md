@@ -1,11 +1,11 @@
-1. **Book Title:** Computer Networking: A Top-Down Approach 📒🔐🚫waiting 
+1. **Book Title:** Computer Networking: A Top-Down Approach 📒🔐✅
    - **Edition Details:** 8th, Global Edition  
    - **Authors:** James Kurose, Keith Ross  
    - **Publisher:** Pearson  
    - **ISBN-13:** 978-1292405469  
    - **Publication Date:** June 10, 2021
 
-2. **Book Title:** Computer Networks: A Systems Approach 📒🔐🚫waiting 
+2. **Book Title:** Computer Networks: A Systems Approach 📒🔐✅
    - **Edition Details:** 6th  
    - **Authors:** Larry L. Peterson, Bruce S. Davie  
    - **Publisher:** Morgan Kaufmann  
