@@ -19,14 +19,14 @@
    - **ISBN-13:** "978-1292374017, 978-1292374062"  
    - **Publication Date:** March 3, 2021
 
-4. **Book Title:** Data and Computer Communications 📒🔐🚫waiting  
+4. **Book Title:** Data and Computer Communications 📒🚫  
    - **Edition Details:** 10th, International Edition  
    - **Author:** William Stallings  
    - **Publisher:** Pearson  
    - **ISBN-13:** "978-1292014388, 978-1292014395"  
    - **Publication Date:** December 18, 2013
 
-5. **Book Title:** Data Communications and Networking with TCP/IP Protocol Suite ISE 📒🔐🚫waiting 
+5. **Book Title:** Data Communications and Networking with TCP/IP Protocol Suite ISE 📒🚫 
    - **Edition Details:** 6th, International Edition  
    - **Author:** Behrouz A. Forouzan  
    - **Publisher:** McGraw Hill  
