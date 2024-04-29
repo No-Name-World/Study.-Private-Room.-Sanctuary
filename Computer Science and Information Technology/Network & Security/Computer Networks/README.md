@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1292405469  
    - **Publication Date:** June 10, 2021
 
-2. **Book Title:** Computer Networks: A Systems Approach 📒🔐✅
+2. **Book Title:** Computer Networks: A Systems Approach 📒🚫
    - **Edition Details:** 6th  
    - **Authors:** Larry L. Peterson, Bruce S. Davie  
    - **Publisher:** Morgan Kaufmann  
