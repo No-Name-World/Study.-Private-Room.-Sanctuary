@@ -1,18 +1,25 @@
-1. **Book Title:** Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die 📒🔐✅
+1. **Book Title:** Data Mining and Predictive Analytics 📒🔐✅
+   - **Edition Details:** 2nd
+   - **Author:** Daniel T. Larose
+   - **Publisher:** Wiley
+   - **ISBN-13:** 978-1118116197, 978-1118868706, 978-1118991121
+   - **Publication Date:** March 16, 2015
+
+2. **Book Title:** Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die 📒🔐✅
    - **Edition Details:** 2nd, Revised and Updated Edition
    - **Author:** Eric Siegel
    - **Publisher:** Wiley
    - **ISBN-13:** 978-1119145677, 978-1119153658
    - **Publication Date:** January 20, 2016
 
-2. **Book Title:** Predictive HR Analytics: Mastering the HR Metric 🚨🚨🚨🚨🚨
+3. **Book Title:** Predictive HR Analytics: Mastering the HR Metric 🚨🚨🚨🚨🚨
    - **Edition Details:** 3rd
    - **Authors:** Dr. Martin Edwards, Kirsten Edwards, Daisung Jang
    - **Publisher:** Kogan Page
    - **ISBN-13:** 978-1398615656
    - **Publication Date:** June 25, 2024
 
-3. **Book Title:** Web and Network Data Science: Modeling Techniques in Predictive Analytics 🚨🚨🚨🚨🚨
+4. **Book Title:** Web and Network Data Science: Modeling Techniques in Predictive Analytics 🚨🚨🚨🚨🚨
    - **Edition Details:** 1st
    - **Author:** Thomas W. Miller
    - **Publisher:** Pearson FT Press
