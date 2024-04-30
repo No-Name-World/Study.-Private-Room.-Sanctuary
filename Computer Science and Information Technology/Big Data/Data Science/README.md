@@ -4,3 +4,10 @@
    - **Publisher:** Wiley-Scrivener
    - **ISBN-13:** 978-1119792802
    - **Publication Date:** November 1, 2022
+
+2. **Book Title:** Analytics in a Big Data World: The Essential Guide to Data Science and its Applications 📒🔐✅
+   - **Edition Details:** 1st
+   - **Author:** Bart Baesens
+   - **Publisher:** Wiley
+   - **ISBN-13:** 978-1118892701
+   - **Publication Date:** May 9, 2014
