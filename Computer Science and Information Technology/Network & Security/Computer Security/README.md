@@ -1,11 +1,11 @@
-1. **Book Title:** Computer Security: Principles and Practice 📒🔐🚫waiting 
+1. **Book Title:** Computer Security: Principles and Practice 📒🚫 
    - **Edition Details:** 4th, Global Edition  
    - **Authors:** William Stallings, Lawrie Brown  
    - **Publisher:** Pearson  
    - **ISBN-13:** "978-1292220635, 978-1292220611"  
    - **Publication Date:** January 18, 2018
 
-2. **Book Title:** Guide To Computer Forensics and Investigations 📒🔐🚫waiting 
+2. **Book Title:** Guide To Computer Forensics and Investigations 📒🚫 
    - **Edition Details:** 6th  
    - **Authors:** Bill Nelson, Amelia Phillips, Christopher Steuart  
    - **Publisher:** Cengage Learning  
