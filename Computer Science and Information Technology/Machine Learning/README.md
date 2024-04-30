@@ -40,9 +40,18 @@
    - **ISBN-13:** 978-1098125974, 978-1098122461
    - **Publication Date:** November 8, 2022
 
-7. **Book Title:** Mathematics for Machine Learning 🚨🚨🚨🚨🚨 Q325.5 D32 2020EB
+7. **Book Title:** Mastering Machine Learning Algorithms: Expert techniques to implement popular machine learning algorithms and fine-tune your models 📒🔐🚫waiting
+   - **Edition Details:** 2nd
+   - **Author:** Giuseppe Bonaccorso
+   - **Publisher:** Packt Publishing
+   - **ISBN-13:** 978-1838820299, 978-1838821913
+   - **Publication Date:** January 31, 2020
+
+8. **Book Title:** Mathematics for Machine Learning 🚨🚨🚨🚨🚨 Q325.5 D32 2020EB
    - **Edition Details:** 1st
    - **Authors:** Marc Peter Deisenroth
    - **Publisher:** Cambridge University Press
    - **ISBN-13:** 978-1108470049, 978-1108569323, 978-1108455145
    - **Publication Date:** April 23, 2020
+  
+
