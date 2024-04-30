@@ -12,14 +12,7 @@
    - **ISBN-13:** 978-1292153919
    - **Publication Date:** October 18, 2018
 
-3. **Book Title:** Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines🚨🚨🚨🚨🚨
-   - **Edition Details:** 3rd
-   - **Author:** Jeff Johnson PhD
-   - **Publisher:** Morgan Kaufmann
-   - **ISBN-13:** 978-0128182024
-   - **Publication Date:** October 6, 2020
-
-4. **Book Title:** Interaction Design: Beyond Human-Computer Interaction 📒🔐✅
+3. **Book Title:** Interaction Design: Beyond Human-Computer Interaction 📒🔐✅
    - **Edition Details:** 5th
    - **Authors:** Yvonne Rogers, Helen Sharp, Jennifer Preece
    - **Publisher:** Wiley
