@@ -1,5 +1,10 @@
 # Exercise 1
-A.
+A.Create a table called student with the following attributes :
+• name as a VARCHAR2 with the size of 20 characters
+• gender as a CHAR of 6 characters
+• DOB as a DATE
+• CGPA as a NUMBER with one decimal
+    
 CREATE TABLE student (
     student_name varchar2(20),
     gender char(6),
