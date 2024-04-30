@@ -33,10 +33,4 @@
    - **ISBN-13:** 978-1285068770
    - **Publication Date:** January 1, 2012
 
-6. **Book Title:** Small Business Management: Launching & Growing Entrepreneurial Ventures 🚨🚨🚨🚨🚨 HD62.7 L85 2023EB
-   - **Edition Details:** 20th
-   - **Authors:** Justin G. Longenecker, J. William Petty, Leslie E. Palich, Frank Hoy 
-   - **Publisher:** Cengage Learning
-   - **ISBN-13:** 978-0357718803, 978-0357718902
-   - **Publication Date:** December 6, 2022
 
