@@ -40,14 +40,14 @@
    - **ISBN-13:** 978-1511654944  
    - **Publication Date:** May 26, 2015
 
-7. **Book Title:** Networking Essentials: A CompTIA Network+ N10-008 Textbook 📒🔐🚫waiting  
+7. **Book Title:** Networking Essentials: A CompTIA Network+ N10-008 Textbook 📒🔐🚫  
    - **Edition Details:** 6th  
    - **Authors:** Jeffrey Beasley, Piyasat Nilkaew  
    - **Publisher:** Pearson IT Certification  
    - **ISBN-13:** 978-0137455928  
    - **Publication Date:** October 29, 2021
 
-8. **Book Title:** Volume 1 - The Practice of System and Network Administration: DevOps and other Best Practices for Enterprise IT 📒🔐🚫waiting 
+8. **Book Title:** Volume 1 - The Practice of System and Network Administration: DevOps and other Best Practices for Enterprise IT 📒🔐✅ 
    - **Edition Details:** 3rd  
    - **Authors:** Thomas Limoncelli, Christina Hogan, Strata Chalup  
    - **Publisher:** Addison-Wesley Professional  
