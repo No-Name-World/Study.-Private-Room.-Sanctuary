@@ -1,35 +1,43 @@
 <div align="center">
 
-# 📊 Video Resources for Chapter Understanding 📚
+# 📊 Videos for Understanding Normalization Process 📚
 
 </div>
 
 ---
 
-## 🎥 Understanding the Relational Model
+## 🎥 Understanding Normalization
 
-[![Understanding the Relational Model](https://img.youtube.com/vi/PH17p5vORyk/0.jpg)](https://www.youtube.com/watch?v=PH17p5vORyk)
+[![Understanding Normalization](https://img.youtube.com/vi/VyzKDc2GyW4/0.jpg)](https://www.youtube.com/watch?v=VyzKDc2GyW4)
 
-📝 **Overview**: This video provides a comprehensive overview of the relational model, a fundamental concept in database management. Learn about the principles of relational databases and how they organize data into tables with rows and columns, facilitating efficient data management and retrieval.
+📝 **Overview**: This video provides an overview of the normalization process in databases. Learn about the importance of normalization in organizing data efficiently and reducing redundancy. Gain insights into different normal forms and their significance in database design.
 
 ---
 
-## 📚 Exploring Relational Database Concepts
+## 🎥 Introduction to Database Normalization (Up to 1NF)
 
-[![Exploring Relational Database Concepts](https://img.youtube.com/vi/NvrpuBAMddw/0.jpg)](https://www.youtube.com/watch?v=NvrpuBAMddw)
+[![Introduction to Database Normalization](https://img.youtube.com/vi/UrYLYV7WSHM/0.jpg)](https://www.youtube.com/watch?v=UrYLYV7WSHM)
 
-📝 **Overview**: Delve into relational database concepts with this video, which covers topics such as keys, normalization, and relationships between tables. Gain insights into the principles that underpin relational databases and understand how they ensure data integrity and optimize query performance.
+📝 **Overview**: Watch this video to understand the basics of database normalization, focusing on achieving the first normal form (1NF). Explore the steps involved in transforming unnormalized data into a structured format that meets 1NF requirements.
+
+---
+
+## 🎥 Database Normalization Explained
+
+[![Database Normalization Explained](https://img.youtube.com/vi/J-drts33N8g/0.jpg)](https://www.youtube.com/watch?v=J-drts33N8g)
+
+📝 **Overview**: Delve into this video to gain a deeper understanding of database normalization. Learn about the motivations behind normalization, common normalization techniques, and the benefits of maintaining a well-normalized database schema.
 
 ---
 
 📘 **Note**:
 
-These supplementary videos offer valuable insights into key concepts covered in the chapter, providing additional resources for enhancing your understanding of database fundamentals.
+These supplementary videos offer valuable insights into the normalization process, providing additional resources for consolidating your understanding of database design principles.
 
 ---
 
 <div align="center">
 
-🚀 Happy Learning! 🌟
+🚀 Happy Watching! 🌟
 
 </div>
