@@ -29,7 +29,3 @@ Explore the distinctions between conceptual, logical, and physical data models i
 ### c) [Top Data Modeling Interview Q&A](https://www.youtube.com/watch?v=UdkQx9cgsTo)
 
 Watch this video for insightful interview questions and answers related to data modeling. Enhance your knowledge by learning from industry experts and gaining valuable tips for acing data modeling interviews. *(Watch until 5:45)*
-
----
-
-![Data Modeling](https://cdn.pixabay.com/photo/2017/08/07/08/23/data-2608037_960_720.jpg)
