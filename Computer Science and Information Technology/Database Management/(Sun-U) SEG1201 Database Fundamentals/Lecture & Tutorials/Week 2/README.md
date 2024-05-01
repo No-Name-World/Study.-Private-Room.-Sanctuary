@@ -1,31 +1,43 @@
 <div align="center">
-  <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube Icon"/>
+
+# 📊 Data Modeling Video Compilation 📚
+
 </div>
 
-## Supplementary Videos for Chapter Understanding
+---
 
-These supplementary videos on YouTube can help reinforce your understanding of the chapter content. While they are not mandatory, they offer valuable insights into various aspects of data modeling.
+## 🎥 Understanding Data Models
+
+[![Understanding Data Models](https://img.youtube.com/vi/4qFZ-5i4GS8/0.jpg)](https://www.youtube.com/watch?v=4qFZ-5i4GS8)
+
+📝 **Overview**: This video provides an in-depth explanation of data modeling, clarifying its significance and fundamental principles. It illustrates how data models aid in structuring and organizing data effectively, serving as the foundation for database design and implementation.
+
+---
+
+## 📚 Conceptual, Logical, and Physical Data Model Explained
+
+[![Conceptual, Logical, and Physical Data Model Explained](https://img.youtube.com/vi/RJ9TpkWKyU0/0.jpg)](https://www.youtube.com/watch?v=RJ9TpkWKyU0)
+
+📝 **Overview**: Explore the distinctions between conceptual, logical, and physical data models in this video. Learn how each model contributes to the data modeling process and influences database design and development.
+
+---
+
+## 🌟 Top Data Modeling Interview Q&A
+
+[![Top Data Modeling Interview Q&A](https://img.youtube.com/vi/UdkQx9cgsTo/0.jpg)](https://www.youtube.com/watch?v=UdkQx9cgsTo)
+
+📝 **Overview**: Dive into this video for valuable interview questions and answers related to data modeling. Gain insights from industry experts and prepare effectively for data modeling interviews.
+
+---
+
+📘 **Conclusion**:
+
+These supplementary videos offer additional insights into various aspects of data modeling, providing valuable resources for consolidating your understanding of the chapter content.
+
+---
 
 <div align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/play.png" alt="Play Icon"/>
+
+🚀 Happy Watching! 🌟
+
 </div>
-
-### a) [What is a Data Model?](https://www.youtube.com/watch?v=4qFZ-5i4GS8)
-
-This video provides a comprehensive overview of data modeling, explaining its importance and fundamental concepts. Understanding data models is crucial for organizing and structuring data effectively.
-
-<div align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/play.png" alt="Play Icon"/>
-</div>
-
-### b) [Conceptual, Logical, and Physical Data Model](https://www.youtube.com/watch?v=RJ9TpkWKyU0)
-
-Explore the distinctions between conceptual, logical, and physical data models in this video. Each type serves a unique purpose in the data modeling process, contributing to the development of robust databases and information systems.
-
-<div align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/play.png" alt="Play Icon"/>
-</div>
-
-### c) [Top Data Modeling Interview Q&A](https://www.youtube.com/watch?v=UdkQx9cgsTo)
-
-Watch this video for insightful interview questions and answers related to data modeling. Enhance your knowledge by learning from industry experts and gaining valuable tips for acing data modeling interviews. *(Watch until 5:45)*
