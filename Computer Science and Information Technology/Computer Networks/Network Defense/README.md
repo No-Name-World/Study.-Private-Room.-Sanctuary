@@ -1,4 +1,4 @@
-1. **Book Title:** Hands-On Ethical Hacking and Network Defense 📒🔐🚫waiting  
+1. **Book Title:** Hands-On Ethical Hacking and Network Defense 📒🚫  
    - **Edition Details:** 4th  
    - **Author:** Rob Wilson  
    - **Publisher:** Cengage Learning  
