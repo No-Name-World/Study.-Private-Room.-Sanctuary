@@ -1,4 +1,4 @@
-1. **Book Title:** Business Analytics Using SAS Enterprise Guide and SAS Enterprise Miner: A Beginner's Guide 📒🔐🚫
+1. **Book Title:** Business Analytics Using SAS Enterprise Guide and SAS Enterprise Miner: A Beginner's Guide 📒🔐✅
    - **Edition Details:** 1st
    - **Authors:** Olivia Parr-Rud
    - **Publisher:** SAS Institute
