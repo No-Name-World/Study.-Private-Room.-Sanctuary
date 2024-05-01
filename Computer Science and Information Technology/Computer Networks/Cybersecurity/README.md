@@ -1,4 +1,4 @@
-1. **Book Title:** Cyber Security and Global Information Assurance: Threat Analysis and Response Solutions 📒🔐🚫waiting  
+1. **Book Title:** Cyber Security and Global Information Assurance: Threat Analysis and Response Solutions 📒🔐✅
    - **Edition Details:** 1st  
    - **Author:** Kenneth J. Knapp  
    - **Publisher:** Information Science Reference  
