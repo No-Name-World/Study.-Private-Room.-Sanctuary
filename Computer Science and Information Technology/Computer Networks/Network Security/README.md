@@ -1,4 +1,4 @@
-1. **Book Title:** Cryptography and Network Security: Principles and Practice 📒🔐🚫waiting
+1. **Book Title:** Cryptography and Network Security: Principles and Practice 📒🔐✅
    - **Edition Details:** 8th, Global Edition
    - **Author:** William Stallings
    - **Publisher:** Pearson
