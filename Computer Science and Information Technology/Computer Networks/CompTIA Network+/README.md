@@ -1,4 +1,4 @@
-1. **Book Title:** CompTIA Security+ Guide to Network Security Fundamentals 📒🔐🚫waiting
+1. **Book Title:** CompTIA Security+ Guide to Network Security Fundamentals 📒🔐✅
    - **Edition Details:** 7th
    - **Author:** Mark Ciampa
    - **Publisher:** Cengage Learning
