@@ -19,7 +19,7 @@
    - **ISBN-13:** 978-1337405713  
    - **Publication Date:** May 3, 2018
 
-4. **Book Title:** Principles of Information Security 📒🔐🚫waiting 
+4. **Book Title:** Principles of Information Security 📒🔐✅ 
    - **Edition Details:** 7th  
    - **Authors:** Michael E. Whitman, Herbert J. Mattord  
    - **Publisher:** Cengage Learning  
