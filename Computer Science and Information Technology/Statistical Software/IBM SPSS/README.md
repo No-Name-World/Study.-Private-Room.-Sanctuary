@@ -5,14 +5,8 @@
    - **ISBN-13:** 978-1529630015
    - **Publication Date:** February 22, 2024
 
-2. **Book Title:** SPSS Statistics For Dummies 📒🔐🚫 waiting
-   - **Edition Details:** 4th
-   - **Authors:** Jesus Salcedo, Keith McCormick
-   - **Publisher:** For Dummies
-   - **ISBN-13:** 978-1119560838
-   - **Publication Date:** August 11, 2020
 
-3. **Book Title:** SPSS Survival Manual: A Step by Step Guide to Data Analysis using IBM SPSS 📒🔐🚫 waiting HA32 P16 2020EB
+2. **Book Title:** SPSS Survival Manual: A Step by Step Guide to Data Analysis using IBM SPSS 📒🔐🚫 waiting HA32 P16 2020EB
    - **Edition Details:** 7th
    - **Authors:** Julie Pallant
    - **Publisher:** Open University Press
