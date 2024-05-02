@@ -1,4 +1,4 @@
-1. **Book Title:** Designing Software Architectures: A Practical Approach🚨🚨PDF🚨🚨🚨
+1. **Book Title:** Designing Software Architectures: A Practical Approach 📒🔐✅
    - **Edition Details:** 1st
    - **Authors:** Humberto Cervantes, Rick Kazman
    - **Publisher:** Addison-Wesley Professional
