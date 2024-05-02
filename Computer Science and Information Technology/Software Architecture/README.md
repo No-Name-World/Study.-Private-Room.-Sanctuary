@@ -5,14 +5,14 @@
    - **ISBN-13:** 978-0134390789
    - **Publication Date:** May 13, 2016
 
-2. **Book Title:** Essential Software Architecture🚨🚨PDF🚨🚨🚨
+2. **Book Title:** Essential Software Architecture 📒🔐✅
    - **Edition Details:** 2nd
    - **Author:** Ian Gorton
    - **Publisher:** Springer
    - **ISBN-13:** 978-3642191756
    - **Publication Date:** May 6, 2011
 
-3. **Book Title:** Software Architecture in Practice🚨🚨PDF🚨🚨🚨
+3. **Book Title:** Software Architecture in Practice 📒🔐✅
    - **Edition Details:** 4th
    - **Authors:** Len Bass, Paul Clements, Rick Kazman
    - **Publisher:** Addison-Wesley Professional
