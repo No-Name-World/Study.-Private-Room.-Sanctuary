@@ -19,7 +19,7 @@
    - **ISBN-13:** 978-0136886099
    - **Publication Date:** August 3, 2021
 
-4. **Book Title:** The Process of Software Architecting🚨🚨PDF🚨🚨🚨
+4. **Book Title:** The Process of Software Architecting 📒🔐✅
    - **Edition Details:** 1st
    - **Authors:** Peter Eeles, Peter Cripps
    - **Publisher:** Addison-Wesley Professional
