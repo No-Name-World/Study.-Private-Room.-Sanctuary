@@ -1,4 +1,4 @@
-1. **Book Title:** Software Engineering🚨🚨🚨PDF🚨🚨
+1. **Book Title:** Software Engineering  📒🔐✅
    - **Edition Details:** 10th, Global Edition
    - **Authors:** Ian Sommerville
    - **Publisher:** Pearson
