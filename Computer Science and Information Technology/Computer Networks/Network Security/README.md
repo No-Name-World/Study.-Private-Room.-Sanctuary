@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1292437484
    - **Publication Date:** June 6, 2022
 
-2. **Book Title:** Network Security Essentials: Applications and Standards 📒🔐🚫waiting
+2. **Book Title:** Network Security Essentials: Applications and Standards 📒🔐✅
    - **Edition Details:** 6th, Global Edition
    - **Author:** William Stallings
    - **Publisher:** Pearson
