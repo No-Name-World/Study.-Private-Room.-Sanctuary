@@ -1,4 +1,4 @@
-1. **Book Title:** Modern Operating Systems 📒🔐🚫waiting
+1. **Book Title:** Modern Operating Systems 📒🔐✅
    - **Edition Details:** 5th, Global Edition
    - **Authors:** Andrew S. Tanenbaum, Herbert Bos
    - **Publisher:** Pearson
