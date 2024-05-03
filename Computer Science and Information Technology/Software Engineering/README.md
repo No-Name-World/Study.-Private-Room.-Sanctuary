@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1292096131
    - **Publication Date:** August 20, 2015
 
-2. **Book Title:** Software Engineering: A Practitioner's Approach🚨🚨🚨PDF🚨🚨
+2. **Book Title:** Software Engineering: A Practitioner's Approach 📒🚫
    - **Edition Details:** 9th, International Student Edition
    - **Authors:** Roger Pressman, Bruce Maxim
    - **Publisher:** McGraw Hill
