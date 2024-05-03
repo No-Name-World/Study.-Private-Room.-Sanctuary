@@ -1,4 +1,4 @@
-1. **Book Title:** SPSS Statistics For Dummies 📒🔐✅
+1. **Book Title:** SPSS Statistics For Dummies 📒🚫
    - **Edition Details:** 4th
    - **Authors:** Jesus Salcedo, Keith McCormick
    - **Publisher:** For Dummies
