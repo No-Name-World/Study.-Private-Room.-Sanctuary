@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1449373320
    - **Publication Date:** May 2, 2017
 
-2. **Book Title:** Distributed Systems: Concepts and Design 📒🔐🚫waiting
+2. **Book Title:** Distributed Systems: Concepts and Design 📒🔐✅
    - **Edition Details:** 5th, International Edition
    - **Authors:** George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair
    - **Publisher:** Pearson
