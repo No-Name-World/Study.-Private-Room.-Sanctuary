@@ -18,3 +18,12 @@ This course delves into the fundamentals of database management, offering a blen
 ## Additional References
 - 📖 Pratt PJ. (2021). *Concepts of Database Management*, 10th Ed. Cengage Learning
 
+---
+
+## 🎥 Neso Academy: Database Management Systems (DBMS)
+
+[![Neso Academy: Database Management Systems (DBMS)](https://img.youtube.com/vi/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX/0.jpg)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX)
+
+📝 **Overview**: Dive into the world of Database Management Systems (DBMS) with this comprehensive playlist by Neso Academy. Covering fundamental concepts to advanced topics, this series equips viewers with a deep understanding of DBMS essentials. From relational database design to query optimization, each video offers clear explanations and practical examples to enhance your DBMS skills.
+
+---
