@@ -1,4 +1,4 @@
-1. **Book Title:** Operations Management 📒🔐🚫 waiting
+1. **Book Title:** Operations Management 🚨🚨🚨🚨🚨
    - **Edition Details:** 10th
    - **Author:** Nigel Slack, Alistair Brandon-Jones, Nicola Burgess
    - **Publisher:** Pearson
