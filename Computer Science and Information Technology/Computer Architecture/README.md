@@ -1,4 +1,8 @@
+<div align="center">
+
 # 💻 Computer Architecture Tutorial Compilation 📚
+
+</div>
 
 ---
 
@@ -24,4 +28,8 @@ These curated tutorial playlists offer invaluable resources for individuals eage
 
 ---
 
+<div align="center">
+
 🚀 Happy Learning! 🌟
+
+</div>
