@@ -1,4 +1,4 @@
-1. **Book Title:** Leadership - International Student Edition: Theory and Practice 🚨🚨🚨🚨🚨
+1. **Book Title:** Leadership - International Student Edition: Theory and Practice 📒🔐🚫
    - **Edition Details:** 9th, International Student Edition  
    - **Author:** Peter G. Northouse  
    - **Publisher:** SAGE Publications, Inc  
