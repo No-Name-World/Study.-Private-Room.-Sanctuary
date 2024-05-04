@@ -1,4 +1,4 @@
-1. **Book Title:** Frank Wood's Business Accounting 🚨🚨🚨🚨🚨 HF5635 W87 2021EB
+1. **Book Title:** Frank Wood's Business Accounting 📒🔐✅ HF5635 W87 2021EB
    - **Edition Details:** 15th
    - **Authors:** Alan Sangster
    - **Publisher:** Pearson
