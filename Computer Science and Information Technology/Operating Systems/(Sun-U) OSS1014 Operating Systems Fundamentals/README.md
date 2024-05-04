@@ -2,6 +2,13 @@
 
 ---
 
+## 📚 Resources
+
+1. [Neso Academy Playlists](https://www.youtube.com/@nesoacademy/playlists)
+2. [Operating System Playlist by Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+
+---
+
 ## 📚 Operating System Playlist by Neso Academy
 
 [![Operating System Playlist by Neso Academy](https://img.youtube.com/vi/YK7VZ1KSmEo/0.jpg)](https://www.youtube.com/@nesoacademy/playlists)
