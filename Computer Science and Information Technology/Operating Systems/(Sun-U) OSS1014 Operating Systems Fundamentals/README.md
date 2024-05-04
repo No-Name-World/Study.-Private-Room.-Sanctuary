@@ -2,11 +2,11 @@
 
 ---
 
-## 🎥 Operating System Basics | Neso Academy
+## 📚 Operating System Playlist by Neso Academy
 
-[![Operating System Basics | Neso Academy](https://img.youtube.com/vi/YK7VZ1KSmEo/0.jpg)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhDsKg2oXhVuN5z_1ysjJyg)
+[![Operating System Playlist by Neso Academy](https://img.youtube.com/vi/YK7VZ1KSmEo/0.jpg)](https://www.youtube.com/@nesoacademy/playlists)
 
-📝 **Overview**: Dive into the fundamental concepts of operating systems with this comprehensive tutorial series by Neso Academy. Covering topics such as process management, memory management, file systems, and more, this playlist serves as an excellent starting point for understanding the core principles of operating systems.
+📝 **Overview**: Dive into a comprehensive playlist of operating system tutorials by Neso Academy covering various topics such as process management, memory management, file systems, and more. Explore the fundamentals of operating systems and enhance your understanding of key concepts.
 
 ---
 
@@ -39,6 +39,14 @@
 [![Advanced Operating System Concepts | Neso Academy](https://img.youtube.com/vi/RpAFW1rhyTU/0.jpg)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk)
 
 📝 **Overview**: Take your knowledge of operating systems to the next level with this advanced tutorial series by Neso Academy. Explore topics such as distributed systems, multiprocessor scheduling, real-time operating systems, and more. Gain insights into cutting-edge research and developments shaping the future of operating system technology.
+
+---
+
+## 📚 Operating System Tutorial 6 | Neso Academy
+
+[![Operating System Tutorial 6 | Neso Academy](https://img.youtube.com/vi/SPECIFY_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)
+
+📝 **Overview**: (Please update the video thumbnail and link with the specific details of Tutorial 6.)
 
 ---
 
