@@ -1,4 +1,4 @@
-1. **Book Title:** Graphic Design School: The Principles and Practice of Graphic Design 🚨🚨🚨🚨🚨
+1. **Book Title:** Graphic Design School: The Principles and Practice of Graphic Design 📒🚫
    - **Edition Details:** 8th
    - **Authors:** David Dabner, Sandra Stewart, Abbie Vickress
    - **Publisher:** Wiley
