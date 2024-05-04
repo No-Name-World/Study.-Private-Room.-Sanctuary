@@ -6,6 +6,8 @@ Welcome to the Operating System Course! This repository contains a curated list 
 Operating systems are a cornerstone of computer science and electronics courses, serving as the bridge between users and computer hardware. This course aims to provide a comprehensive understanding of operating systems, their design, and functionality amidst the evolving landscape of computing.
 
 ![Operating System Icon](https://example.com/os_icon.png)
+![Computer Science Icon](https://example.com/cs_icon.png)
+![Electronics Icon](https://example.com/electronics_icon.png)
 
 ## Course Overview
 In this course, we'll cover:
