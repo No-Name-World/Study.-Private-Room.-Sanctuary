@@ -31,3 +31,16 @@
 - From relational database design to query optimization, each video offers clear explanations and practical examples to enhance your DBMS skills.
 
 ---
+
+## 🎥 Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)
+
+[![Database Systems - Cornell University Course](https://img.youtube.com/vi/4cWkVbC2bNE/0.jpg)](https://www.youtube.com/watch?v=4cWkVbC2bNE)
+
+📝 **Overview**: 
+- Dive into the world of Database Management Systems (DBMS) with this comprehensive course from Cornell University.
+- Covering SQL, NoSQL, and large-scale data analysis, this tutorial equips learners with the knowledge and skills needed to understand and work with different types of databases.
+- Whether you're interested in relational databases, distributed systems, or big data analytics, this course offers valuable insights and practical guidance.
+
+---
+
+🚀 Happy Learning! 🌟
