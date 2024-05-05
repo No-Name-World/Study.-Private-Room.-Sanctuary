@@ -1,4 +1,4 @@
-1. **Book Title:** March's Advanced Organic Chemistry: Reactions, Mechanisms, and Structure 📒🔐🚫 QD251.3 S65 2020EB
+1. **Book Title:** March's Advanced Organic Chemistry: Reactions, Mechanisms, and Structure 📒🚫 QD251.3 S65 2020EB
    - **Edition Details:** 8th
    - **Authors:** Michael B. Smith
    - **Publisher:** Wiley
