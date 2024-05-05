@@ -13,7 +13,8 @@ These are the primary operating systems used in personal computing, each with it
 
 ---
 
-Title: What Operating Systems Do? & Why do you need an OS for your computer?
+
+Title: What Operating Systems Do?
 
 Operating systems (OS) serve several critical functions in computing:
 
@@ -35,7 +36,18 @@ Operating systems provide user interfaces (UI) through which users interact with
 F. Security: 
 OS implements security measures to protect the system and its data from unauthorized access, malware, and other threats. This includes user authentication mechanisms, access control policies, encryption, firewalls, antivirus software, and other security features.
 
-You need an operating system for your computer because it acts as the intermediary between the hardware and software components, enabling them to work together harmoniously. Without an OS, you would have to manage hardware resources directly and write software programs that directly interact with hardware components, which would be highly complex and impractical for most users. Additionally, operating systems provide essential features such as process management, file system management, and security, which are crucial for a functional and secure computing environment.
+
+
+---
+
+
+Title: Why do you need an OS for your computer?
+
+You need an operating system for your computer because it acts as the intermediary between the hardware and software components, enabling them to work together harmoniously. 
+
+Without an OS, you would have to manage hardware resources directly and write software programs that directly interact with hardware components, which would be highly complex and impractical for most users. 
+
+Additionally, operating systems provide essential features such as process management, file system management, and security, which are crucial for a functional and secure computing environment.
 
 
 ---
