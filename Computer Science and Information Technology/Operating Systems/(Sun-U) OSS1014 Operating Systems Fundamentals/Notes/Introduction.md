@@ -54,7 +54,7 @@ F. Security:
 ---
 
 
-## Title: Why do you need an OS for your computer?
+## Title: Why Do You Need An OS For Your Computer?
 
 - You need an operating system for your computer because it acts as the intermediary between the hardware and software components, enabling them to work together harmoniously. 
 
