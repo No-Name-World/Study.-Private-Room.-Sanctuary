@@ -65,3 +65,15 @@ F. Security:
 
 ---
 
+
+Abstraction: 
+- Operating systems abstract hardware complexities by providing a consistent and simplified interface to software applications. This abstraction shields applications from the low-level details of hardware devices, such as specific device drivers and hardware configurations.
+
+- For example, when a program needs to read data from a file, it can issue a high-level file system call without worrying about the intricate details of interacting with the storage device. This abstraction simplifies software development, enhances portability across different hardware platforms, and facilitates interoperability among applications.
+
+Resource Management: 
+- Operating systems serve as resource managers by efficiently allocating and managing hardware resources such as the CPU, memory, storage, and peripherals. They employ various scheduling algorithms to allocate CPU time among competing processes fairly and efficiently, ensuring optimal system performance and responsiveness.
+
+- Memory management involves allocating memory to processes, managing memory access permissions, and implementing techniques like virtual memory to efficiently utilize physical memory resources. Similarly, file system management involves organizing and managing files on storage devices, handling file I/O operations, and enforcing security policies to protect data integrity and confidentiality.
+
+By abstracting hardware complexities and managing system resources effectively, operating systems enable users to interact with computers more intuitively and productively while ensuring reliable and efficient utilization of hardware resources.
