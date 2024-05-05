@@ -1,4 +1,10 @@
+<div align="center">
+
 # 📊 Database Design Course Overview 🖥️
+
+</div>
+
+---
 
 ## Course Description
 - This course delves into the fundamentals of database management, offering a blend of theory and practice.
@@ -43,4 +49,9 @@
 
 ---
 
+<div align="center">
+
 🚀 Happy Learning! 🌟
+
+</div>
+
