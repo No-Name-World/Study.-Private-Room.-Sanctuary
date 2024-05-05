@@ -1,4 +1,4 @@
-1. **Book Title:** Bird's Higher Engineering Mathematics🚨🚨🚨PDF🚨🚨
+1. **Book Title:** Bird's Higher Engineering Mathematics 📒🚫
    - **Edition Details:** 9th
    - **Author:** John Bird
    - **Publisher:** Routledge
