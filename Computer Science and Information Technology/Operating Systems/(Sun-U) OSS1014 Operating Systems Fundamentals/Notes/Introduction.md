@@ -1,4 +1,4 @@
-Title: 3 Major Types of Operating Systems
+## Title: 3 Major Types of Operating Systems
 
 1. Windows: 
 Developed by Microsoft, Windows is a widely used operating system for personal computers, laptops, tablets, and servers. It's known for its user-friendly interface and broad compatibility with various software and hardware.
@@ -14,7 +14,7 @@ These are the primary operating systems used in personal computing, each with it
 ---
 
 
-Title: What Operating Systems Do?
+## Title: What Operating Systems Do?
 
 Operating systems (OS) serve several critical functions in computing:
 
@@ -41,7 +41,7 @@ OS implements security measures to protect the system and its data from unauthor
 ---
 
 
-Title: Why do you need an OS for your computer?
+## Title: Why do you need an OS for your computer?
 
 You need an operating system for your computer because it acts as the intermediary between the hardware and software components, enabling them to work together harmoniously. 
 
