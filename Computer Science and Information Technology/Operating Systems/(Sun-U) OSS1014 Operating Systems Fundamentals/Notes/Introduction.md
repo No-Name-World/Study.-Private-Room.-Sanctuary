@@ -1,11 +1,11 @@
 ## Title: What is an Operating System (OS)?
 
 
-An Operating System (OS) is a software program that serves as an intermediary between computer hardware and user applications. It manages and coordinates hardware resources (such as the CPU, memory, storage devices, and peripherals) and provides essential services to software applications.
+- An Operating System (OS) is a software program that serves as an intermediary between computer hardware and user applications. It manages and coordinates hardware resources (such as the CPU, memory, storage devices, and peripherals) and provides essential services to software applications.
 
-The primary functions of an operating system include managing processes (tasks or programs), allocating and managing system memory, facilitating communication between software applications and hardware devices, providing a user interface for interaction, managing files and directories on storage devices, and ensuring system security.
+- The primary functions of an operating system include managing processes (tasks or programs), allocating and managing system memory, facilitating communication between software applications and hardware devices, providing a user interface for interaction, managing files and directories on storage devices, and ensuring system security.
 
-Operating systems come in various types, including Windows, Linux, macOS, Unix, and others. They play a crucial role in enabling computers to perform a wide range of tasks efficiently and effectively, from running simple applications to powering complex systems in industries such as finance, healthcare, education, and entertainment.
+- Operating systems come in various types, including Windows, Linux, macOS, Unix, and others. They play a crucial role in enabling computers to perform a wide range of tasks efficiently and effectively, from running simple applications to powering complex systems in industries such as finance, healthcare, education, and entertainment.
 
 
 ---
