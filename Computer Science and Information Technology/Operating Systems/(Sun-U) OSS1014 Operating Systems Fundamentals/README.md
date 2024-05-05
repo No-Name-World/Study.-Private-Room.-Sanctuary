@@ -1,5 +1,9 @@
+<div align ="center">
+  
 # 🖥️ Operating System Tutorial Compilation 📚
 
+<div>
+  
 ---
 
 ## 📚 Resources
