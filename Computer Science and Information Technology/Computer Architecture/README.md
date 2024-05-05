@@ -29,7 +29,9 @@
 
 📘 **Conclusion**:
 
-These curated tutorial playlists offer invaluable resources for individuals eager to explore Computer Architecture. Whether you're a student aiming to grasp foundational concepts or a professional seeking to deepen your understanding, these tutorials provide a structured and engaging approach to learning. With clear explanations, illustrative examples, and comprehensive coverage of key topics, these playlists are indispensable tools for anyone venturing into the fascinating world of Computer Architecture.
+- These curated tutorial playlists offer invaluable resources for individuals eager to explore Computer Architecture.
+- Whether you're a student aiming to grasp foundational concepts or a professional seeking to deepen your understanding, these tutorials provide a structured and engaging approach to learning.
+- With clear explanations, illustrative examples, and comprehensive coverage of key topics, these playlists are indispensable tools for anyone venturing into the fascinating world of Computer Architecture.
 
 ---
 
