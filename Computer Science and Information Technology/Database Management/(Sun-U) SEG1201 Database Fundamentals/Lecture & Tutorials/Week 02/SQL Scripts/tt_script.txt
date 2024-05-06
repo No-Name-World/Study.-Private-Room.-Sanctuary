@@ -1,0 +1,143 @@
+----------------------------------------------------------------------------------------------------------------------------
+-- note: this script is the original script; tt_script_new is the enhanced with more recent data
+-----------------------------------------------------------------------------------------------------------------------------
+
+-- Date setting to conform to the given date format
+ALTER SESSION SET NLS_DATE_FORMAT='DD/MON/YYYY';
+
+
+REM *************************************
+REM DROP ALL THE TABLES IN THE DATABASE
+REM *************************************
+
+DROP TABLE prize;
+DROP TABLE entry;
+DROP TABLE event;
+DROP TABLE judge;
+DROP TABLE shows;
+DROP TABLE horse;
+
+CREATE TABLE shows 	
+(	show_ID CHAR(2)	PRIMARY KEY,
+	show_name VARCHAR(20),
+	show_held DATE,  
+	show_address VARCHAR(30)   );
+
+REM *************************
+REM INSERT shows RECORDS
+REM *************************
+
+INSERT INTO shows VALUES ('01', 'DUBBO', '05-JUL-1995', '23 WINGEWARRA ST, DUBBO');
+INSERT INTO shows VALUES ('02', 'YOUNG','13-SEP-1995', '13 CHERRY LANE, YOUNG');
+INSERT INTO shows VALUES ('03', 'CASTLE HILL','04-MAY-1996', 'SHOWGROUND, CASTLE HILL');
+INSERT INTO shows VALUES ('04', 'ROYAL EASTER','21-APR-1996', 'PO BOX 13, GPO SYDNEY');
+INSERT INTO shows VALUES ('05', 'DUBBO','01-JUL-1996', '17 FITZROY ST, DUBBO');
+
+CREATE TABLE judge      
+(   	judge_ID CHAR(2) PRIMARY KEY,
+	name VARCHAR(10),
+	address VARCHAR(20)   );
+
+INSERT INTO judge VALUES ('01', 'SMITH', 'MELBOURNE');
+INSERT INTO judge VALUES ('02', 'GREEN', 'COOTAMUNDRA');
+INSERT INTO judge VALUES ('03', 'GATES', 'DUNKELD');
+INSERT INTO judge VALUES ('04', 'SMITH', 'SYDNEY');
+
+
+
+CREATE TABLE event
+(	event_ID CHAR(4) PRIMARY KEY,
+	show_ID CHAR(2),
+	event_name VARCHAR(20),
+	judge_ID CHAR(2),
+	FOREIGN KEY (judge_ID) REFERENCES judge(judge_ID),
+	FOREIGN KEY (show_ID) REFERENCES shows(show_ID)   );
+
+REM *************************
+REM INSERT event RECORDS
+REM *************************
+
+INSERT INTO event VALUES ('0101', '01','DRESSAGE', '01');
+INSERT INTO event VALUES ('0102', '01','JUMPING', '02');
+INSERT INTO event VALUES ('0103', '01','LED IN', '01');
+INSERT INTO event VALUES ('0201', '02','LED IN', '02');
+INSERT INTO event VALUES ('0301', '03','LED IN', '01');
+INSERT INTO event VALUES ('0401', '04','DRESSAGE', '04');
+INSERT INTO event VALUES ('0501', '05','DRESSAGE', '01');
+INSERT INTO event VALUES ('0502', '05','FLAG AND POLE', '02');
+
+CREATE TABLE horse
+ 	(horse_ID CHAR(3) PRIMARY KEY,
+	name VARCHAR(10),
+	colour VARCHAR(10),
+	sire CHAR(3),
+	dam CHAR(3),
+	born NUMBER(4),
+	died NUMBER(4),
+	gender CHAR   );
+
+REM *************************
+REM INSERT horse RECORDS
+REM *************************
+
+INSERT INTO horse VALUES ('101', 'FLASH', 'WHITE', '201', '301', 1990,NULL, 'S');
+INSERT INTO horse VALUES ('102', 'STAR', 'BROWN', '201', '302', 1991,NULL, 'M');
+INSERT INTO horse VALUES ('201', 'BOXER', 'GREY', '401', '501', 1980,NULL, 'S');
+INSERT INTO horse VALUES ('301', 'DAISY', 'WHITE', '401', '502', 1981,NULL, 'M');
+INSERT INTO horse VALUES ('302', 'TINKLE', 'BROWN', '401', '501', 1981,1994, 'M');
+INSERT INTO horse VALUES ('401', 'SNOWY', 'WHITE', NULL,NULL, 1976,1984, 'S');
+INSERT INTO horse VALUES ('501', 'BLUEBELL', 'GREY', NULL,NULL,1975,1982, 'M');
+INSERT INTO horse VALUES ('502', 'SALLY', 'WHITE',NULL,NULL, 1974,1987, 'M');
+
+CREATE TABLE entry
+(	CONSTRAINT PK_entry PRIMARY KEY (event_ID, PLACE),	
+	event_ID CHAR(4),
+	horse_ID CHAR(3),
+	place CHAR,
+	FOREIGN KEY (horse_ID) REFERENCES horse(horse_ID),
+	FOREIGN KEY (event_ID) REFERENCES event(event_ID)  );
+
+REM *************************
+REM INSERT entry RECORDS
+REM *************************
+
+INSERT INTO entry VALUES ('0101', '101', '1');
+INSERT INTO entry VALUES ('0101', '102', '2');
+INSERT INTO entry VALUES ('0101', '201', '3');
+INSERT INTO entry VALUES ('0101', '301', '4');
+INSERT INTO entry VALUES ('0102', '201', '2');
+INSERT INTO entry VALUES ('0103', '102', '3');
+INSERT INTO entry VALUES ('0201', '101', '1');
+INSERT INTO entry VALUES ('0301', '301', '2');
+INSERT INTO entry VALUES ('0401', '102', '7');
+INSERT INTO entry VALUES ('0501', '102', '1');
+INSERT INTO entry VALUES ('0501', '301', '2');
+
+CREATE TABLE prize
+(	CONSTRAINT PK_prize PRIMARY KEY (event_CODE, PLACE),
+	event_CODE CHAR(4),
+	place CHAR,
+	prizemoney NUMBER(6,2),
+	FOREIGN KEY (event_CODE) REFERENCES event(event_ID)  );
+ 
+-- NUMBER(6,2) means 9999.99 (2 decimal and 4 integer)
+REM *************************
+REM INSERT prize RECORDS
+REM *************************
+
+INSERT INTO prize VALUES ('0101', '1', 120.00);
+INSERT INTO prize VALUES ('0101', '2', 60.00);
+INSERT INTO prize VALUES ('0101', '3', 30.00);
+INSERT INTO prize VALUES ('0102', '1', 10.00);
+INSERT INTO prize VALUES ('0102', '2', 5.00);
+INSERT INTO prize VALUES ('0103', '1', 100.00);
+INSERT INTO prize VALUES ('0103', '2', 60.00);
+INSERT INTO prize VALUES ('0103', '3', 40.00);
+INSERT INTO prize VALUES ('0201', '1', 10.00);
+INSERT INTO prize VALUES ('0201', '2', 5.00);
+INSERT INTO prize VALUES ('0401', '1', 1000.00);
+INSERT INTO prize VALUES ('0401', '2', 500.00);
+INSERT INTO prize VALUES ('0401', '3', 250.00);
+INSERT INTO prize VALUES ('0501', '1', 10.00);
+INSERT INTO prize VALUES ('0501', '2', 5.00);
+ 
