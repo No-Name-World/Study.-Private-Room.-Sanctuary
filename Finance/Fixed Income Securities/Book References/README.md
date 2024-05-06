@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1264258284, 978-1264258277
    - **Publication Date:** September 5, 2022
 
-2. **Book Title:** The Handbook of Fixed Income Securities 📒🚫
+2. **Book Title:** The Handbook of Fixed Income Securities 📒🔐✅
    - **Edition Details:** 9th
    - **Authors:** Frank J. Fabozzi, Steven V. Mann, Francesco Fabozzi 
    - **Publisher:** McGraw Hill
