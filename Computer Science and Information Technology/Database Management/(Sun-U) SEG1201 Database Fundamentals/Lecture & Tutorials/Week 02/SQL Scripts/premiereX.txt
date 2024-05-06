@@ -1,0 +1,170 @@
+------------------------------------------------------------------------------------------
+-- 
+-- premiereX database consists of 5 tables as follows:
+-- orderline - stores the details of an order. For example an order may consist
+--             of several items. Each item is stored in this orderline table
+-- orders    - stores the details of a customer order such as date order and the customer 
+--             making the order
+-- rep       - stores the particulars of the sales representative
+-- customer  - stores the particulars of customer such as name, number, etc
+-- part      - stores the details of the parts sold
+
+-- business rules: a customer can make several orders
+--                 each order can have several orderline (ie, several items)
+--                 a rep can serve several customers but each customer has only one rep
+--                 
+-------------------------------------------------------------------------------------------
+
+ALTER SESSION SET NLS_DATE_FORMAT='DD-MON-YYYY';
+DROP TABLE orderline;
+DROP TABLE orders;
+DROP TABLE rep;
+DROP TABLE customer;
+DROP TABLE part;
+
+-------------------------------------------------------------------------------------
+--create REP table for representatives
+-- the following provides some explanation on selected attributes:
+-- zip (postcode)
+-- commission (the amount the rep earns from making a sale)
+-- rate (given rate to each rep for tax calculation, for example)
+--------------------------------------------------------------------------------------
+CREATE TABLE rep
+(repNum CHAR(2) PRIMARY KEY,
+LastName CHAR(15),
+FirstName CHAR(15),
+Street CHAR(15),
+City CHAR(15),
+State CHAR(2),
+Zip CHAR(5),  
+Commission DECIMAL(7,2),
+Rate DECIMAL(3,2) );
+
+-------------------------------------------------------------------------------------
+--create CUSTOMER table
+-- the following provides some explanation on selected attributes:
+-- zip (postcode)
+-- creditlimit (the amount of credit given to a customer when placing orders)
+-- balance (credit limit balance)
+--------------------------------------------------------------------------------------
+CREATE TABLE customer
+(customerNum CHAR(3) PRIMARY KEY,
+customerName CHAR(35) NOT NULL,
+Street CHAR(15),
+City CHAR(15),
+State CHAR(2),
+Zip CHAR(5),
+Balance DECIMAL(8,2),
+CreditLimit DECIMAL(8,2),
+repNum CHAR(2) );
+-------------------------------------------------------------------------------------
+CREATE TABLE orders
+(OrderNum CHAR(5) PRIMARY KEY,
+OrderDate DATE,
+customerNum CHAR(3),
+FOREIGN KEY (customerNum) REFERENCES customer(customerNum));
+
+-------------------------------------------------------------------------------------
+--create PART table
+-- the following provides some explanation on selected attributes:
+-- onhand (the current available amount. For example, if onhand value is 5, this 
+--               means that there are currently 5 units left)
+-- warehouse (the code of the warehouse)
+-- price(the price of the part)
+-- class (each part is grouped under a class, eg: AP stands for appliance
+--            HW stands for hardware, etc)
+--------------------------------------------------------------------------------------
+CREATE TABLE part
+(partNum CHAR(4) PRIMARY KEY,
+Description CHAR(15),
+OnHand DECIMAL(4,0),
+Class CHAR(2),
+Warehouse CHAR(1),
+Price DECIMAL(6,2) );
+
+-------------------------------------------------------------------------------------
+--create ORDERLINE table
+-- note that ORDERLINE is a child table to parent table ORDER
+-- each order consist of at least one orderline. 
+-- you can consider the orderlines as the items ordered in one order
+-- the following provides some explanation on selected attributes:
+-- NumOrdered (the number of units ordered)
+-- QuotedPrice (the price that the sales rep quoted for the order)
+--------------------------------------------------------------------------------------
+CREATE TABLE orderline
+(OrderNum CHAR(5),
+partNum CHAR(4),
+NumOrdered DECIMAL(3,0),
+QuotedPrice DECIMAL(6,2),
+PRIMARY KEY (OrderNum, partNum), 
+FOREIGN KEY (OrderNum) REFERENCES orders(OrderNum), 
+FOREIGN KEY (partNum) REFERENCES part(partNum) );
+
+INSERT INTO rep VALUES ('20','Kaiser','Valerie','624 Randall','Grove','FM','33321',20542.50,0.05);
+INSERT INTO rep VALUES ('35','Hull','Richard','532 Jackson','Sheldon','FM','33553',39216.00,0.07);
+INSERT INTO rep VALUES ('65','Perez','Juan','1626  Taylor','Fillmore','FM','33336',23487.00,0.05);
+INSERT INTO rep VALUES ('75','Long','Tichard','32 Trio','Sheldon','FM','33553',39216.00,0.07);
+INSERT INTO rep VALUES ('77','Ling','May','166 Zaylor','Fillmore','FM','33336',23487.00,0.05);
+INSERT INTO rep VALUES ('80','Luggoon','James','16 Thames','Fillmore','FM','33336',2487.00,0.02);
+INSERT INTO rep VALUES ('85','Loogen','Maria','1 Bravos','Fillmore','FM','33336',1487.00,0.02);
+
+
+INSERT INTO customer VALUES ('148','Al''s Appliance and Sport','2837 Greenway','Fillmore','FL','33336',6550.00,7500.00,'20');
+INSERT INTO customer VALUES ('282','Brookings Direct','3827 Devon','Grove','FL','33321',431.50,10000.00,'35');
+INSERT INTO customer VALUES ('356','Ferguson''s','382 Wildwood','Northfield','FL','33146',5785.00,7500.00,'65');
+INSERT INTO customer VALUES ('408','The Everything Shop','1828 Raven','Crystal','FL','33503',5285.25,5000.00,'35');
+INSERT INTO customer VALUES ('462','Bargains Galore','3829 Central','Grove','FL','33321',3412.00,10000.00,'65');
+INSERT INTO customer VALUES ('524','Kline''s','838 Ridgeland','Fillmore','FL','33336',12762.00,15000.00,'20');
+INSERT INTO customer VALUES ('608','Johnson''s Department Store','372 Oxford','Sheldon','FL','33553',2106.00,10000.00,'65');
+INSERT INTO customer VALUES ('687','Lee''s Sport and Appliance','282 Evergreen','Altonville','FL','32543',2851.00,5000.00,'35');
+INSERT INTO customer VALUES ('725','Deerfield''s Four Seasons','282 Columbia','Sheldon','FL','33553',248.00,7500.00,'35');
+INSERT INTO customer VALUES ('842','All In One','8 Lakeside','Grove','FL','33321',8299.00,7600.00,'77');
+INSERT INTO customer VALUES ('852','Zoro Reason','2 Tarven','Grove','FL','33321',4221.00,7300.00,'80');
+
+ 
+
+INSERT INTO orders VALUES ('21608','20-OCT-2003','148');
+INSERT INTO orders VALUES ('21610','20-OCT-2003','356');
+INSERT INTO orders VALUES ('21613','21-OCT-2003','408');
+INSERT INTO orders VALUES ('21614','21-OCT-2003','282');
+INSERT INTO orders VALUES ('21617','23-OCT-2003','608');
+INSERT INTO orders VALUES ('21619','23-OCT-2003','148');
+INSERT INTO orders VALUES ('21623','23-OCT-2003','608');
+INSERT INTO orders VALUES ('21700','15-OCT-2019','608');
+INSERT INTO orders VALUES ('21719','3-JAN-2019','148');
+INSERT INTO orders VALUES ('21723','17-OCT-2019','608');
+INSERT INTO orders VALUES ('21724','27-OCT-2020','608');
+INSERT INTO orders VALUES ('21725','17-FEB-2021','608');
+INSERT INTO orders VALUES ('21726','27-FEB-2021','608');
+
+
+
+INSERT INTO part VALUES ('AT94','Iron',50,'HW','3',24.95);
+INSERT INTO part VALUES ('BV06','Home Gym',45,'SG','2',794.95);
+INSERT INTO part VALUES ('CD52','Microwave Oven',32,'AP','1',165.00);
+INSERT INTO part VALUES ('DL71','Cordless Drill',21,'HW','3',129.95);
+INSERT INTO part VALUES ('DR93','Gas Range',8,'AP','2',495.00);
+INSERT INTO part VALUES ('DW11','Washer',12,'AP','3',399.99);
+INSERT INTO part VALUES ('FD21','Stand Mixer',22,'HW','3',159.95);
+INSERT INTO part VALUES ('KL62','Dryer',12,'AP','1',349.95);
+INSERT INTO part VALUES ('KT03','Dishwasher',8,'AP','3',595.00);
+INSERT INTO part VALUES ('KV29','Treadmill',9,'SG','2',1390.00);
+
+INSERT INTO orderline VALUES ('21608','AT94',11,21.95);
+INSERT INTO orderline VALUES ('21610','DR93',1,495.00);
+INSERT INTO orderline VALUES ('21610','DW11',1,399.99);
+INSERT INTO orderline VALUES ('21613','KL62',4,329.95);
+INSERT INTO orderline VALUES ('21614','KT03',2,595.00);
+INSERT INTO orderline VALUES ('21617','BV06',2,794.95);
+INSERT INTO orderline VALUES ('21617','CD52',4,150.00);
+INSERT INTO orderline VALUES ('21619','DR93',1,495.00);
+INSERT INTO orderline VALUES ('21623','KV29',2,1290.00);
+INSERT INTO orderline VALUES ('21700','KV29',2,1490.00);
+INSERT INTO orderline VALUES ('21719','KV29',2,1390.00);
+INSERT INTO orderline VALUES ('21723','AT94',11,121.95);
+INSERT INTO orderline VALUES ('21723','BV06',2,799.95);
+INSERT INTO orderline VALUES ('21724','DR93',1,495.00);
+INSERT INTO orderline VALUES ('21725','DR93',11,475.00);
+INSERT INTO orderline VALUES ('21726','DR93',1,485.00);
+
+ 
