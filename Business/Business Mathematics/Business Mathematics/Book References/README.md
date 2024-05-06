@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1292265032, 978-1292265131
    - **Publication Date:** July 22, 2019
 
-2. **Book Title:** Mathematics for Economics and Business🚨🚨PDF🚨🚨🚨
+2. **Book Title:** Mathematics for Economics and Business 📒🔐✅
    - **Edition Details:** 10th
    - **Author:** Ian Jacques
    - **Publisher:** Pearson
