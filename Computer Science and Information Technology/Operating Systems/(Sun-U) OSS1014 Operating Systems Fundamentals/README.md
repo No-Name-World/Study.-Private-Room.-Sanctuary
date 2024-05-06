@@ -2,8 +2,6 @@
 
 # 🖥️ CSC2104/OSS1014 Operating Systems Fundamentals
 
-![Operating Systems Icon](https://emojicdn.elk.sh/unicode/1f4bb) ![Book Icon](https://emojicdn.elk.sh/unicode/1f4da) ![Reference Icon](https://emojicdn.elk.sh/unicode/1f4d6)
-
 **4 Credit Hours**
 
 </div>
