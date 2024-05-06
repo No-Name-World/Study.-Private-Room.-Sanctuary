@@ -1,0 +1,22 @@
+alter session set NLS_DATE_FORMAT='YYYY-MON-DD';
+
+DROP TABLE product;
+
+CREATE  TABLE product
+(prod_id char(4) primary key,
+prod_name varchar2(25),
+prod_price number(4,2),
+prod_color char(10),
+quantity_at_hand int,
+last_stock_date  date);
+
+
+INSERT INTO product VALUES ('W100','SMALL WIDGET', 99.90, 'RED', 1, '2019-AUG-20');
+INSERT INTO product VALUES ('W120','MEDIUM WIDGET', 75.41, 'RED', 1000, '2019-JAN-15');
+INSERT INTO product VALUES ('C200','THICK CHROME2', 88.20, 'BLACK',25, '2019-FEB-12');
+INSERT INTO product VALUES ('C210','ROUND CHROME2', 33,'BLACK', 10000, '2019-JAN-7');
+INSERT INTO product VALUES ('C100','SMALL CHROME', 98.00,'RED', 1, '2019-MAR-15');
+INSERT INTO product VALUES ('C120','MEDIUM CHROME', 77.51, 'RED', 999, '2018-JUN-15');
+INSERT INTO product VALUES ('B100','CHROME BAR1', 56, 'GREEN', 99, '2019-JAN-10');
+INSERT INTO product VALUES ('B200','CHROME BAR2', 50.88, 'GREEN', 100, '2019-APR-15');
+
