@@ -1,4 +1,4 @@
-1. **Book Title:** Fundamentals of Queueing Theory 🚨🚨PDF🚨🚨🚨
+1. **Book Title:** Fundamentals of Queueing Theory 📒🔐✅
    - **Edition Details:** 5th
    - **Authors:** John F. Shortle, James M. Thompson, Donald Gross, Carl M. Harris 
    - **Publisher:** Wiley
