@@ -5,7 +5,7 @@
    - **ISBN-13:** 978-1292233703, 978-1292233727
    - **Publication Date:** November 22, 2018
 
-2. **Book Title:** Discrete Mathematics and Its Applications 📒🔐🚫waiting QA39.3 R81 2019	
+2. **Book Title:** Discrete Mathematics and Its Applications 📒🔐✅ waiting QA39.3 R81 2019	
    - **Edition Details:** 8th, International Student Edition
    - **Author:** Kenneth H. Rosen
    - **Publisher:** Mc Graw Hill
