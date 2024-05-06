@@ -4,6 +4,9 @@
 
 </div>
 
+No. of Credit
+Hours 4
+
 ---
 
 ## Course Description
