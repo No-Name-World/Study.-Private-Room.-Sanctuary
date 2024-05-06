@@ -1,4 +1,4 @@
-1. **Book Title:** Data Mining: Concepts and Techniques (The Morgan Kaufmann Series in Data Management Systems) 🚨🚨🚨🚨🚨 QA76.9.D343 H23 2023
+1. **Book Title:** Data Mining: Concepts and Techniques (The Morgan Kaufmann Series in Data Management Systems) 📒🔐✅ QA76.9.D343 H23 2023
    - **Edition Details:** 4th
    - **Authors:** Jiawei Han, Jian Pei, Hanghang Tong
    - **Publisher:** Morgan Kaufmann
