@@ -27,6 +27,13 @@
 ## Additional References
 - 📖 Pratt PJ. (2021). *Concepts of Database Management*, 10th Ed. Cengage Learning
 
+
+<div align="center">
+
+# 🖥️ Database Management Systems (DBMS) Tutorial Compilation 📚
+
+</div>
+
 ---
 
 ## 🎥 Neso Academy: Database Management Systems (DBMS)
