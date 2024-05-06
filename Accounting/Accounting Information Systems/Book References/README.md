@@ -1,4 +1,4 @@
-1. **Book Title:** Accounting Information Systems 📒🚫
+1. **Book Title:** Accounting Information Systems 📒🔐✅
    - **Edition Details:** 15th, Global Edition
    - **Authors:** Marshall B. Romney, Paul J. Steinbart, Scott L. Summers, David A. Wood
    - **Publisher:** Pearson
