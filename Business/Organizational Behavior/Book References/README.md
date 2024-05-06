@@ -1,4 +1,4 @@
-1. **Book Title:** Behavior in Organizations 📒🔐🚫 HD58.7 G79 2011
+1. **Book Title:** Behavior in Organizations 📒🔐✅ HD58.7 G79 2011
    - **Edition Details:** 10th, Global Edition
    - **Author:** Jerald Greenberg
    - **Publisher:** Pearson
