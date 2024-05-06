@@ -4,8 +4,8 @@
 
 </div>
 
-No. of Credit
-Hours 4
+## 🔢 No. of Credit Hours: 4
+## 🆔 Subject Code: SEG 1201
 
 ---
 
