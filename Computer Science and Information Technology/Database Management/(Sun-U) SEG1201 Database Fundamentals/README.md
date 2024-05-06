@@ -1,11 +1,10 @@
 <div align="center">
 
-# 📊 Database Design Course Overview 🖥️
+# 📊 SEG 1201 Database Fundamentals Course Overview 🖥️
+
+**4 Credit Hours**
 
 </div>
-
-## 🔢 No. of Credit Hours: 4
-## 🆔 Subject Code: SEG 1201
 
 ---
 
