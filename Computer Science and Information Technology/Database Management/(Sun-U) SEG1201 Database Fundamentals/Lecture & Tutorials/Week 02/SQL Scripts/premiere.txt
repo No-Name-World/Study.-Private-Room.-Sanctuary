@@ -1,0 +1,179 @@
+ALTER SESSION SET NLS_DATE_FORMAT='DD-MON-YYYY';
+DROP TABLE orderline;
+DROP TABLE orders;
+DROP TABLE rep;
+DROP TABLE customer;
+DROP TABLE part;
+
+CREATE TABLE rep
+(repNum CHAR(2) PRIMARY KEY,
+LastName CHAR(15),
+FirstName CHAR(15),
+Street CHAR(15),
+City CHAR(15),
+State CHAR(2),
+Zip CHAR(5),
+Commission DECIMAL(7,2),
+Rate DECIMAL(3,2) );
+
+CREATE TABLE customer
+(customerNum CHAR(3) PRIMARY KEY,
+customerName CHAR(35) NOT NULL,
+Street CHAR(15),
+City CHAR(15),
+State CHAR(2),
+Zip CHAR(5),
+Balance DECIMAL(8,2),
+CreditLimit DECIMAL(8,2),
+repNum CHAR(2) );
+
+CREATE TABLE orders
+(OrderNum CHAR(5) PRIMARY KEY,
+OrderDate DATE,
+customerNum CHAR(3),
+FOREIGN KEY (customerNum) REFERENCES customer(customerNum)
+);
+
+CREATE TABLE part
+(partNum CHAR(4) PRIMARY KEY,
+Description CHAR(15),
+OnHand DECIMAL(4,0),
+Class CHAR(2),
+Warehouse CHAR(1),
+Price DECIMAL(6,2) );
+
+CREATE TABLE orderline
+(OrderNum CHAR(5),
+partNum CHAR(4),
+NumOrdered DECIMAL(3,0),
+QuotedPrice DECIMAL(6,2),
+PRIMARY KEY (OrderNum, partNum), 
+FOREIGN KEY (OrderNum) REFERENCES orders(OrderNum), 
+FOREIGN KEY (partNum) REFERENCES part(partNum) );
+
+INSERT INTO rep VALUES ('20','Kaiser','Valerie','624 Randall','Grove','FL','33321',20542.50,0.05);
+INSERT INTO rep VALUES ('35','Hull','Richard','532 Jackson','Sheldon','FL','33553',39216.00,0.07);
+INSERT INTO rep VALUES ('65','Perez','Juan','1626 Taylor','Fillmore','FL','33336',23487.00,0.05);
+INSERT INTO customer VALUES ('148','Al''s Appliance and Sport','2837 Greenway','Fillmore','FL','33336',6550.00,7500.00,'20');
+
+INSERT INTO customer VALUES ('282','Brookings Direct','3827 Devon','Grove','FL','33321',431.50,10000.00,'35');
+INSERT INTO customer VALUES
+('356','Ferguson''s','382 Wildwood','Northfield','FL','33146',5785.00,7500.00,'65');
+INSERT INTO customer VALUES
+('408','The Everything Shop','1828 Raven','Crystal','FL','33503',5285.25,5000.00,'35');
+INSERT INTO customer VALUES
+('462','Bargains Galore','3829 Central','Grove','FL','33321',3412.00,10000.00,'65');
+INSERT INTO customer VALUES
+('524','Kline''s','838 Ridgeland','Fillmore','FL','33336',12762.00,15000.00,'20');
+INSERT INTO customer VALUES
+('608','Johnson''s Department Store','372 Oxford','Sheldon','FL','33553',2106.00,10000.00,'65');
+INSERT INTO customer VALUES
+('687','Lee''s Sport and Appliance','282 Evergreen','Altonville','FL','32543',2851.00,5000.00,'35');
+INSERT INTO customer VALUES
+('725','Deerfield''s Four Seasons','282 Columbia','Sheldon','FL','33553',248.00,7500.00,'35');
+INSERT INTO customer VALUES
+('842','All Season','28 Lakeview','Grove','FL','33321',8221.00,7500.00,'20');
+
+
+INSERT INTO orders VALUES ('21608','20-OCT-2003','148');
+INSERT INTO orders VALUES ('21610','20-OCT-2003','356');
+INSERT INTO orders VALUES ('21613','21-OCT-2003','408');
+INSERT INTO orders VALUES ('21614','21-OCT-2003','282');
+INSERT INTO orders VALUES ('21617','23-OCT-2003','608');
+INSERT INTO orders VALUES ('21619','23-OCT-2003','148');
+INSERT INTO orders VALUES ('21623','23-OCT-2003','608');
+INSERT INTO orders VALUES ('21700','15-OCT-2019','608');
+INSERT INTO orders VALUES ('21719','3-JAN-2019','148');
+INSERT INTO orders VALUES ('21723','17-FEB-2019','608');
+
+INSERT INTO part VALUES ('AT94','Iron',50,'HW','3',24.95);
+INSERT INTO part VALUES ('BV06','Home Gym',45,'SG','2',794.95);
+INSERT INTO part VALUES ('CD52','Microwave Oven',32,'AP','1',165.00);
+INSERT INTO part VALUES ('DL71','Cordless Drill',21,'HW','3',129.95);
+INSERT INTO part VALUES ('DR93','Gas Range',8,'AP','2',495.00);
+INSERT INTO part VALUES ('DW11','Washer',12,'AP','3',399.99);
+INSERT INTO part VALUES ('FD21','Stand Mixer',22,'HW','3',159.95);
+INSERT INTO part VALUES ('KL62','Dryer',12,'AP','1',349.95);
+INSERT INTO part VALUES ('KT03','Dishwasher',8,'AP','3',595.00);
+INSERT INTO part VALUES ('KV29','Treadmill',9,'SG','2',1390.00);
+
+INSERT INTO orderline VALUES ('21608','AT94',11,21.95);
+INSERT INTO orderline VALUES ('21610','DR93',1,495.00);
+INSERT INTO orderline VALUES ('21610','DW11',1,399.99);
+INSERT INTO orderline VALUES ('21613','KL62',4,329.95);
+INSERT INTO orderline VALUES ('21614','KT03',2,595.00);
+INSERT INTO orderline VALUES ('21617','BV06',2,794.95);
+INSERT INTO orderline VALUES ('21617','CD52',4,150.00);
+INSERT INTO orderline VALUES ('21619','DR93',1,495.00);
+INSERT INTO orderline VALUES ('21623','KV29',2,1290.00);
+INSERT INTO orderline VALUES ('21700','KV29',2,1490.00);
+INSERT INTO orderline VALUES ('21719','KV29',2,1390.00);
+INSERT INTO orderline VALUES ('21723','AT94',11,121.95);
+INSERT INTO orderline VALUES ('21723','BV06',2,799.95);
+
+SELECT partnum, description
+FROM part
+MINUS
+SELECT part.partnum, description
+FROM part, orderline
+WHERE part.partnum = orderline.partnum;
+
+SELECT ordernum, orderdate
+FROM orders
+WHERE orderdate='15-OCT-2019'
+UNION
+SELECT ordernum, orderdate
+FROM customer, orders
+WHERE customer.customernum = orders.customernum
+AND repnum=20;
+
+
+SELECT customernum, customername
+FROM customer
+WHERE repnum = '65'
+INTERSECT
+SELECT customer.customernum, customername
+FROM customer, orders
+WHERE customer.customernum = orders.customernum;
+
+
+SELECT customernum, customername
+FROM customer
+WHERE repnum = '65'
+INTERSECT
+SELECT customer.customernum, customername
+FROM customer, orders
+WHERE customer.customernum = orders.customernum
+AND repnum = '65';
+
+SELECT ordernum, orderdate
+FROM orders
+WHERE TO_CHAR(orderdate,'MON')='OCT'
+INTERSECT
+SELECT ordernum, orderdate
+FROM customer, orders
+WHERE customer.customernum = orders.customernum
+AND city='Grove'
+AND TO_CHAR(orderdate,'MON')='OCT';
+
+
+
+SELECT c.customernum, customername, o.ordernum
+FROM customer c
+LEFT OUTER JOIN orders o ON c.customernum = o.customernum
+ORDER BY c.customernum; 
+
+
+
+SELECT p.partnum, description, ordernum,
+numordered AS "Number of units ordered" 
+FROM part p
+LEFT OUTER JOIN orderline ol 
+ON p.partnum = ol.partnum
+ORDER BY partnum; 
+
+SELECT p.partnum, ordernum
+FROM part p
+LEFT OUTER JOIN orderline ol 
+ON p.partnum = ol.partnum
+;
