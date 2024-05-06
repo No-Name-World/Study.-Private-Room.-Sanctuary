@@ -1,0 +1,66 @@
+-----------------------------------------------------------------------
+-- NOTE : make sure that the ORACLE default date setting is correct - 
+-- need to check the default setting for date
+-- SELECT sysdate FROM dual; 
+-----------------------------------------------------------------------
+
+
+ALTER SESSION SET NLS_DATE_FORMAT='YYYY/MM/DD';
+
+DROP TABLE  hire;
+DROP TABLE appliance;
+DROP TABLE  model;
+DROP TABLE rrcustomer;
+
+CREATE TABLE rrcustomer ( 
+      cust_num CHAR(4) PRIMARY KEY,
+      title CHAR(4), 
+      name VARCHAR(20)   ) ;
+
+CREATE TABLE model ( 
+      model_code CHAR(5) PRIMARY KEY,
+      name VARCHAR(40), 
+      mth_charge NUMBER(6,2)  );
+
+CREATE TABLE appliance ( 
+     stock_num CHAR(4) PRIMARY KEY,
+     model_num CHAR(5), 
+     condition1 CHAR,
+     date_maint DATE, 
+	FOREIGN KEY (model_num) REFERENCES MODEL(MODEL_CODE)  );
+
+CREATE TABLE hire  ( 
+      CONSTRAINT PK_HIRE PRIMARY KEY (stock_num , date_hired),
+      stock_num CHAR(4),
+      date_hired DATE,
+      cust_num CHAR(4), 
+      paid_till DATE, 
+      date_ret DATE,
+	FOREIGN KEY (stock_num) REFERENCES APPLIANCE(stock_num),
+	FOREIGN KEY (cust_num) REFERENCES rrcUSTOMER(cust_num) );   
+
+INSERT INTO rrcustomer VALUES ('1001','Mr','Isaac Newton') ;
+INSERT INTO rrcustomer VALUES ('1002','Ms','Freda Bloggs') ;
+INSERT INTO rrcustomer VALUES ('1003','Dr','Stan Smith') ;
+INSERT INTO rrcustomer VALUES ('1004','Ms','Alice Adams') ;
+INSERT INTO rrcustomer VALUES ('1005','Mr','Max Miller') ;
+INSERT INTO rrcustomer VALUES ('1006','Dr','Zeg Zebra') ;
+
+INSERT INTO model VALUES ('AX323','50 cm National Colour TV',89) ;
+INSERT INTO model VALUES ('AX747','90 cm Sanyo Colour TV',169) ;
+INSERT INTO model VALUES ('BX111','4 channel integrated video rectifier',45) ;
+ 
+INSERT INTO appliance VALUES ('2001','AX323','E',null) ;
+INSERT INTO appliance VALUES ('2002','AX323','S','1991/07/07') ;
+INSERT INTO appliance VALUES ('2003','BX111','R',null) ;
+INSERT INTO appliance VALUES ('2004','AX323','E','1991/06/06') ;
+INSERT INTO appliance VALUES ('2005','AX747','E',null) ;
+INSERT INTO appliance VALUES ('2006','AX747','R','1991/08/08') ;
+
+INSERT INTO hire VALUES ('2001','1980/01/01','1005','1980/02/01','1980/02/01') ;
+INSERT INTO hire VALUES ('2003','1990/01/05','1001','1990/07/05','1990/07/05') ;
+INSERT INTO hire VALUES ('2004','1990/01/05','1001','1990/02/05','1990/02/05') ;
+INSERT INTO hire VALUES ('2004','1991/02/01','1001','1992/02/02',null) ;
+INSERT INTO hire VALUES ('2005','1991/02/10','1003','1992/12/12',null) ;
+
+
