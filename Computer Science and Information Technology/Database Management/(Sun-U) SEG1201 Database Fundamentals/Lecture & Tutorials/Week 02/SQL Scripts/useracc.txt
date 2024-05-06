@@ -1,0 +1,15 @@
+REM ******************************
+REM CREATE TABLE useracc
+REM ******************************
+CREATE TABLE useracc 
+(	login_id                     CHAR(6),	 
+	fullname  	VARCHAR2(30),
+	date-created 	DATE,
+	person_in_charge  	VARCHAR2(30));
+
+INSERT INTO useracc VALUES ('mhling', 'Ling Mee Hong','21-Aug-22','Benjamin');
+INSERT INTO useracc VALUES ('mhlong', 'Long Mis Hock', '22-Aug-22',"Rachael');
+INSERT INTO useracc VALUE ('mhbeng', 'Beng Mok Har','24-Aug-22', 'Rachael');
+INSERT INTO useracc VALUES ('mhtong', 'Tong Mae Hin', '26-Aug-22','Syed Ali')
+INSERT INTO useracc VALUES ('mhyung', 'Yung Mun Ho', '26/08/22',"Benjamin");
+ 
