@@ -1,0 +1,189 @@
+--------------------------------------------------------------------------------------------
+-- '--' these two dashes indicates comment. 
+-- In other words, ORACLE ignores any characters after the two dashes
+--
+-- NOTE : make sure that the ORACLE default date setting is correct - 
+-- you can check the default setting for date by:
+--
+-- SELECT sysdate FROM dual; 
+
+-- the following command changes the date format setting
+-- ALTER SESSION SET NLS_DATE_FORMAT='YYYY/MM/DD';
+--------------------------------------------------------------------------------------------
+
+-- TABLE prize - there are 3 position for each event. This table stores the event and its prize money for each position
+-- TABLE entry1 - stores the details of the horse that took an event and its position
+-- TABLE event - stores the details of each event
+-- TABLE judge - stores the details of each judge
+-- TABLE shows - stores the details of each show
+-- TABLE horse - stores the details of each horse; values: S stands for stallion (male horse), M stands for mare (female horse)
+-- column names in horse table: 'dam' refers to the mother horse, 'sire' refers to father horse
+-- column names in horse table: 'born' refers to the year the horse was born, 'died' refers to year the horse was dead; 
+
+
+
+CLEAR SCREEN
+
+ALTER SESSION SET NLS_DATE_FORMAT='DD-MON-YYYY';
+
+REM *************************
+REM DROP TABLES
+REM *************************
+DROP TABLE prize;
+DROP TABLE entry1;
+DROP TABLE event;
+DROP TABLE judge;
+DROP TABLE shows;
+DROP TABLE horse;
+
+REM *************************
+REM CREATE TABLES
+REM *************************
+CREATE TABLE shows	
+(	show_id  CHAR(2)	PRIMARY KEY,
+	show_name  	VARCHAR2(20),
+	show_held  	DATE,
+	show_address  	VARCHAR2(30));
+
+CREATE TABLE judge      
+(	judge_id  	CHAR(2)	PRIMARY KEY,
+	judge_name  	VARCHAR2(10),
+	judge_address  	VARCHAR2(20));
+
+CREATE TABLE event 	
+(	event_id  	CHAR(4)	PRIMARY KEY,
+	show_id	  	CHAR(2),
+	event_name  	VARCHAR2(20),
+	judge_id  	CHAR(2),
+FOREIGN KEY (judge_id) REFERENCES judge(judge_id),
+FOREIGN KEY (show_id) REFERENCES shows(show_id));
+
+CREATE TABLE horse 	
+(	horse_id  	CHAR(3)	PRIMARY KEY,
+	horse_name  	VARCHAR(10),
+	colour	  	VARCHAR(10),
+	sire 	  	CHAR(3),
+	dam	  	CHAR(3),
+	born	  	NUMBER(4),
+	died	  	NUMBER(4),
+	gender	  	CHAR);
+
+CREATE TABLE entry1	
+(	CONSTRAINT PK_entry1 PRIMARY KEY (event_id, place),
+	event_id  	CHAR(4),
+	horse_id  	CHAR(3),
+	place	  	CHAR,
+FOREIGN KEY (horse_id) REFERENCES horse(horse_id),
+FOREIGN KEY (event_id) REFERENCES event(event_id));
+
+CREATE TABLE prize	
+(CONSTRAINT PK_prize PRIMARY KEY (event_CODE, place),
+	event_CODE  	CHAR(4),
+	place	  	CHAR,
+	prizemoney  	NUMBER(6,2),
+FOREIGN KEY (event_CODE) REFERENCES event(event_id));
+ 
+
+REM *************************
+REM INSERT shows RECORDS
+REM *************************
+INSERT INTO shows VALUES ('01', 'DUBBO', '05-JUL-1995', '23 WINGEWARRA ST, DUBBO');
+INSERT INTO shows VALUES ('02', 'YOUNG','13-SEP-1995', '13 CHERRY LANE, YOUNG');
+INSERT INTO shows VALUES ('03', 'CASTLE HILL','04-MAY-1996', 'SHOWGROUND, CASTLE HILL');
+INSERT INTO shows VALUES ('04', 'ROYAL EASTER','21-APR-1996', 'PO BOX 13, GPO SYDNEY');
+INSERT INTO shows VALUES ('05', 'DUBBO','01-JUL-1996', '17 FITZROY ST, DUBBO');
+INSERT INTO shows VALUES ('06', 'HERO','01-JUL-2016', '17 JONE AVENUE, SHANE');
+INSERT INTO shows VALUES ('07', 'TOFFEE SURPRISE','01-DEC-2018', '7 TROY ST, WEST WILD');
+
+REM *************************
+REM INSERT judge RECORDS
+REM *************************
+INSERT INTO judge VALUES ('01', 'SMITH', 'MELBOURNE');
+INSERT INTO judge VALUES ('02', 'GREEN', 'COOTAMUNDRA');
+INSERT INTO judge VALUES ('03', 'GATES', 'DUNKELD');
+INSERT INTO judge VALUES ('04', 'SMITH', 'SYDNEY');
+INSERT INTO judge VALUES ('05', 'SMITH', 'GOLD COAST');
+INSERT INTO judge VALUES ('06', 'THOMAS', 'PERTH');
+
+REM *************************
+REM INSERT event RECORDS
+REM *************************
+INSERT INTO event VALUES ('0101', '01','DRESSAGE', '01');
+INSERT INTO event VALUES ('0102', '01','JUMPING', '02');
+INSERT INTO event VALUES ('0103', '01','LED IN', '01');
+INSERT INTO event VALUES ('0201', '02','LED IN', '02');
+INSERT INTO event VALUES ('0301', '03','LED IN', '01');
+INSERT INTO event VALUES ('0401', '04','DRESSAGE', '04');
+INSERT INTO event VALUES ('0501', '05','DRESSAGE', '01');
+INSERT INTO event VALUES ('0502', '05','FLAG AND POLE', '02');
+INSERT INTO event VALUES ('0601', '06','DRESSAGE', '05');
+INSERT INTO event VALUES ('0602', '06','JUMPING', '06');
+INSERT INTO event VALUES ('0603', '06','LED IN', '06');
+INSERT INTO event VALUES ('0701', '07','LED IN', '05');
+ 
+REM *************************
+REM INSERT horse RECORDS
+REM *************************
+INSERT INTO horse VALUES ('101', 'FLASH', 'WHITE', '201', '301', 1990,NULL, 'S');
+INSERT INTO horse VALUES ('102', 'STAR', 'BROWN', '201', '302', 1991,NULL, 'M');
+INSERT INTO horse VALUES ('201', 'BOXER', 'GREY', '401', '501', 1980,NULL, 'S');
+INSERT INTO horse VALUES ('301', 'DAISY', 'WHITE', '401', '502', 1981,NULL, 'M');
+INSERT INTO horse VALUES ('302', 'TINKLE', 'BROWN', '401', '501', 1981,1994, 'M');
+INSERT INTO horse VALUES ('401', 'SNOWY', 'WHITE', NULL,NULL, 1976,1984, 'S');
+INSERT INTO horse VALUES ('501', 'BLUEBELL', 'GREY', NULL,NULL,1975,1982, 'M');
+INSERT INTO horse VALUES ('502', 'SALLY', 'WHITE',NULL,NULL, 1974,1987, 'M');
+INSERT INTO horse VALUES ('601', 'ISABELLE', 'WHITE',401,501, 1981,1997, 'M');
+INSERT INTO horse VALUES ('602', 'BELLA', 'WHITE',401,502, 1982,1997, 'M');
+INSERT INTO horse VALUES ('603', 'ELLIOT', 'BLACK',401,502, 1982,1997, 'S');
+INSERT INTO horse VALUES ('604', 'FAMOUS', 'BLACK',603,601, 1996,2017, 'S');
+INSERT INTO horse VALUES ('605', 'SUNNY', 'GREY',603,601, 1996,2016, 'M');
+INSERT INTO horse VALUES ('606', 'MOUS', 'BLACK',604,605, 2005, NULL,'S');
+INSERT INTO horse VALUES ('607', 'SKY', 'BROWN',604,605, 2004,NULL, 'M');
+INSERT INTO horse VALUES ('608', 'SKID', 'BLACK',604,605, 2014,NULL, 'M');
+INSERT INTO horse VALUES ('609', 'GALLOP', 'GREY',604,605, 2015,NULL, 'S');
+INSERT INTO horse VALUES ('610', 'CLEVER', 'GREY',604,605, 2014,NULL, 'M');
+  
+
+REM *************************
+REM INSERT entry1 RECORDS
+REM *************************
+INSERT INTO entry1 VALUES ('0101', '101', '1');
+INSERT INTO entry1 VALUES ('0101', '102', '2');
+INSERT INTO entry1 VALUES ('0101', '201', '3');
+INSERT INTO entry1 VALUES ('0101', '301', '4');
+INSERT INTO entry1 VALUES ('0102', '201', '2');
+INSERT INTO entry1 VALUES ('0103', '102', '3');
+INSERT INTO entry1 VALUES ('0201', '101', '1');
+INSERT INTO entry1 VALUES ('0301', '301', '2');
+INSERT INTO entry1 VALUES ('0401', '102', '7');
+INSERT INTO entry1 VALUES ('0501', '102', '1');
+INSERT INTO entry1 VALUES ('0501', '301', '2');
+INSERT INTO entry1 VALUES ('0601', '601', '1');
+INSERT INTO entry1 VALUES ('0601', '602', '2');
+INSERT INTO entry1 VALUES ('0601', '603', '3');
+INSERT INTO entry1 VALUES ('0701', '601', '1');
+INSERT INTO entry1 VALUES ('0701', '610', '2');
+INSERT INTO entry1 VALUES ('0701', '609', '3');
+
+REM *************************
+REM INSERT prize RECORDS
+REM *************************
+INSERT INTO prize VALUES ('0101', '1', 120.00);
+INSERT INTO prize VALUES ('0101', '2', 60.00);
+INSERT INTO prize VALUES ('0101', '3', 30.00);
+INSERT INTO prize VALUES ('0102', '1', 10.00);
+INSERT INTO prize VALUES ('0102', '2', 5.00);
+INSERT INTO prize VALUES ('0103', '1', 100.00);
+INSERT INTO prize VALUES ('0103', '2', 60.00);
+INSERT INTO prize VALUES ('0103', '3', 40.00);
+INSERT INTO prize VALUES ('0201', '1', 10.00);
+INSERT INTO prize VALUES ('0201', '2', 5.00);
+INSERT INTO prize VALUES ('0401', '1', 1000.00);
+INSERT INTO prize VALUES ('0401', '2', 500.00);
+INSERT INTO prize VALUES ('0401', '3', 250.00);
+INSERT INTO prize VALUES ('0501', '1', 10.00);
+INSERT INTO prize VALUES ('0501', '2', 5.00);
+INSERT INTO prize VALUES ('0601', '1', 520.00);
+INSERT INTO prize VALUES ('0601', '2', 400.00);
+INSERT INTO prize VALUES ('0601', '3', 200.00);
+INSERT INTO prize VALUES ('0701', '1', 1000.00);
